@@ -1,0 +1,6086 @@
+{
+  "root_texts": [
+    {
+      "metadata": {
+        "text_type": "root",
+        "instance_type": "critical",
+        "source": "Openpecha",
+        "colophon": "བཅོམ་ལྡན་འདས་མ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པའི་སྙིང་པོ། །",
+        "incipit_title": {
+          "bo": "ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པའི་སྙིང་པོ།"
+        },
+        "language": "bo",
+        "category_id": "rw8oWUd1WtwqeD2x0ZMSm",
+        "license": "CC0",
+        "copyright": "Public Domain",
+        "contributions": [],
+        "date": "2026-02-01",
+        "bdrc": "WA0RK0529"
+      },
+      "segment_annotation": [
+        {
+          "span": {
+            "start": 0,
+            "end": 54
+          }
+        },
+        {
+          "span": {
+            "start": 54,
+            "end": 108
+          }
+        },
+        {
+          "span": {
+            "start": 108,
+            "end": 172
+          }
+        },
+        {
+          "span": {
+            "start": 172,
+            "end": 188
+          }
+        },
+        {
+          "span": {
+            "start": 188,
+            "end": 245
+          }
+        },
+        {
+          "span": {
+            "start": 245,
+            "end": 279
+          }
+        },
+        {
+          "span": {
+            "start": 279,
+            "end": 418
+          }
+        },
+        {
+          "span": {
+            "start": 418,
+            "end": 516
+          }
+        },
+        {
+          "span": {
+            "start": 516,
+            "end": 656
+          }
+        },
+        {
+          "span": {
+            "start": 656,
+            "end": 716
+          }
+        },
+        {
+          "span": {
+            "start": 716,
+            "end": 846
+          }
+        },
+        {
+          "span": {
+            "start": 846,
+            "end": 1305
+          }
+        },
+        {
+          "span": {
+            "start": 1305,
+            "end": 1345
+          }
+        },
+        {
+          "span": {
+            "start": 1345,
+            "end": 1345
+          }
+        },
+        {
+          "span": {
+            "start": 1345,
+            "end": 1416
+          }
+        },
+        {
+          "span": {
+            "start": 1416,
+            "end": 1496
+          }
+        },
+        {
+          "span": {
+            "start": 1496,
+            "end": 1646
+          }
+        },
+        {
+          "span": {
+            "start": 1646,
+            "end": 1866
+          }
+        },
+        {
+          "span": {
+            "start": 1866,
+            "end": 1953
+          }
+        },
+        {
+          "span": {
+            "start": 1953,
+            "end": 2131
+          }
+        },
+        {
+          "span": {
+            "start": 2131,
+            "end": 2243
+          }
+        },
+        {
+          "span": {
+            "start": 2243,
+            "end": 2339
+          }
+        },
+        {
+          "span": {
+            "start": 2339,
+            "end": 2499
+          }
+        },
+        {
+          "span": {
+            "start": 2499,
+            "end": 2733
+          }
+        },
+        {
+          "span": {
+            "start": 2733,
+            "end": 2789
+          }
+        },
+        {
+          "span": {
+            "start": 2789,
+            "end": 2890
+          }
+        },
+        {
+          "span": {
+            "start": 2890,
+            "end": 3071
+          }
+        },
+        {
+          "span": {
+            "start": 3071,
+            "end": 3180
+          }
+        },
+        {
+          "span": {
+            "start": 3180,
+            "end": 3225
+          }
+        },
+        {
+          "span": {
+            "start": 3225,
+            "end": 3266
+          }
+        },
+        {
+          "span": {
+            "start": 3266,
+            "end": 3508
+          }
+        },
+        {
+          "span": {
+            "start": 3508,
+            "end": 3565
+          }
+        }
+      ],
+      "biblography_annotation": [],
+      "content": "བཅོམ་ལྡན་འདས་མ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པའི་སྙིང་པོ། །༄༅། །​རྒྱ་གར་སྐད་དུ། བྷ་ག་བ་ཏི་པྲ་ཛྙ་པ་ར་མི་ཏཱྀ་ཧྲད་ཡ།བོད་སྐད་དུ། བཅོམ་ལྡན་འདས་མ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པའི་སྙིང་པོ།བམ་པོ་གཅིག་གོ །​བཅོམ་ལྡན་འདས་མ་ཤེས་རབ་ཀྱི་ཕ་རོལ་དུ་ཕྱིན་པ་ལ་ཕྱག་འཚལ་ལོ། །​འདི་སྐད་བདག་གིས་ཐོས་པ་དུས་གཅིག་ན།བཅོམ་ལྡན་འདས་རྒྱལ་པོའི་ཁབ་བྱ་རྒོད་ཕུང་པོའི་རི་ལ་དགེ་སློང་གི་དགེ་འདུན་ཆེན་པོ་དང་། ​བྱང་ཆུབ་སེམས་དཔའི་དགེ་འདུན་ཆེན་པོ་དང་ཐབས་ཅིག་ཏུ་བཞུགས་ཏེ།དེའི་ཚེ་བཅོམ་ལྡན་འདས་ཟབ་མོ་སྣང་བ་ཞེས་བྱ་བའི་ཆོས་ཀྱི་རྣམ་གྲངས་ཀྱི་ཏིང་ངེ་འཛིན་ལ་སྙོམས་པར་ཞུགས་སོ། །​ཡང་དེའི་ཚེ་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་འཕགས་པ་སྤྱན་རས་གཟིགས་དབང་ཕྱུག་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ཟབ་མོའི་སྤྱོད་པ་ཉིད་ལ་རྣམ་པར་བལྟ་ཞིང་།ཕུང་པོ་ལྔ་པོ་དེ་དག་ལ་ཡང་རང་བཞིན་གྱིས་སྟོང་པར་རྣམ་པར་བལྟའོ། །​དེ་ནས་སངས་རྒྱས་ཀྱི་མཐུས། ​ཚེ་དང་ལྡན་པ་ཤཱ་རིའི་བུས་བྱང་ཆུབ་སེམས་དཔའ་ཆེན་པོ་འཕགས་པ་སྤྱན་རས་གཟིགས་དབང་ཕྱུག་ལ་འདི་སྐད་ཅེས་སྨྲས་སོ། །​རིགས་ཀྱི་བུ་གང་ལ་ལ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ཟབ་མོའི་སྤྱོད་པ་སྤྱད་པར་འདོད་པ་དེས་ཇི་ལྟར་བསླབ་པར་བྱ། དེ་སྐད་ཅེས་སྨྲས་པ་དང་། བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་འཕགས་པ་སྤྱན་རས་གཟིགས་དབང་ཕྱུག་གིས་ཚེ་དང་ལྡན་པ་ཤཱ་ར་དྭ་ཏའི་བུ་ལ་འདི་སྐད་ཅེས་སྨྲས་སོ། །​ཤཱ་རིའི་བུ་རིགས་ཀྱི་བུའམ། རིགས་ཀྱི་བུ་མོ་གང་ལ་ལ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ཟབ་མོའི་སྤྱོད་པ་སྤྱད་པར་འདོད་པ་དེས་འདི་ལྟར་རྣམ་པར་བལྟ་བར་བྱ་སྟེ། ​ཕུང་པོ་ལྔ་པོ་དེ་དག་ཀྱང་རང་བཞིན་གྱིས་སྟོང་པར་རྣམ་པར་ཡང་དག་པར་རྗེས་སུ་བལྟའོ། །​གཟུགས་སྟོང་པའོ། །སྟོང་པ་ཉིད་གཟུགས་སོ། །​གཟུགས་ལས་སྟོང་པ་ཉིད་གཞན་མ་ཡིན། སྟོང་པ་ཉིད་ལས་ཀྱང་གཟུགས་གཞན་མ་ཡིན་ནོ། །​དེ་བཞིན་དུ་ཚོར་བ་དང་། ​འདུ་ཤེས་དང་། འདུ་བྱེད་དང་། རྣམ་པར་ཤེས་པ་རྣམས་སྟོང་པའོ། །​ཤཱ་རིའི་བུ་དེ་ལྟ་བས་ན་ཆོས་ཐམས་ཅད་སྟོང་པ་ཉིད་དེ། མཚན་ཉིད་མེད་པ། མ་སྐྱེས་པ། ​མ་འགགས་པ། དྲི་མ་མེད་པ། དྲི་མ་དང་བྲལ་བ་མེད་པ། ​བྲི་བ་མེད་པ། གང་བ་མེད་པའོ། །​ཤཱ་རིའི་བུ་དེ་ལྟ་བས་ན་སྟོང་པ་ཉིད་ལ་གཟུགས་མེད། ཚོར་བ་མེད། ​འདུ་ཤེས་མེད། འདུ་བྱེད་མེད། རྣམ་པར་ཤེས་པ་མེད། མིག་མེད། རྣ་བ་མེད། སྣ་མེད། ལྕེ་མེད། ལུས་མེད། ཡིད་མེད །གཟུགས་མེད། སྒྲ་མེད། དྲི་མེད། རོ་མེད། རེག་བྱ་མེད། ཆོས་མེད་དོ། །​མིག་གི་ཁམས་མེད་པ་ནས་ཡིད་ཀྱི་ཁམས་མེད། ཡིད་ཀྱི་རྣམ་པར་ཤེས་པའི་ཁམས་ཀྱི་བར་དུ་ཡང་མེད་དོ། །​མ་རིག་པ་མེད། ​མ་རིག་པ་ཟད་པ་མེད་པ་ནས་རྒ་ཤི་མེད། ​རྒ་ཤི་ཟད་པའི་བར་དུ་ཡང་མེད་དོ། ། སྡུག་བསྔལ་བ་དང་། ཀུན་འབྱུང་བ་དང་། འགོག་པ་དང་། ལམ་མེད། ཡེ་ཤེས་མེད། ཐོབ་པ་མེད། མ་ཐོབ་པ་ཡང་མེད་དོ། །​ཤཱ་རིའི་བུ་དེ་ལྟ་བས་ན་བྱང་ཆུབ་སེམས་དཔའ་རྣམས་ཐོབ་པ་མེད་པའི་ཕྱིར། ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ལ་བརྟེན་ཅིང ་གནས་ཏེ།སེམས་ལ་སྒྲིབ་པ་མེད་པས་སྐྲག་པ་མེད་དེ། ཕྱིན་ཅི་ལོག་ལས་ཤིན་ཏུ་འདས་ནས་མྱ་ངན་ལས་འདས་པར་མཐར་ཕྱིན་ཏོ། །​དུས་གསུམ་དུ་རྣམ་པར་བཞུགས་པའི་སངས་རྒྱས་ཐམས་ཅད་ཀྱང་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ལ་བརྟེན་ནས་བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་ཏུ་མངོན་པར་རྫོགས་པར་སངས་རྒྱས་སོ། །​དེ་ལྟ་བས་ན་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པའི་སྔགས། རིག་པ་ཆེན་པོའི་སྔགས། བླ་ན་མེད་པའི་སྔགས། མི་མཉམ་པ་དང་མཉམ་པའི་སྔགས། སྡུག་བསྔལ་ཐམས་ཅད་རབ་ཏུ་ཞི་བར་བྱེད་པའི་སྔགས། མི་རྫུན་པས་ན་བདེན་པར་ཤེས་པར་བྱ་སྟེ། ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པའི་སྔགས་སྨྲས་པ།ཏདྱ་ཐཱ། ག་ཏེ་ག་ཏེ་པཱ་ར་ག་ཏེ། པཱ་ར་སཾ་ག་ཏེ། བོ་དྷི་སྭ་ཧཱ།ཤཱ་རིའི་བུ་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་དེ་ལྟར་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ཟབ་མོ་ལ་བསླབ་པར་བྱའོ། །​དེ་ནས་བཅོམ་ལྡན་འདས་ཏིང་ངེ་འཛིན་དེ་ལས་བཞེངས་ཏེ། བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོས་འཕགས་པ ་སྤྱན་རས་དབང་ཕྱུག་ལ་ལེགས་སོ་ཞེས་བྱ་བ་བྱིན་ནས། ལེགས་སོ་ལེགས་སོ། རིགས་ཀྱི་བུ་དེ་དེ་བཞིན་ནོ། །​རིགས་ཀྱི་བུ་དེ་དེ་བཞིན་ཏེ། ཇི་ལྟར་ཁྱོད་ཀྱིས་བསྟན་པ་བཞིན་དུ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ཟབ་མོ་ལ་སྤྱད་པར་བྱ་སྟེ།དེ་བཞིན་གཤེགས་པ་རྣམས་ཀྱང་རྗེས་སུ་ཡི་རང་ངོ་། །​བཅོམ་ལྡན་འདས་ཀྱིས་དེ་སྐད་ཅེས་བཀའ་སྩལ་ནས།ཚེ་དང་ལྡན་པ་ཤཱ་ར་དྭ་ཏིའི་བུ་དང་། བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་སྤྱན་རས་གཟིགས་དབང་ཕྱུག་དང་། ཐམས་ཅད་དང་ལྡན་པའི་འཁོར་དེ་དག་དང་། ​ལྷ་དང་། མི་དང་། ལྷ་མ་ཡིན་དང་། དྲི་ཟར་བཅས་པའི་འཇིག་རྟེན་ཡི་རངས་ཏེ། བཅོམ་ལྡན་འདས་ཀྱིས་གསུངས་པ་ལ་མངོན་པར་བསྟོད་དོ། །​འཕགས་པ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པའི་སྙིང་པོ་རྫོགས་སོ། །​"
+    }
+  ],
+  "translations": [
+    {
+      "metadata": {
+        "text_type": "translation",
+        "instance_type": "critical",
+        "source": "OpenPecha",
+        "colophon": "[विस्तरमातृका]",
+        "incipit_title": {
+          "sa": "प्रज्ञापारमिताहृदय"
+        },
+        "language": "sa",
+        "category_id": "rw8oWUd1WtwqeD2x0ZMSm",
+        "license": "CC0",
+        "copyright": "Public Domain",
+        "contributions": [],
+        "date": "2026-02-01",
+        "bdrc": ""
+      },
+      "segment_annotation": [
+        {
+          "span": {
+            "start": 0,
+            "end": 14
+          }
+        },
+        {
+          "span": {
+            "start": 14,
+            "end": 29
+          }
+        },
+        {
+          "span": {
+            "start": 29,
+            "end": 45
+          }
+        },
+        {
+          "span": {
+            "start": 45,
+            "end": 149
+          }
+        },
+        {
+          "span": {
+            "start": 149,
+            "end": 205
+          }
+        },
+        {
+          "span": {
+            "start": 205,
+            "end": 320
+          }
+        },
+        {
+          "span": {
+            "start": 320,
+            "end": 366
+          }
+        },
+        {
+          "span": {
+            "start": 366,
+            "end": 552
+          }
+        },
+        {
+          "span": {
+            "start": 552,
+            "end": 809
+          }
+        },
+        {
+          "span": {
+            "start": 809,
+            "end": 838
+          }
+        },
+        {
+          "span": {
+            "start": 838,
+            "end": 885
+          }
+        },
+        {
+          "span": {
+            "start": 885,
+            "end": 925
+          }
+        },
+        {
+          "span": {
+            "start": 925,
+            "end": 968
+          }
+        },
+        {
+          "span": {
+            "start": 968,
+            "end": 1056
+          }
+        },
+        {
+          "span": {
+            "start": 1056,
+            "end": 1247
+          }
+        },
+        {
+          "span": {
+            "start": 1247,
+            "end": 1308
+          }
+        },
+        {
+          "span": {
+            "start": 1308,
+            "end": 1420
+          }
+        },
+        {
+          "span": {
+            "start": 1420,
+            "end": 1509
+          }
+        },
+        {
+          "span": {
+            "start": 1509,
+            "end": 1571
+          }
+        },
+        {
+          "span": {
+            "start": 1571,
+            "end": 1662
+          }
+        },
+        {
+          "span": {
+            "start": 1662,
+            "end": 1803
+          }
+        },
+        {
+          "span": {
+            "start": 1803,
+            "end": 1847
+          }
+        },
+        {
+          "span": {
+            "start": 1847,
+            "end": 1924
+          }
+        },
+        {
+          "span": {
+            "start": 1924,
+            "end": 2029
+          }
+        },
+        {
+          "span": {
+            "start": 2029,
+            "end": 2121
+          }
+        },
+        {
+          "span": {
+            "start": 2121,
+            "end": 2148
+          }
+        },
+        {
+          "span": {
+            "start": 2148,
+            "end": 2163
+          }
+        },
+        {
+          "span": {
+            "start": 2163,
+            "end": 2297
+          }
+        },
+        {
+          "span": {
+            "start": 2297,
+            "end": 2335
+          }
+        }
+      ],
+      "biblography_annotation": [],
+      "content": "[विस्तरमातृका]॥नमः सर्वज्ञाय॥एवं मया श्रुतम्।एकस्मिन् समये भगवान् राजगृहे विहरति स्म गृध्रकूटे पर्वते महता भिक्षुसंघेन सार्धं महता च बोधिसत्त्वसंघेन।तेन खलु समयेन भगवान् गम्भीरावसंबोधं नाम समाधिं समापन्नः।तेन च समयेन आर्यावलोकितेश्वरो बोधिसत्त्वो महासत्त्वो गम्भीरायां प्रज्ञापारमितायां चर्यां चरमाणः एवं व्यवलोकयति स्म।पञ्च स्कन्धांस्तांश्च स्वभावशून्यं व्यवलोकयति॥अथायुष्मान् शारिपुत्रो बुद्धानुभावेन आर्यावलोकितेश्वरं बोधिसत्त्वमेतदवोचत्- यः कश्चित् कुलपुत्रो [वा कुलदुहिता वा अस्यां] गम्भीरायां प्रज्ञापारमितायां चर्यां चर्तुकामः, कथं शिक्षितव्यः ?एवमुक्ते आर्यावलोकितेश्वरो बोधिसत्त्वो महासत्त्वः आयुष्मन्तं शारिपुत्रमेतदवोचत्- यः कश्चिच्छारिपुत्र कुलपुत्रो वा कुलदुहिता वा [अस्यां] गम्भीरायां प्रज्ञापारमितायां चर्यां चर्तुकामः, तेनैवं व्यवलोकितव्यम्-पञ्च स्कन्धांस्तांश्च स्वभावशून्यान् समनुपश्यति स्म।रूपं शून्यता, शून्यतैव रूपम्।रूपान्न पृथक् शून्यता, शून्यताया न पृथग् रूपम्।यद्रूपं सा शून्यता, या शून्यता तद्रूपम्।एवं वेदनासंज्ञासंस्कारविज्ञानानि च शून्यता।एवं शारिपुत्र सर्वधर्माः शून्यतालक्षणा अनुत्पन्ना अनिरुद्धा अमला विमला अनूना असंपूर्णाः।तस्मात्तर्हि शारिपुत्र शून्यतायां न रूपम्, न वेदना, न संज्ञा, न संस्काराः, न विज्ञानम्, न चक्षुर्न श्रोत्रं न घ्राणं न जिह्वा न कायो न मनो न रूपं न शब्दो न गन्धो न रसो न स्प्रष्टव्यं न धर्मः।न चक्षुर्धातुर्यावन्न मनोधातुर्न धर्मधातुर्न मनोविज्ञानधातुः।न विद्या नाविद्या न क्षयो यावन्न जरामरणं न जरामरणक्षयः, न दुःखसमुदयनिरोधमार्गा न ज्ञानं न प्राप्तिर्नाप्राप्तिः।तस्माच्छारिपुत्र अप्राप्तित्वेन बोधिसत्त्वानां प्रज्ञापारमितामाश्रित्य विहरति चित्तावरणः।चित्तावरणनास्तित्वादत्रस्तो विपर्यासातिक्रान्तो निष्ठनिर्वाणः।त्र्यध्वव्यवस्थिताः सर्वबुद्धाः प्रज्ञापारमितामाश्रित्य अनुत्तरां सम्यक्संबोधिमभिसंबुद्धाः।तस्माद् ज्ञातव्यः प्रज्ञापारमितामहामन्त्रः अनुत्तरमन्त्रः असमसममन्त्रः सर्वदुःखप्रशमनमन्त्रः सत्यममिथ्यत्वात् प्रज्ञापारमितायामुक्तो मन्त्रः।तद्यथा- गते गते पारगते पारसंगते बोधि स्वाहा।एवं शारिपुत्र गम्भीरायां प्रज्ञापारमितायां चर्यायां शिक्षितव्यं बोधिसत्त्वेन॥अथ खलु भगवान् तस्मात्समाधेर्व्युत्थाय आर्यावलोकितेश्वरस्य बोधिसत्त्वस्य साधुकारमदात्- साधु साधु कुलपुत्र।एवमेतत् कुलपुत्र, एवमेतद् गम्भीरायां प्रज्ञापारमितायां चर्यं चर्तव्यं यथा त्वया निर्दिष्टम्।अनुमोद्यते तथागतैरर्हद्भिः॥इदमवोचद्भगवान्।आनन्दमना आयुष्मान् शारिपुत्रः आर्यावलोकितेश्वरश्च बोधिसत्त्वः सा च सर्वावती परिषत् सदेवमानुषासुरगन्धर्वश्च लोको भगवतो भाषितमभ्यनन्दन्॥इति प्रज्ञापारमिताहृदयसूत्रं समाप्तम्।",
+      "target_annotation": [
+        {
+          "start": 0,
+          "end": 54
+        },
+        {
+          "start": 54,
+          "end": 108
+        },
+        {
+          "start": 245,
+          "end": 279
+        },
+        {
+          "start": 279,
+          "end": 418
+        },
+        {
+          "start": 418,
+          "end": 516
+        },
+        {
+          "start": 516,
+          "end": 656
+        },
+        {
+          "start": 656,
+          "end": 716
+        },
+        {
+          "start": 716,
+          "end": 846
+        },
+        {
+          "start": 846,
+          "end": 1305
+        },
+        {
+          "start": 1305,
+          "end": 1345
+        },
+        {
+          "start": 1345,
+          "end": 1345
+        },
+        {
+          "start": 1345,
+          "end": 1416
+        },
+        {
+          "start": 1416,
+          "end": 1496
+        },
+        {
+          "start": 1496,
+          "end": 1646
+        },
+        {
+          "start": 1646,
+          "end": 1866
+        },
+        {
+          "start": 1866,
+          "end": 1953
+        },
+        {
+          "start": 1953,
+          "end": 2131
+        },
+        {
+          "start": 2131,
+          "end": 2243
+        },
+        {
+          "start": 2243,
+          "end": 2339
+        },
+        {
+          "start": 2339,
+          "end": 2499
+        },
+        {
+          "start": 2499,
+          "end": 2733
+        },
+        {
+          "start": 2733,
+          "end": 2789
+        },
+        {
+          "start": 2789,
+          "end": 2890
+        },
+        {
+          "start": 2890,
+          "end": 3071
+        },
+        {
+          "start": 3071,
+          "end": 3180
+        },
+        {
+          "start": 3180,
+          "end": 3225
+        },
+        {
+          "start": 3225,
+          "end": 3266
+        },
+        {
+          "start": 3266,
+          "end": 3508
+        },
+        {
+          "start": 3508,
+          "end": 3565
+        }
+      ],
+      "alignment_annotation": [
+        {
+          "start": 0,
+          "end": 14
+        },
+        {
+          "start": 14,
+          "end": 29
+        },
+        {
+          "start": 29,
+          "end": 45
+        },
+        {
+          "start": 45,
+          "end": 149
+        },
+        {
+          "start": 149,
+          "end": 205
+        },
+        {
+          "start": 205,
+          "end": 320
+        },
+        {
+          "start": 320,
+          "end": 366
+        },
+        {
+          "start": 366,
+          "end": 552
+        },
+        {
+          "start": 552,
+          "end": 809
+        },
+        {
+          "start": 809,
+          "end": 838
+        },
+        {
+          "start": 838,
+          "end": 885
+        },
+        {
+          "start": 885,
+          "end": 925
+        },
+        {
+          "start": 925,
+          "end": 968
+        },
+        {
+          "start": 968,
+          "end": 1056
+        },
+        {
+          "start": 1056,
+          "end": 1247
+        },
+        {
+          "start": 1247,
+          "end": 1308
+        },
+        {
+          "start": 1308,
+          "end": 1420
+        },
+        {
+          "start": 1420,
+          "end": 1509
+        },
+        {
+          "start": 1509,
+          "end": 1571
+        },
+        {
+          "start": 1571,
+          "end": 1662
+        },
+        {
+          "start": 1662,
+          "end": 1803
+        },
+        {
+          "start": 1803,
+          "end": 1847
+        },
+        {
+          "start": 1847,
+          "end": 1924
+        },
+        {
+          "start": 1924,
+          "end": 2029
+        },
+        {
+          "start": 2029,
+          "end": 2121
+        },
+        {
+          "start": 2121,
+          "end": 2148
+        },
+        {
+          "start": 2148,
+          "end": 2163
+        },
+        {
+          "start": 2163,
+          "end": 2297
+        },
+        {
+          "start": 2297,
+          "end": 2335
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "text_type": "translation",
+        "instance_type": "critical",
+        "source": "Openpecha",
+        "colophon": "般若波羅密多心經",
+        "incipit_title": {
+          "zh": "般若波罗蜜多心经"
+        },
+        "language": "zh",
+        "category_id": "rw8oWUd1WtwqeD2x0ZMSm",
+        "license": "CC0",
+        "copyright": "Public Domain",
+        "contributions": [],
+        "date": "2026-02-01",
+        "bdrc": ""
+      },
+      "segment_annotation": [
+        {
+          "span": {
+            "start": 0,
+            "end": 8
+          }
+        },
+        {
+          "span": {
+            "start": 8,
+            "end": 25
+          }
+        },
+        {
+          "span": {
+            "start": 25,
+            "end": 37
+          }
+        },
+        {
+          "span": {
+            "start": 37,
+            "end": 40
+          }
+        },
+        {
+          "span": {
+            "start": 40,
+            "end": 52
+          }
+        },
+        {
+          "span": {
+            "start": 52,
+            "end": 59
+          }
+        },
+        {
+          "span": {
+            "start": 59,
+            "end": 87
+          }
+        },
+        {
+          "span": {
+            "start": 87,
+            "end": 104
+          }
+        },
+        {
+          "span": {
+            "start": 104,
+            "end": 127
+          }
+        },
+        {
+          "span": {
+            "start": 127,
+            "end": 139
+          }
+        },
+        {
+          "span": {
+            "start": 139,
+            "end": 163
+          }
+        },
+        {
+          "span": {
+            "start": 163,
+            "end": 248
+          }
+        },
+        {
+          "span": {
+            "start": 248,
+            "end": 257
+          }
+        },
+        {
+          "span": {
+            "start": 257,
+            "end": 266
+          }
+        },
+        {
+          "span": {
+            "start": 266,
+            "end": 280
+          }
+        },
+        {
+          "span": {
+            "start": 280,
+            "end": 313
+          }
+        },
+        {
+          "span": {
+            "start": 313,
+            "end": 374
+          }
+        },
+        {
+          "span": {
+            "start": 374,
+            "end": 386
+          }
+        },
+        {
+          "span": {
+            "start": 386,
+            "end": 432
+          }
+        },
+        {
+          "span": {
+            "start": 432,
+            "end": 458
+          }
+        },
+        {
+          "span": {
+            "start": 458,
+            "end": 477
+          }
+        },
+        {
+          "span": {
+            "start": 477,
+            "end": 499
+          }
+        },
+        {
+          "span": {
+            "start": 499,
+            "end": 553
+          }
+        },
+        {
+          "span": {
+            "start": 553,
+            "end": 576
+          }
+        },
+        {
+          "span": {
+            "start": 576,
+            "end": 599
+          }
+        },
+        {
+          "span": {
+            "start": 599,
+            "end": 636
+          }
+        },
+        {
+          "span": {
+            "start": 636,
+            "end": 660
+          }
+        },
+        {
+          "span": {
+            "start": 660,
+            "end": 668
+          }
+        },
+        {
+          "span": {
+            "start": 668,
+            "end": 675
+          }
+        },
+        {
+          "span": {
+            "start": 675,
+            "end": 730
+          }
+        }
+      ],
+      "biblography_annotation": [],
+      "content": "般若波羅密多心經印度語（梵語）裡 般若波羅蜜多心經藏語裡 般若波羅蜜多心經第一卷敬禮薄伽梵母般若波羅蜜多如是我聞，一時薄伽梵 住王舍城 鷲峰山中，與大苾蒭眾 及諸菩薩摩訶薩俱爾時世尊等入甚深明瞭三摩地法之異門複于爾時，觀自在菩薩摩訶薩 行深般若波羅蜜多時觀察照見五蘊體性悉皆是空時具壽舍利子承佛威力 舍利子 觀自在菩薩摩訶薩曰善男子 欲修行甚深般若波羅蜜多者 複當云何修學 作是語已 觀自在菩薩摩訶薩答 具壽舍利子言 舍利子 善男子 善女人等 欲修行甚深般若波羅蜜多者 彼應如是觀察 五蘊本性皆空色即是空 空即是色空不異色 色不異空如是 受 想 行 識亦複皆空舍利子 是故 諸法皆空 空相 不生 不滅 不垢 不離垢 不減 不增舍利子 是故 空性之中無色 無受 無想 無行 無識 無眼 無耳 無鼻 無舌 無身 無意 無色 無聲 無香 無味 無觸 無法無眼界 無意界 無意識界無無明 亦無無明盡 無老死 亦無老死盡。 是故 無苦 集 滅 及 無道 無智 無得 亦無不得舍利子 是故 諸菩薩眾 以無所得故 依止般若波羅蜜多心無障礙 無有恐怖 超過顛倒 究竟涅槃三世諸佛 依般若波羅蜜多故 證得無上正等菩提是故當知般若波羅蜜多大密咒者 是大明咒 是無上咒 是無等等咒 能除一切諸苦之咒 真實不虛 故說般若波羅蜜多咒唵 揭諦揭諦 波羅揭諦 波羅僧揭諦 菩提薩婆訶舍利子 菩薩摩訶薩 應如是修學甚深般若波羅蜜多爾時世尊從彼定起 告聖者觀自在菩薩摩訶薩曰 善哉 善哉 善哉 善男子 如是善男子 如是 如汝所說 彼當如是修學般若波羅蜜多一切如來亦當隨喜薄伽梵說是語已具壽舍利子 聖者觀自在菩薩摩訶薩 一切世間 神 人及 阿修羅及 乾闥婆等 聞佛所說 皆大歡喜 薄伽梵傳授 讚頌",
+      "target_annotation": [
+        {
+          "start": 0,
+          "end": 54
+        },
+        {
+          "start": 54,
+          "end": 108
+        },
+        {
+          "start": 108,
+          "end": 172
+        },
+        {
+          "start": 172,
+          "end": 188
+        },
+        {
+          "start": 188,
+          "end": 245
+        },
+        {
+          "start": 245,
+          "end": 279
+        },
+        {
+          "start": 279,
+          "end": 418
+        },
+        {
+          "start": 418,
+          "end": 516
+        },
+        {
+          "start": 516,
+          "end": 656
+        },
+        {
+          "start": 656,
+          "end": 716
+        },
+        {
+          "start": 716,
+          "end": 846
+        },
+        {
+          "start": 846,
+          "end": 1305
+        },
+        {
+          "start": 1305,
+          "end": 1345
+        },
+        {
+          "start": 1345,
+          "end": 1416
+        },
+        {
+          "start": 1416,
+          "end": 1496
+        },
+        {
+          "start": 1496,
+          "end": 1646
+        },
+        {
+          "start": 1646,
+          "end": 1866
+        },
+        {
+          "start": 1866,
+          "end": 1953
+        },
+        {
+          "start": 1953,
+          "end": 2131
+        },
+        {
+          "start": 2131,
+          "end": 2243
+        },
+        {
+          "start": 2243,
+          "end": 2339
+        },
+        {
+          "start": 2339,
+          "end": 2499
+        },
+        {
+          "start": 2499,
+          "end": 2733
+        },
+        {
+          "start": 2733,
+          "end": 2789
+        },
+        {
+          "start": 2789,
+          "end": 2890
+        },
+        {
+          "start": 2890,
+          "end": 3071
+        },
+        {
+          "start": 3071,
+          "end": 3180
+        },
+        {
+          "start": 3180,
+          "end": 3225
+        },
+        {
+          "start": 3225,
+          "end": 3266
+        },
+        {
+          "start": 3266,
+          "end": 3508
+        }
+      ],
+      "alignment_annotation": [
+        {
+          "start": 0,
+          "end": 8
+        },
+        {
+          "start": 8,
+          "end": 25
+        },
+        {
+          "start": 25,
+          "end": 37
+        },
+        {
+          "start": 37,
+          "end": 40
+        },
+        {
+          "start": 40,
+          "end": 52
+        },
+        {
+          "start": 52,
+          "end": 59
+        },
+        {
+          "start": 59,
+          "end": 87
+        },
+        {
+          "start": 87,
+          "end": 104
+        },
+        {
+          "start": 104,
+          "end": 127
+        },
+        {
+          "start": 127,
+          "end": 139
+        },
+        {
+          "start": 139,
+          "end": 163
+        },
+        {
+          "start": 163,
+          "end": 248
+        },
+        {
+          "start": 248,
+          "end": 257
+        },
+        {
+          "start": 257,
+          "end": 266
+        },
+        {
+          "start": 266,
+          "end": 280
+        },
+        {
+          "start": 280,
+          "end": 313
+        },
+        {
+          "start": 313,
+          "end": 374
+        },
+        {
+          "start": 374,
+          "end": 386
+        },
+        {
+          "start": 386,
+          "end": 432
+        },
+        {
+          "start": 432,
+          "end": 458
+        },
+        {
+          "start": 458,
+          "end": 477
+        },
+        {
+          "start": 477,
+          "end": 499
+        },
+        {
+          "start": 499,
+          "end": 553
+        },
+        {
+          "start": 553,
+          "end": 576
+        },
+        {
+          "start": 576,
+          "end": 599
+        },
+        {
+          "start": 599,
+          "end": 636
+        },
+        {
+          "start": 636,
+          "end": 660
+        },
+        {
+          "start": 660,
+          "end": 668
+        },
+        {
+          "start": 668,
+          "end": 675
+        },
+        {
+          "start": 675,
+          "end": 730
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "text_type": "translation",
+        "instance_type": "critical",
+        "source": "Openpecha AI",
+        "colophon": "Il Cuore della Perfezione della Saggezza della Beata.",
+        "incipit_title": {
+          "it": "Il Cuore della Perfezione della Saggezza Easy to Read"
+        },
+        "language": "it",
+        "category_id": "rw8oWUd1WtwqeD2x0ZMSm",
+        "license": "CC0",
+        "copyright": "Public Domain",
+        "contributions": [],
+        "date": "2026-02-01",
+        "bdrc": ""
+      },
+      "segment_annotation": [
+        {
+          "span": {
+            "start": 0,
+            "end": 53
+          }
+        },
+        {
+          "span": {
+            "start": 53,
+            "end": 105
+          }
+        },
+        {
+          "span": {
+            "start": 105,
+            "end": 159
+          }
+        },
+        {
+          "span": {
+            "start": 159,
+            "end": 178
+          }
+        },
+        {
+          "span": {
+            "start": 178,
+            "end": 226
+          }
+        },
+        {
+          "span": {
+            "start": 226,
+            "end": 259
+          }
+        },
+        {
+          "span": {
+            "start": 259,
+            "end": 401
+          }
+        },
+        {
+          "span": {
+            "start": 401,
+            "end": 553
+          }
+        },
+        {
+          "span": {
+            "start": 553,
+            "end": 704
+          }
+        },
+        {
+          "span": {
+            "start": 704,
+            "end": 776
+          }
+        },
+        {
+          "span": {
+            "start": 776,
+            "end": 902
+          }
+        },
+        {
+          "span": {
+            "start": 902,
+            "end": 1369
+          }
+        },
+        {
+          "span": {
+            "start": 1369,
+            "end": 1413
+          }
+        },
+        {
+          "span": {
+            "start": 1413,
+            "end": 1490
+          }
+        },
+        {
+          "span": {
+            "start": 1490,
+            "end": 1586
+          }
+        },
+        {
+          "span": {
+            "start": 1586,
+            "end": 2141
+          }
+        },
+        {
+          "span": {
+            "start": 2141,
+            "end": 2250
+          }
+        },
+        {
+          "span": {
+            "start": 2250,
+            "end": 2536
+          }
+        },
+        {
+          "span": {
+            "start": 2536,
+            "end": 2659
+          }
+        },
+        {
+          "span": {
+            "start": 2659,
+            "end": 2811
+          }
+        },
+        {
+          "span": {
+            "start": 2811,
+            "end": 3078
+          }
+        },
+        {
+          "span": {
+            "start": 3078,
+            "end": 3337
+          }
+        },
+        {
+          "span": {
+            "start": 3337,
+            "end": 3425
+          }
+        },
+        {
+          "span": {
+            "start": 3425,
+            "end": 3543
+          }
+        },
+        {
+          "span": {
+            "start": 3543,
+            "end": 3769
+          }
+        },
+        {
+          "span": {
+            "start": 3769,
+            "end": 3891
+          }
+        },
+        {
+          "span": {
+            "start": 3891,
+            "end": 3911
+          }
+        },
+        {
+          "span": {
+            "start": 3911,
+            "end": 4137
+          }
+        },
+        {
+          "span": {
+            "start": 4137,
+            "end": 4191
+          }
+        }
+      ],
+      "biblography_annotation": [],
+      "content": "Il Cuore della Perfezione della Saggezza della Beata.In lingua indiana: Bhagavati Prajnaparamita Hridaya.Il Cuore della Perfezione della Saggezza, la BhagavatīIl primo fascicolo.Mi inchino alla Bhagavati, la Perfetta Saggezza.Ho udito queste parole una volta.Il Beato risiedeva presso Rajagriha, sul Picco dell'Avvoltoio, insieme a una grande assemblea di monaci e una grande assemblea di bodhisattva.In quel momento, il Beato entrò in uno stato di profonda meditazione chiamato 'Manifestazione della Profondità', una particolare esposizione del Dharma.In quel momento il grande bodhisattva, il nobile Avalokiteshvara, stava contemplando profondamente la pratica della profonda perfezione della saggezza.Anche i cinque aggregati devono essere visti come vuoti per loro natura.Grazie alla benedizione del Buddha, il venerabile Shariputra si rivolse così al grande bodhisattva, il nobile Avalokiteshvara:'Chiunque desideri praticare la profonda condotta della perfetta saggezza, come dovrebbe addestrarsi?' Dopo queste parole, il nobile bodhisattva mahasattva Avalokiteshvara rispose al venerabile Shariputra: 'Shariputra, qualsiasi figlio o figlia di nobile famiglia che desideri praticare la profonda condotta della perfetta saggezza dovrebbe contemplare in questo modo: dovrebbe vedere correttamente e completamente che anche i cinque aggregati sono per natura vuoti.'La forma è vuota. La vacuità stessa è forma.La forma non è diversa dalla vacuità, e la vacuità non è diversa dalla forma.Allo stesso modo, le sensazioni, le percezioni, le formazioni mentali e la coscienza sono vuote.Pertanto, Shariputra, tutti i fenomeni sono vacuità; sono privi di caratteristiche, non nati, non cessati, senza impurità, senza liberazione dalle impurità, senza diminuzione, senza accrescimento.Quindi, Shariputra, nella vacuità non c'è forma, non c'è sensazione, non c'è percezione, non ci sono fattori di composizione, non c'è coscienza. Non c'è occhio, non c'è orecchio, non c'è naso, non c'è lingua, non c'è corpo, non c'è mente. Non c'è forma visibile, non c'è suono, non c'è odore, non c'è sapore, non c'è oggetto tattile, non c'è fenomeno mentale.Non c'è elemento dell'occhio, fino a non c'è elemento della mente e non c'è elemento della coscienza mentale.Non c'è ignoranza, né cessazione dell'ignoranza; non c'è vecchiaia e morte, né cessazione della vecchiaia e della morte. Non c'è sofferenza, né origine della sofferenza, né cessazione della sofferenza, né sentiero. Non c'è saggezza, né conseguimento, e nemmeno assenza di conseguimento.Perciò, Shariputra, i bodhisattva dimorano e si affidano alla perfezione della saggezza poiché non hanno nulla da ottenere.Poiché la mente è priva di oscuramenti, non vi è paura. Avendo completamente trasceso la confusione, si raggiunge la perfetta realizzazione del nirvana.Tutti i Buddha che dimorano nei tre tempi <span class=\"\\text-quotation-style\\\">passato, presente e futuro</span> hanno raggiunto la perfetta e completa illuminazione dell'insuperabile, autentica e perfetta buddhità facendo affidamento sulla perfezione della saggezza.Pertanto, il mantra della perfezione della saggezza, il mantra della grande conoscenza, il mantra supremo, il mantra che eguaglia l'ineguagliabile, il mantra che placa completamente tutte le sofferenze - poiché non è falso, deve essere riconosciuto come vero.Così: andato, andato, andato oltre, completamente andato oltre, illuminazione, così sia.Shariputra, così il bodhisattva, il grande bodhisattva, dovrebbe addestrarsi nella profonda perfezione della saggezza.Poi il Benedetto si alzò da quella meditazione profonda e, dando la sua approvazione al nobile Bodhisattva Mahasattva Avalokiteshvara, disse: 'Eccellente, eccellente! È proprio così, figlio di nobile famiglia, è proprio così!'Figlio di nobile famiglia, è proprio così. Devi praticare la profonda perfezione della saggezza proprio come hai spiegato.Così parlò il Beato.Il venerabile Shariputra e il grande bodhisattva Avalokiteshvara, insieme a tutta l'assemblea presente, composta da dei, umani, asura e gandharva, si rallegrarono e lodarono sinceramente le parole pronunciate dal Beato Buddha.Il Cuore della Perfezione della Saggezza è completato.",
+      "target_annotation": [
+        {
+          "start": 0,
+          "end": 54
+        },
+        {
+          "start": 54,
+          "end": 108
+        },
+        {
+          "start": 108,
+          "end": 172
+        },
+        {
+          "start": 172,
+          "end": 188
+        },
+        {
+          "start": 188,
+          "end": 245
+        },
+        {
+          "start": 245,
+          "end": 279
+        },
+        {
+          "start": 279,
+          "end": 418
+        },
+        {
+          "start": 418,
+          "end": 516
+        },
+        {
+          "start": 516,
+          "end": 656
+        },
+        {
+          "start": 656,
+          "end": 716
+        },
+        {
+          "start": 716,
+          "end": 846
+        },
+        {
+          "start": 846,
+          "end": 1305
+        },
+        {
+          "start": 1305,
+          "end": 1345
+        },
+        {
+          "start": 1345,
+          "end": 1416
+        },
+        {
+          "start": 1416,
+          "end": 1496
+        },
+        {
+          "start": 1496,
+          "end": 1646
+        },
+        {
+          "start": 1866,
+          "end": 1953
+        },
+        {
+          "start": 1953,
+          "end": 2131
+        },
+        {
+          "start": 2131,
+          "end": 2243
+        },
+        {
+          "start": 2243,
+          "end": 2339
+        },
+        {
+          "start": 2339,
+          "end": 2499
+        },
+        {
+          "start": 2499,
+          "end": 2733
+        },
+        {
+          "start": 2733,
+          "end": 2789
+        },
+        {
+          "start": 2789,
+          "end": 2890
+        },
+        {
+          "start": 2890,
+          "end": 3071
+        },
+        {
+          "start": 3071,
+          "end": 3180
+        },
+        {
+          "start": 3225,
+          "end": 3266
+        },
+        {
+          "start": 3266,
+          "end": 3508
+        },
+        {
+          "start": 3508,
+          "end": 3565
+        }
+      ],
+      "alignment_annotation": [
+        {
+          "start": 0,
+          "end": 53
+        },
+        {
+          "start": 53,
+          "end": 105
+        },
+        {
+          "start": 105,
+          "end": 159
+        },
+        {
+          "start": 159,
+          "end": 178
+        },
+        {
+          "start": 178,
+          "end": 226
+        },
+        {
+          "start": 226,
+          "end": 259
+        },
+        {
+          "start": 259,
+          "end": 401
+        },
+        {
+          "start": 401,
+          "end": 553
+        },
+        {
+          "start": 553,
+          "end": 704
+        },
+        {
+          "start": 704,
+          "end": 776
+        },
+        {
+          "start": 776,
+          "end": 902
+        },
+        {
+          "start": 902,
+          "end": 1369
+        },
+        {
+          "start": 1369,
+          "end": 1413
+        },
+        {
+          "start": 1413,
+          "end": 1490
+        },
+        {
+          "start": 1490,
+          "end": 1586
+        },
+        {
+          "start": 1586,
+          "end": 2141
+        },
+        {
+          "start": 2141,
+          "end": 2250
+        },
+        {
+          "start": 2250,
+          "end": 2536
+        },
+        {
+          "start": 2536,
+          "end": 2659
+        },
+        {
+          "start": 2659,
+          "end": 2811
+        },
+        {
+          "start": 2811,
+          "end": 3078
+        },
+        {
+          "start": 3078,
+          "end": 3337
+        },
+        {
+          "start": 3337,
+          "end": 3425
+        },
+        {
+          "start": 3425,
+          "end": 3543
+        },
+        {
+          "start": 3543,
+          "end": 3769
+        },
+        {
+          "start": 3769,
+          "end": 3891
+        },
+        {
+          "start": 3891,
+          "end": 3911
+        },
+        {
+          "start": 3911,
+          "end": 4137
+        },
+        {
+          "start": 4137,
+          "end": 4191
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "text_type": "translation",
+        "instance_type": "critical",
+        "source": "Openpecha AI",
+        "colophon": "Bhagavatī Essenza della Perfezione della Saggezza",
+        "incipit_title": {
+          "it": "Il Cuore della Perfezione della Saggezza AI Draft"
+        },
+        "language": "it",
+        "category_id": "rw8oWUd1WtwqeD2x0ZMSm",
+        "license": "CC0",
+        "copyright": "Public Domain",
+        "contributions": [],
+        "date": "2026-02-01",
+        "bdrc": ""
+      },
+      "segment_annotation": [
+        {
+          "span": {
+            "start": 0,
+            "end": 49
+          }
+        },
+        {
+          "span": {
+            "start": 49,
+            "end": 302
+          }
+        },
+        {
+          "span": {
+            "start": 302,
+            "end": 366
+          }
+        },
+        {
+          "span": {
+            "start": 366,
+            "end": 391
+          }
+        },
+        {
+          "span": {
+            "start": 391,
+            "end": 587
+          }
+        },
+        {
+          "span": {
+            "start": 587,
+            "end": 612
+          }
+        },
+        {
+          "span": {
+            "start": 612,
+            "end": 974
+          }
+        },
+        {
+          "span": {
+            "start": 974,
+            "end": 1097
+          }
+        },
+        {
+          "span": {
+            "start": 1097,
+            "end": 1306
+          }
+        },
+        {
+          "span": {
+            "start": 1306,
+            "end": 1394
+          }
+        },
+        {
+          "span": {
+            "start": 1394,
+            "end": 1520
+          }
+        },
+        {
+          "span": {
+            "start": 1520,
+            "end": 2046
+          }
+        },
+        {
+          "span": {
+            "start": 2046,
+            "end": 2092
+          }
+        },
+        {
+          "span": {
+            "start": 2092,
+            "end": 2167
+          }
+        },
+        {
+          "span": {
+            "start": 2167,
+            "end": 2271
+          }
+        },
+        {
+          "span": {
+            "start": 2271,
+            "end": 2809
+          }
+        },
+        {
+          "span": {
+            "start": 2809,
+            "end": 2920
+          }
+        },
+        {
+          "span": {
+            "start": 2920,
+            "end": 3166
+          }
+        },
+        {
+          "span": {
+            "start": 3166,
+            "end": 3296
+          }
+        },
+        {
+          "span": {
+            "start": 3296,
+            "end": 3488
+          }
+        },
+        {
+          "span": {
+            "start": 3488,
+            "end": 3657
+          }
+        },
+        {
+          "span": {
+            "start": 3657,
+            "end": 3946
+          }
+        },
+        {
+          "span": {
+            "start": 3946,
+            "end": 4034
+          }
+        },
+        {
+          "span": {
+            "start": 4034,
+            "end": 4163
+          }
+        },
+        {
+          "span": {
+            "start": 4163,
+            "end": 4476
+          }
+        },
+        {
+          "span": {
+            "start": 4476,
+            "end": 4609
+          }
+        },
+        {
+          "span": {
+            "start": 4609,
+            "end": 4650
+          }
+        },
+        {
+          "span": {
+            "start": 4650,
+            "end": 4910
+          }
+        },
+        {
+          "span": {
+            "start": 4910,
+            "end": 4976
+          }
+        }
+      ],
+      "biblography_annotation": [],
+      "content": "Bhagavatī Essenza della Perfezione della SaggezzaIn sanscrito: भगवती प्रज्ञापारमिता हृदय <span class=\"\\text-quotation-style\\\">Bhagavatī Prajñāpāramitā Hṛdaya</span>In italiano: Il Cuore della Benedetta Perfezione della Saggezza - L'Essenza della Sapienza Trascendente nella sua Manifestazione FemminileIn tibetano: L'Essenza della Bhagavatī Perfezione della SaggezzaQuesto è il primo bam po.Mi prostro con corpo, parola e mente alla Bhagavatī Prajñāpāramitā, la saggezza trascendentale non duale che realizza la vacuità, madre di tutti i Buddha e portatrice della conoscenza onnisciente.Così ho udito, una volta.In quel tempo il Bhagavān soggiornava maestosamente a Rajagriha, l'antica capitale del regno di Magadha, sul sacro Picco dell'Avvoltoio, dimora suprema che trascende il mondo ordinario, in perfetta comunione spirituale con una vasta e nobile assemblea di monaci e una vasta e nobile assemblea di bodhisattva, tutti uniti nella contemplazione della realtà ultima.In quel momento, il Bhagavān entrò in samādhi chiamato 'Manifestazione Profonda', una categoria di insegnamenti del Dharma.In quel momento, il nobile Avalokiteśvara, il grande bodhisattva, contemplava profondamente la pratica della profonda Perfezione della saggezza, osservando con sguardo penetrante la natura ultima della realtà.Anche questi cinque aggregati devono essere contemplati come vuoti di natura intrinseca.Then, through the power of the Buddha, the venerable Śāriputra spoke thus to the grande bodhisattva, il nobile Avalokiteśvara:'O figlio di nobile famiglia, come dovrebbe addestrarsi chi desidera praticare la profonda Perfezione della Saggezza?'Così fu chiesto. Allora il bodhisattva grande bodhisattva il nobile Avalokiteśvara rispose al venerabile Śāriputra con queste parole: 'O Śāriputra, qualsiasi figlio di nobile famiglia o figlia di nobile famiglia che desideri praticare la profonda Perfezione della Saggezza dovrebbe contemplare in questo modo: si dovrebbe osservare perfettamente che anche i cinque aggregati sono vuoti di natura intrinseca.'La forma è vacuità. La vacuità stessa è forma.La forma non è diversa dalla vacuità; la vacuità non è diversa dalla forma.Allo stesso modo, anche le sensazioni, le percezioni, le formazioni mentali e le coscienze sono vacuità.Perciò, o Śāriputra, tutti i fenomeni sono vacuità: senza caratteristiche, non nati, non cessati, senza impurità, senza rimozione dell'impurità, senza diminuzione, senza aumento. Pertanto, o Śāriputra, nella vacuità non c'è forma, non c'è sensazione, non c'è percezione, non ci sono formazioni mentali, non c'è coscienza; non c'è occhio, non c'è orecchio, non c'è naso, non c'è lingua, non c'è corpo, non c'è mente; non c'è forma visibile, non c'è suono, non c'è odore, non c'è sapore, non c'è oggetto tangibile, non c'è fenomeno mentale.Non esiste l'elemento dell'occhio, fino all'elemento della mente; né esiste l'elemento della coscienza mentale.Non c'è ignoranza, né c'è cessazione dell'ignoranza; da lì fino a: non c'è vecchiaia e morte, né cessazione della vecchiaia e morte. Non c'è sofferenza, né origine, né cessazione, né sentiero. Non c'è saggezza, né ottenimento, né non-ottenimento.Perciò, o Śāriputra, poiché per i bodhisattva non c'è nulla da ottenere, essi dimorano affidandosi alla Perfezione della Saggezza.Poiché la mente è priva di oscuramenti, non c'è paura; avendo completamente trasceso le concezioni erronee attraverso i livelli del cammino, si raggiunge la perfetta realizzazione del nirvana.Tutti i Buddha che dimorano nei tre tempi, basandosi sulla Perfezione della Saggezza, si sono completamente risvegliati nell'insuperabile, perfetto e completo risveglio.Perciò si deve conoscere il mantra della Perfezione della Saggezza, il mantra della grande consapevolezza, il mantra insuperabile, il mantra che eguaglia l'ineguagliabile, il mantra che pacifica completamente ogni sofferenza. Poiché non è ingannevole, deve essere riconosciuto come verità.Così: andato, andato, andato oltre, completamente andato oltre, illuminazione, così sia!O Śāriputra, in questo modo il bodhisattva, il grande bodhisattva, dovrebbe addestrarsi nella profonda Perfezione della Saggezza.Quindi, immediatamente dopo l'insegnamento di Avalokiteśvara a Śāriputra, il Bhagavān si alzò da quel samādhi e diede la sua approvazione al nobile Avalokiteśvara, il bodhisattva grande bodhisattva, dicendo con immensa gioia: 'Eccellente, eccellente! Figlio di nobile famiglia, è proprio così come hai insegnato.'Figlio di nobile famiglia, è proprio così. Bisogna praticare la profonda Perfezione della Saggezza esattamente come tu hai insegnato.Dopo che il Bhagavān ebbe così parlato...Il venerabile Śāriputra e il bodhisattva grande bodhisattva Avalokiteśvara, insieme all'assemblea dotata di ogni qualità e al mondo con i suoi dèi, umani, asura e gandharva, gioirono profondamente e lodarono con reverenza ciò che il Bhagavān aveva pronunciato.Qui si conclude la Nobile Essenza della Perfezione della Saggezza.",
+      "target_annotation": [
+        {
+          "start": 0,
+          "end": 54
+        },
+        {
+          "start": 54,
+          "end": 108
+        },
+        {
+          "start": 108,
+          "end": 172
+        },
+        {
+          "start": 172,
+          "end": 188
+        },
+        {
+          "start": 188,
+          "end": 245
+        },
+        {
+          "start": 245,
+          "end": 279
+        },
+        {
+          "start": 279,
+          "end": 418
+        },
+        {
+          "start": 418,
+          "end": 516
+        },
+        {
+          "start": 516,
+          "end": 656
+        },
+        {
+          "start": 656,
+          "end": 716
+        },
+        {
+          "start": 716,
+          "end": 846
+        },
+        {
+          "start": 846,
+          "end": 1305
+        },
+        {
+          "start": 1305,
+          "end": 1345
+        },
+        {
+          "start": 1345,
+          "end": 1416
+        },
+        {
+          "start": 1416,
+          "end": 1496
+        },
+        {
+          "start": 1496,
+          "end": 1646
+        },
+        {
+          "start": 1866,
+          "end": 1953
+        },
+        {
+          "start": 1953,
+          "end": 2131
+        },
+        {
+          "start": 2131,
+          "end": 2243
+        },
+        {
+          "start": 2243,
+          "end": 2339
+        },
+        {
+          "start": 2339,
+          "end": 2499
+        },
+        {
+          "start": 2499,
+          "end": 2733
+        },
+        {
+          "start": 2733,
+          "end": 2789
+        },
+        {
+          "start": 2789,
+          "end": 2890
+        },
+        {
+          "start": 2890,
+          "end": 3071
+        },
+        {
+          "start": 3071,
+          "end": 3180
+        },
+        {
+          "start": 3225,
+          "end": 3266
+        },
+        {
+          "start": 3266,
+          "end": 3508
+        },
+        {
+          "start": 3508,
+          "end": 3565
+        }
+      ],
+      "alignment_annotation": [
+        {
+          "start": 0,
+          "end": 49
+        },
+        {
+          "start": 49,
+          "end": 302
+        },
+        {
+          "start": 302,
+          "end": 366
+        },
+        {
+          "start": 366,
+          "end": 391
+        },
+        {
+          "start": 391,
+          "end": 587
+        },
+        {
+          "start": 587,
+          "end": 612
+        },
+        {
+          "start": 612,
+          "end": 974
+        },
+        {
+          "start": 974,
+          "end": 1097
+        },
+        {
+          "start": 1097,
+          "end": 1306
+        },
+        {
+          "start": 1306,
+          "end": 1394
+        },
+        {
+          "start": 1394,
+          "end": 1520
+        },
+        {
+          "start": 1520,
+          "end": 2046
+        },
+        {
+          "start": 2046,
+          "end": 2092
+        },
+        {
+          "start": 2092,
+          "end": 2167
+        },
+        {
+          "start": 2167,
+          "end": 2271
+        },
+        {
+          "start": 2271,
+          "end": 2809
+        },
+        {
+          "start": 2809,
+          "end": 2920
+        },
+        {
+          "start": 2920,
+          "end": 3166
+        },
+        {
+          "start": 3166,
+          "end": 3296
+        },
+        {
+          "start": 3296,
+          "end": 3488
+        },
+        {
+          "start": 3488,
+          "end": 3657
+        },
+        {
+          "start": 3657,
+          "end": 3946
+        },
+        {
+          "start": 3946,
+          "end": 4034
+        },
+        {
+          "start": 4034,
+          "end": 4163
+        },
+        {
+          "start": 4163,
+          "end": 4476
+        },
+        {
+          "start": 4476,
+          "end": 4609
+        },
+        {
+          "start": 4609,
+          "end": 4650
+        },
+        {
+          "start": 4650,
+          "end": 4910
+        },
+        {
+          "start": 4910,
+          "end": 4976
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "text_type": "translation",
+        "instance_type": "critical",
+        "source": "Openpecha AI",
+        "colophon": "བཅོམ་ལྡན་འདས་མ་ → Bhagavatī [La Vittoriosa, Benedetta]<br>ཤེས་རབ་ → Saggezza<br>ཀྱི་ → di, della<br>ཕ་རོལ་ཏུ་ → all'altra sponda, oltre<br>ཕྱིན་པའི་ → perfezione, andare oltre<br>སྙིང་པོ → essenza, cuore",
+        "incipit_title": {
+          "it": "Il Cuore della Perfezione della Saggezza Word by Word"
+        },
+        "language": "it",
+        "category_id": "rw8oWUd1WtwqeD2x0ZMSm",
+        "license": "CC0",
+        "copyright": "Public Domain",
+        "contributions": [],
+        "date": "2026-02-01",
+        "bdrc": ""
+      },
+      "segment_annotation": [
+        {
+          "span": {
+            "start": 0,
+            "end": 183
+          }
+        },
+        {
+          "span": {
+            "start": 183,
+            "end": 614
+          }
+        },
+        {
+          "span": {
+            "start": 614,
+            "end": 964
+          }
+        },
+        {
+          "span": {
+            "start": 964,
+            "end": 1014
+          }
+        },
+        {
+          "span": {
+            "start": 1014,
+            "end": 1242
+          }
+        },
+        {
+          "span": {
+            "start": 1242,
+            "end": 1545
+          }
+        },
+        {
+          "span": {
+            "start": 1545,
+            "end": 1946
+          }
+        },
+        {
+          "span": {
+            "start": 1946,
+            "end": 2183
+          }
+        },
+        {
+          "span": {
+            "start": 2183,
+            "end": 2489
+          }
+        },
+        {
+          "span": {
+            "start": 2489,
+            "end": 2660
+          }
+        },
+        {
+          "span": {
+            "start": 2660,
+            "end": 2988
+          }
+        },
+        {
+          "span": {
+            "start": 2988,
+            "end": 4040
+          }
+        },
+        {
+          "span": {
+            "start": 4040,
+            "end": 4125
+          }
+        },
+        {
+          "span": {
+            "start": 4125,
+            "end": 4294
+          }
+        },
+        {
+          "span": {
+            "start": 4294,
+            "end": 4542
+          }
+        },
+        {
+          "span": {
+            "start": 4542,
+            "end": 5449
+          }
+        },
+        {
+          "span": {
+            "start": 5449,
+            "end": 5707
+          }
+        },
+        {
+          "span": {
+            "start": 5707,
+            "end": 6197
+          }
+        },
+        {
+          "span": {
+            "start": 6197,
+            "end": 6562
+          }
+        },
+        {
+          "span": {
+            "start": 6562,
+            "end": 6842
+          }
+        },
+        {
+          "span": {
+            "start": 6842,
+            "end": 7212
+          }
+        },
+        {
+          "span": {
+            "start": 7212,
+            "end": 7679
+          }
+        },
+        {
+          "span": {
+            "start": 7679,
+            "end": 7888
+          }
+        },
+        {
+          "span": {
+            "start": 7888,
+            "end": 8127
+          }
+        },
+        {
+          "span": {
+            "start": 8127,
+            "end": 8562
+          }
+        },
+        {
+          "span": {
+            "start": 8562,
+            "end": 8893
+          }
+        },
+        {
+          "span": {
+            "start": 8893,
+            "end": 9362
+          }
+        },
+        {
+          "span": {
+            "start": 9362,
+            "end": 9878
+          }
+        },
+        {
+          "span": {
+            "start": 9878,
+            "end": 10010
+          }
+        }
+      ],
+      "biblography_annotation": [],
+      "content": "བཅོམ་ལྡན་འདས་མ་ → Bhagavatī [La Vittoriosa, Benedetta]ཤེས་རབ་ → Saggezzaཀྱི་ → di, dellaཕ་རོལ་ཏུ་ → all'altra sponda, oltreཕྱིན་པའི་ → perfezione, andare oltreསྙིང་པོ → essenza, cuore༄༅། → Simboli di buon auspicio།​ → Segno di punteggiaturaརྒྱ་གར་ → Indiaསྐད་དུ། → in linguaབྷ་ག་བ་ཏི་ → Bhagavatī <span class=\"\\text-quotation-style\\\">Benedetta/Manifestazione Femminile</span>པྲ་ཛྙ་ → Prajñā <span class=\"\\text-quotation-style\\\">Saggezza/Sapienza</span>པ་ར་མི་ཏཱྀ་ → Pāramitā <span class=\"\\text-quotation-style\\\">Perfezione/Trascendente</span>ཧྲད་ཡ → Hṛdaya <span class=\"\\text-quotation-style\\\">Cuore/Essenza</span>བོད་སྐད་དུ། → In tibetano:བཅོམ་ལྡན་འདས་མ་ → Bhagavatī <span class=\"\\text-quotation-style\\\">La Vittoriosa, l'Illuminata</span>ཤེས་རབ་ → Saggezzaཀྱི་ → di <span class=\"\\text-quotation-style\\\">particella genitive</span>ཕ་རོལ་ཏུ་ → all'altra spondaཕྱིན་པའི་ → andare/raggiungere <span class=\"\\text-quotation-style\\\">perfettamente</span>སྙིང་པོ། → Essenzaབམ་པོ་ → bam poགཅིག་ → uno/primoགོ །​ → è/questo èབཅོམ་ལྡན་འདས་མ་ → Bhagavatī <span class=\"\\text-quotation-style\\\">Gloriosa/Benedetta</span>ཤེས་རབ་ → saggezzaཀྱི་ → diཕ་རོལ་ → l'altra spondaདུ་ → versoཕྱིན་པ་ → perfezione/andare oltreལ་ → aཕྱག་འཚལ་ལོ་ → mi prostro/rendo omaggioའདི་ → Cosìསྐད་ → hoབདག་གིས་ → uditoཐོས་པ་ → <span class=\"\\text-quotation-style\\\">incluso in 'ho udito'</span>དུས་ → una voltaགཅིག་ → <span class=\"\\text-quotation-style\\\">incluso in 'una volta'</span>ན། → <span class=\"\\text-quotation-style\\\">particella finale, rappresentata dal punto in italiano</span>བཅོམ་ལྡན་འདས་ → Bhagavān <span class=\"\\text-quotation-style\\\">Il Benedetto</span>རྒྱལ་པོའི་ཁབ་ → Rajagriha <span class=\"\\text-quotation-style\\\">capitale reale</span>བྱ་རྒོད་ཕུང་པོའི་རི་ལ་ → sul Picco dell'Avvoltoioདགེ་སློང་གི་ → di monaciདགེ་འདུན་ཆེན་པོ་ → grande assembleaདང་ → eབྱང་ཆུབ་སེམས་དཔའི་ → di bodhisattvaདགེ་འདུན་ཆེན་པོ་ → grande assembleaདང་ → eཐབས་ཅིག་ཏུ་ → insiemeབཞུགས་ཏེ། → soggiornavaདེའི་ཚེ་ → In quel momentoབཅོམ་ལྡན་འདས་ → il Bhagavānཟབ་མོ་ → Profondaསྣང་བ་ → Manifestazioneཞེས་བྱ་བའི་ → chiamatoཆོས་ཀྱི་ → del Dharmaརྣམ་གྲངས་ཀྱི་ → una categoria di insegnamentiཏིང་ངེ་འཛིན་ → samādhiལ་ → inསྙོམས་པར་ཞུགས་སོ། ། → entròཡང་དེའི་ཚེ → In quel momentoབྱང་ཆུབ་སེམས་དཔའ → bodhisattvaསེམས་དཔའ་ཆེན་པོ → grande bodhisattvaའཕགས་པ → nobileསྤྱན་རས་གཟིགས་དབང་ཕྱུག → Avalokiteśvaraཤེས་རབ་ཀྱི → della saggezzaཕ་རོལ་ཏུ → Perfezioneཟབ་མོའི → profondaསྤྱོད་པ → praticaཉིད་ལ → dellaརྣམ་པར་བལྟ་ཞིང → contemplava/osservando con sguardo penetranteཕུང་པོ་ལྔ་པོ་ → i cinque aggregatiདེ་དག་ → questiལ་ཡང་ → ancheརང་བཞིན་གྱིས་ → di natura intrinsecaསྟོང་པར་ → vuotiརྣམ་པར་ → completamenteབལྟའོ། → devono essere contemplatiདེ་ནས་ → Poiསངས་རྒྱས་ཀྱི་ → del Buddhaམཐུས། → attraverso il potere​ཚེ་དང་ལྡན་པ་ → il venerabileཤཱ་རིའི་བུས་ → Śāriputraབྱང་ཆུབ་སེམས་དཔའ་ → bodhisattvaཆེན་པོ་ → grandeའཕགས་པ་ → il nobileསྤྱན་རས་གཟིགས་ → Avalokiteśvaraདབང་ཕྱུག་ → <span class=\"\\text-quotation-style\\\">signore potente</span>ལ་ → aའདི་སྐད་ཅེས་ → cosìསྨྲས་སོ། → parlòརིགས་ཀྱི་བུ་ → figlio di nobile famigliaགང་ལ་ལ་ → qualsiasi/chiཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ → Perfezione della Saggezzaཟབ་མོའི་ → profondaསྤྱོད་པ་ → praticareསྤྱད་པར་འདོད་པ་ → desidera praticareདེས་ → egli/quelloཇི་ལྟར་ → comeབསླབ་པར་བྱ་ → dovrebbe addestrarsiདེ་སྐད་ཅེས་སྨྲས་པ་དང་ → Così fu chiestoབྱང་ཆུབ་སེམས་དཔའ་ → bodhisattvaསེམས་དཔའ་ཆེན་པོ་ → grande bodhisattvaའཕགས་པ་ → nobileསྤྱན་རས་གཟིགས་དབང་ཕྱུག་ → Avalokiteśvaraགིས་ → daཚེ་དང་ལྡན་པ་ → venerabileཤཱ་ར་དྭ་ཏའི་བུ་ → Śāriputraལ་ → aའདི་སྐད་ཅེས་སྨྲས་སོ་ → rispose con queste paroleཤཱ་རིའི་བུ་ → O Śāriputraརིགས་ཀྱི་བུའམ་ → figlio di nobile famigliaརིགས་ཀྱི་བུ་མོ་ → figlia di nobile famigliaགང་ལ་ལ་ → qualsiasiཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ → Perfezione della Saggezzaཟབ་མོའི་ → profondaསྤྱོད་པ་ → praticaསྤྱད་པར་འདོད་པ་ → desidera praticareདེས་ → egli/quelloའདི་ལྟར་ → in questo modoརྣམ་པར་བལྟ་བར་བྱ་སྟེ་ → dovrebbe contemplareཕུང་པོ་ལྔ་པོ་ → i cinque aggregatiདེ་དག་ཀྱང་ → anche quelliརང་བཞིན་གྱིས་ → di natura intrinsecaསྟོང་པར་ → vuotiརྣམ་པར་ཡང་དག་པར་ → perfettamenteརྗེས་སུ་བལྟའོ་ → dovrebbe osservareགཟུགས་ → formaསྟོང་པའོ། → è vacuitàསྟོང་པ་ཉིད་ → la vacuità stessaགཟུགས་སོ། → è formaགཟུགས་ → La formaལས་ → daསྟོང་པ་ཉིད་ → la vacuitàགཞན་ → diversaམ་ཡིན། → non èསྟོང་པ་ཉིད་ → la vacuitàལས་ → daཀྱང་ → ancheགཟུགས་ → la formaགཞན་ → diversaམ་ཡིན་ནོ། → non èདེ་བཞིན་དུ་ → Allo stesso modoཚོར་བ་དང་། → le sensazioni e,འདུ་ཤེས་དང་། → le percezioni e,འདུ་བྱེད་དང་། → le formazioni mentali e,རྣམ་པར་ཤེས་པ་ → le coscienzeརྣམས་ → <span class=\"\\text-quotation-style\\\">plurale/tutti</span>སྟོང་པའོ། → sono vacuità.ཤཱ་རིའི་བུ་ → Śāriputraདེ་ལྟ་བས་ན་ → Perciòཆོས་ཐམས་ཅད་ → tutti i fenomeniསྟོང་པ་ཉིད་ → vacuitàདེ། → sonoམཚན་ཉིད་མེད་པ། → senza caratteristicheམ་སྐྱེས་པ། → non natiམ་འགགས་པ། → non cessatiདྲི་མ་མེད་པ། → senza impuritàདྲི་མ་དང་བྲལ་བ་མེད་པ། → senza rimozione dell'impuritàབྲི་བ་མེད་པ། → senza diminuzioneགང་བ་མེད་པའོ། → senza aumentoཤཱ་རིའི་བུ་ → Śāriputraདེ་ལྟ་བས་ན་ → Pertantoསྟོང་པ་ཉིད་ལ་ → nella vacuitàགཟུགས་མེད། → non c'è formaཚོར་བ་མེད། → non c'è sensazioneའདུ་ཤེས་མེད། → non c'è percezioneའདུ་བྱེད་མེད། → non ci sono formazioni mentaliརྣམ་པར་ཤེས་པ་མེད། → non c'è coscienzaམིག་མེད། → non c'è occhioརྣ་བ་མེད། → non c'è orecchioསྣ་མེད། → non c'è nasoལྕེ་མེད། → non c'è linguaལུས་མེད། → non c'è corpoཡིད་མེད → non c'è menteགཟུགས་མེད། → non c'è forma visibileསྒྲ་མེད། → non c'è suonoདྲི་མེད། → non c'è odoreརོ་མེད། → non c'è saporeརེག་བྱ་མེད། → non c'è oggetto tangibileཆོས་མེད་དོ། → non c'è fenomeno mentaleམིག་ → occhioགི་ → di, delཁམས་ → elementoམེད་པ་ → non esisteནས་ → fino aཡིད་ → menteཀྱི་ → di, dellaཁམས་ → elementoམེད། → non esisteཡིད་ → menteཀྱི་ → dellaརྣམ་པར་ཤེས་པའི་ → coscienzaཁམས་ → elementoཀྱི་ → dellaབར་དུ་ → fino aཡང་ → neanche, néམེད་དོ། → esisteམ་རིག་པ་ → ignoranzaམེད། → non c'èམ་རིག་པ་ → ignoranzaཟད་པ་ → cessazioneམེད་པ་ → non c'èནས་ → da lì fino aརྒ་ཤི་ → vecchiaia e morteམེད། → non c'èརྒ་ཤི་ → vecchiaia e morteཟད་པའི་ → cessazione dellaབར་དུ་ → fino aཡང་ → anche/néམེད་དོ། ། → non c'èསྡུག་བསྔལ་བ་ → sofferenzaདང་། → eཀུན་འབྱུང་བ་ → origineདང་། → eའགོག་པ་ → cessazioneདང་། → eལམ་ → sentieroམེད། → non c'èཡེ་ཤེས་ → saggezzaམེད། → non c'èཐོབ་པ་ → ottenimentoམེད། → non c'èམ་ཐོབ་པ་ → non-ottenimentoཡང་ → anche/néམེད་དོ། ། → non c'è​ཤཱ་རིའི་བུ་ → Śāriputra <span class=\"\\text-quotation-style\\\">figlio di Śāri</span>དེ་ལྟ་བས་ན་ → perciòབྱང་ཆུབ་སེམས་དཔའ་ → bodhisattvaརྣམས་ → plurale <span class=\"\\text-quotation-style\\\">per i bodhisattva</span>ཐོབ་པ་ → ottenereམེད་པའི་ → non c'èཕྱིར་ → poichéཤེས་རབ་ཀྱི་ → della Saggezzaཕ་རོལ་ཏུ་ཕྱིན་པ་ → Perfezioneལ་ → aབརྟེན་ཅིང་ → affidandosiགནས་ཏེ་ → dimoranoསེམས་ → menteལ་ → nellaསྒྲིབ་པ་ → oscuramentiམེད་པས་ → essendo priva diསྐྲག་པ་ → pauraམེད་ → non c'èདེ། → poichéཕྱིན་ཅི་ལོག་ → concezioni erroneeལས་ → daཤིན་ཏུ་ → completamenteའདས་ནས་ → avendo trascesoམྱ་ངན་ལས་འདས་པར་ → nirvanaམཐར་ཕྱིན་ཏོ། → si raggiunge la perfetta realizzazioneདུས་གསུམ་དུ་ → nei tre tempiརྣམ་པར་བཞུགས་པའི་ → che dimoranoསངས་རྒྱས་ → Buddhaཐམས་ཅད་ → tuttiཀྱང་ → ancheཤེས་རབ་ཀྱི་ → della Saggezzaཕ་རོལ་ཏུ་ཕྱིན་པ་ → Perfezioneལ་ → suབརྟེན་ནས་ → basandosiབླ་ན་མེད་པ་ → insuperabileཡང་དག་པར་ → perfettoརྫོགས་པའི་ → completoབྱང་ཆུབ་ → risveglioཏུ་ → inམངོན་པར་ → completamenteརྫོགས་པར་ → perfettamenteསངས་རྒྱས་སོ། ། → si sono risvegliatiདེ་ལྟ་བས་ན → Perciòཤེས་རབ་ཀྱི → della Saggezzaཕ་རོལ་ཏུ་ཕྱིན་པའི → della Perfezioneསྔགས → il mantraརིག་པ་ཆེན་པོའི → della grande consapevolezzaསྔགས → il mantraབླ་ན་མེད་པའི → insuperabileསྔགས → il mantraམི་མཉམ་པ་དང་མཉམ་པའི → che eguaglia l'ineguagliabileསྔགས → il mantraསྡུག་བསྔལ་ཐམས་ཅད → ogni sofferenzaརབ་ཏུ་ཞི་བར་བྱེད་པའི → che pacifica completamenteསྔགས → il mantraམི་རྫུན་པས་ན → Poiché non è ingannevoleབདེན་པར → come veritàཤེས་པར་བྱ་སྟེ → deve essere riconosciutoཏདྱ་ཐཱ། → Così <span class=\"\\text-quotation-style\\\">in questo modo</span>ག་ཏེ་ → andatoག་ཏེ་ → andatoཔཱ་ར་ག་ཏེ། → andato oltreཔཱ་ར་སཾ་ག་ཏེ། → completamente andato oltreབོ་དྷི་ → illuminazioneསྭ་ཧཱ། → così sia!ཤཱ་རིའི་བུ་ → O Śāriputraབྱང་ཆུབ་སེམས་དཔའ་ → bodhisattvaསེམས་དཔའ་ཆེན་པོ་ → grande bodhisattvaདེ་ལྟར་ → in questo modoཤེས་རབ་ཀྱི་ → della Saggezzaཕ་རོལ་ཏུ་ཕྱིན་པ་ → Perfezioneཟབ་མོ་ → profondaལ་ → nellaབསླབ་པར་བྱའོ། ། → dovrebbe addestrarsiདེ་ནས་ → Quindiབཅོམ་ལྡན་འདས་ → il Bhagavānཏིང་ངེ་འཛིན་ → samādhiདེ་ → quelལས་ → daབཞེངས་ཏེ། → si alzòབྱང་ཆུབ་སེམས་དཔའ་ → bodhisattvaསེམས་དཔའ་ཆེན་པོས་ → grande bodhisattvaའཕགས་པ སྤྱན་རས་ → il nobile Avalokiteśvaraདབང་ཕྱུག་ → Avalokiteśvaraལ་ → aལེགས་སོ་ → Eccellenteཞེས་བྱ་བ་ → dicendoབྱིན་ནས། → diede la sua approvazioneལེགས་སོ་ → Eccellenteལེགས་སོ། → Eccellenteརིགས་ཀྱི་བུ་ → Figlio di nobile famigliaདེ་ → èདེ་བཞིན་ནོ། → proprio cosìརིགས་ཀྱི་བུ་ → Figlio di nobile famigliaདེ་དེ་བཞིན་ཏེ། → è proprio così.ཇི་ལྟར་ → esattamente comeཁྱོད་ཀྱིས་ → tuབསྟན་པ་ → hai insegnatoབཞིན་དུ་ → comeཤེས་རབ་ཀྱི་ → della Saggezzaཕ་རོལ་ཏུ་ཕྱིན་པ་ → Perfezioneཟབ་མོ་ → profondaལ་ → <span class=\"\\text-quotation-style\\\">preposizione 'a/nella'</span>སྤྱད་པར་བྱ་སྟེ། → Bisogna praticareབཅོམ་ལྡན་འདས་ → Bhagavān <span class=\"\\text-quotation-style\\\">il Beato</span>ཀྱིས་ → da <span class=\"\\text-quotation-style\\\">particella strumentale/agentiva</span>དེ་སྐད་ → cosìཅེས་ → detto, parlato <span class=\"\\text-quotation-style\\\">particella citazionale</span>བཀའ་ → parola, insegnamentoསྩལ་ → dare, concedere <span class=\"\\text-quotation-style\\\">forma onorifica</span>ནས། → dopo <span class=\"\\text-quotation-style\\\">particella che indica sequenza temporale</span>ཚེ་དང་ལྡན་པ་ → venerabileཤཱ་ར་དྭ་ཏིའི་བུ་ → Śāriputraདང་། → eབྱང་ཆུབ་སེམས་དཔའ་ → bodhisattvaསེམས་དཔའ་ཆེན་པོ་ → grande bodhisattvaསྤྱན་རས་གཟིགས་དབང་ཕྱུག་ → Avalokiteśvaraདང་། → eཐམས་ཅད་དང་ལྡན་པའི་ → dotata di ogni qualitàའཁོར་ → assembleaདེ་དག་དང་། → insieme aལྷ་ → dèiདང་། → eམི་ → umaniདང་། → eལྷ་མ་ཡིན་ → asuraདང་། → eདྲི་ཟར་ → gandharvaབཅས་པའི་ → conའཇིག་རྟེན་ → mondoཡི་རངས་ཏེ། → gioirono profondamenteབཅོམ་ལྡན་འདས་ → Bhagavānཀྱིས་ → daགསུངས་པ་ → pronunciatoལ་ → ciò cheམངོན་པར་བསྟོད་དོ། → lodarono con reverenzaའཕགས་པ་ → Nobileཤེས་རབ་ → Saggezzaཀྱི་ → dellaཕ་རོལ་ཏུ་ → Perfezioneཕྱིན་པའི་ → dellaསྙིང་པོ་ → Essenzaརྫོགས་སོ། ། → Qui si conclude",
+      "target_annotation": [
+        {
+          "start": 0,
+          "end": 54
+        },
+        {
+          "start": 54,
+          "end": 108
+        },
+        {
+          "start": 108,
+          "end": 172
+        },
+        {
+          "start": 172,
+          "end": 188
+        },
+        {
+          "start": 188,
+          "end": 245
+        },
+        {
+          "start": 245,
+          "end": 279
+        },
+        {
+          "start": 279,
+          "end": 418
+        },
+        {
+          "start": 418,
+          "end": 516
+        },
+        {
+          "start": 516,
+          "end": 656
+        },
+        {
+          "start": 656,
+          "end": 716
+        },
+        {
+          "start": 716,
+          "end": 846
+        },
+        {
+          "start": 846,
+          "end": 1305
+        },
+        {
+          "start": 1305,
+          "end": 1345
+        },
+        {
+          "start": 1345,
+          "end": 1416
+        },
+        {
+          "start": 1416,
+          "end": 1496
+        },
+        {
+          "start": 1496,
+          "end": 1646
+        },
+        {
+          "start": 1866,
+          "end": 1953
+        },
+        {
+          "start": 1953,
+          "end": 2131
+        },
+        {
+          "start": 2131,
+          "end": 2243
+        },
+        {
+          "start": 2243,
+          "end": 2339
+        },
+        {
+          "start": 2339,
+          "end": 2499
+        },
+        {
+          "start": 2499,
+          "end": 2733
+        },
+        {
+          "start": 2733,
+          "end": 2789
+        },
+        {
+          "start": 2789,
+          "end": 2890
+        },
+        {
+          "start": 2890,
+          "end": 3071
+        },
+        {
+          "start": 3071,
+          "end": 3180
+        },
+        {
+          "start": 3225,
+          "end": 3266
+        },
+        {
+          "start": 3266,
+          "end": 3508
+        },
+        {
+          "start": 3508,
+          "end": 3565
+        }
+      ],
+      "alignment_annotation": [
+        {
+          "start": 0,
+          "end": 183
+        },
+        {
+          "start": 183,
+          "end": 614
+        },
+        {
+          "start": 614,
+          "end": 964
+        },
+        {
+          "start": 964,
+          "end": 1014
+        },
+        {
+          "start": 1014,
+          "end": 1242
+        },
+        {
+          "start": 1242,
+          "end": 1545
+        },
+        {
+          "start": 1545,
+          "end": 1946
+        },
+        {
+          "start": 1946,
+          "end": 2183
+        },
+        {
+          "start": 2183,
+          "end": 2489
+        },
+        {
+          "start": 2489,
+          "end": 2660
+        },
+        {
+          "start": 2660,
+          "end": 2988
+        },
+        {
+          "start": 2988,
+          "end": 4040
+        },
+        {
+          "start": 4040,
+          "end": 4125
+        },
+        {
+          "start": 4125,
+          "end": 4294
+        },
+        {
+          "start": 4294,
+          "end": 4542
+        },
+        {
+          "start": 4542,
+          "end": 5449
+        },
+        {
+          "start": 5449,
+          "end": 5707
+        },
+        {
+          "start": 5707,
+          "end": 6197
+        },
+        {
+          "start": 6197,
+          "end": 6562
+        },
+        {
+          "start": 6562,
+          "end": 6842
+        },
+        {
+          "start": 6842,
+          "end": 7212
+        },
+        {
+          "start": 7212,
+          "end": 7679
+        },
+        {
+          "start": 7679,
+          "end": 7888
+        },
+        {
+          "start": 7888,
+          "end": 8127
+        },
+        {
+          "start": 8127,
+          "end": 8562
+        },
+        {
+          "start": 8562,
+          "end": 8893
+        },
+        {
+          "start": 8893,
+          "end": 9362
+        },
+        {
+          "start": 9362,
+          "end": 9878
+        },
+        {
+          "start": 9878,
+          "end": 10010
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "text_type": "translation",
+        "instance_type": "critical",
+        "source": "Openpecha AI",
+        "colophon": "The Heart of the Blessed Lady Perfection of Wisdom",
+        "incipit_title": {
+          "en": "The Heart of the Perfection of Wisdom Easy to Read"
+        },
+        "language": "en",
+        "category_id": "rw8oWUd1WtwqeD2x0ZMSm",
+        "license": "CC0",
+        "copyright": "Public Domain",
+        "contributions": [],
+        "date": "2026-02-01",
+        "bdrc": ""
+      },
+      "segment_annotation": [
+        {
+          "span": {
+            "start": 0,
+            "end": 50
+          }
+        },
+        {
+          "span": {
+            "start": 50,
+            "end": 107
+          }
+        },
+        {
+          "span": {
+            "start": 107,
+            "end": 182
+          }
+        },
+        {
+          "span": {
+            "start": 182,
+            "end": 207
+          }
+        },
+        {
+          "span": {
+            "start": 207,
+            "end": 267
+          }
+        },
+        {
+          "span": {
+            "start": 267,
+            "end": 297
+          }
+        },
+        {
+          "span": {
+            "start": 297,
+            "end": 440
+          }
+        },
+        {
+          "span": {
+            "start": 440,
+            "end": 564
+          }
+        },
+        {
+          "span": {
+            "start": 564,
+            "end": 695
+          }
+        },
+        {
+          "span": {
+            "start": 695,
+            "end": 755
+          }
+        },
+        {
+          "span": {
+            "start": 755,
+            "end": 888
+          }
+        },
+        {
+          "span": {
+            "start": 888,
+            "end": 1379
+          }
+        },
+        {
+          "span": {
+            "start": 1379,
+            "end": 1416
+          }
+        },
+        {
+          "span": {
+            "start": 1416,
+            "end": 1487
+          }
+        },
+        {
+          "span": {
+            "start": 1487,
+            "end": 1570
+          }
+        },
+        {
+          "span": {
+            "start": 1570,
+            "end": 1994
+          }
+        },
+        {
+          "span": {
+            "start": 1994,
+            "end": 2168
+          }
+        },
+        {
+          "span": {
+            "start": 2168,
+            "end": 2432
+          }
+        },
+        {
+          "span": {
+            "start": 2432,
+            "end": 2582
+          }
+        },
+        {
+          "span": {
+            "start": 2582,
+            "end": 2730
+          }
+        },
+        {
+          "span": {
+            "start": 2730,
+            "end": 3073
+          }
+        },
+        {
+          "span": {
+            "start": 3073,
+            "end": 3320
+          }
+        },
+        {
+          "span": {
+            "start": 3320,
+            "end": 3399
+          }
+        },
+        {
+          "span": {
+            "start": 3399,
+            "end": 3496
+          }
+        },
+        {
+          "span": {
+            "start": 3496,
+            "end": 3690
+          }
+        },
+        {
+          "span": {
+            "start": 3690,
+            "end": 3940
+          }
+        },
+        {
+          "span": {
+            "start": 3940,
+            "end": 3985
+          }
+        },
+        {
+          "span": {
+            "start": 3985,
+            "end": 4247
+          }
+        },
+        {
+          "span": {
+            "start": 4247,
+            "end": 4306
+          }
+        }
+      ],
+      "biblography_annotation": [],
+      "content": "The Heart of the Blessed Lady Perfection of WisdomIn the Sanskrit language: Bhagavatī Prajñāpāramitā HṛdayaIn the Tibetan language: The Heart of the Blessed Lady Perfection of WisdomThis is the first volume.I prostrate to the Blessed Mother, the Perfection of Wisdom.Thus have I heard at one time.The Blessed One was dwelling at Vulture Peak Mountain in Rājagṛha together with a great assembly of monks and a great assembly of bodhisattvas.At that time, the Blessed One entered into the meditative absorption of the Dharma discourse called 'Profound Illumination.'At that time, the noble Bodhisattva Mahasattva Avalokiteshvara was contemplating the practice of the profound perfection of wisdom.Also view those five aggregates as empty of inherent nature.Then, through the power of the Buddha, the venerable Śāriputra addressed the noble great bodhisattva Avalokiteśvara with these words.Translation of the Tibetan Buddhist Text'Noble son, whoever wishes to practice the profound perfection of wisdom, how should they train?' Upon this being asked, the noble Bodhisattva Mahasattva Avalokiteshvara spoke these words to the venerable Shariputra: 'O Shariputra, any son or daughter of noble family who wishes to practice the profound perfection of wisdom should view things in this way: they should correctly and completely observe the five aggregates as empty of inherent nature.'Form is emptiness. Emptiness is form.Form is not other than emptiness, and emptiness is not other than form.Similarly, feelings, perceptions, mental formations, and consciousnesses are empty.Therefore, Shariputra, all phenomena are emptiness—without characteristics, unborn, unceasing, without defilement, without freedom from defilement, without decrease, and without increase.Therefore, Shariputra, in emptiness there is no form, no feeling, no perception, no mental formations, no consciousness; no eye, no ear, no nose, no tongue, no body, no mind; no form, no sound, no smell, no taste, no touch, no phenomena.There is no eye element, and there is nothing from the absence of the mind element up to and including the absence of the dharma element and the mental consciousness element.There is no ignorance, nor is there any cessation of ignorance, up through there is no aging and death, and no cessation of aging and death. There is no suffering, no origin, no cessation, and no path. There is no wisdom, no attainment, and also no non-attainment.Therefore, Shariputra, because bodhisattvas have nothing to attain, they rely on and abide in the perfection of wisdom, free from mental obscurations.Since there are no obscurations in the mind, there is no fear. Having completely transcended misconceptions, one reaches the culmination of nirvana.All the buddhas who abide throughout the three times have attained manifest, perfect, complete enlightenment by relying on the perfection of wisdom.ORAll the buddhas who dwell throughout the past, present, and future have fully and completely awakened to unsurpassable, perfect, complete enlightenment by depending on the perfection of wisdom.Therefore, one should know the prajñāpāramitā mantra, the mantra of great awareness, the unsurpassed mantra, the mantra equal to the unequaled, the mantra that thoroughly pacifies all suffering. Because it is not false, it should be known as true.Thus: Gone, gone, gone beyond, gone completely beyond, enlightenment, so be it!Thus, Śāriputra, a bodhisattva, a great being, should train in the profound perfection of wisdom.Then the Blessed One arose from that samādhi and bestowed praise upon the noble Avalokiteśvara, the Bodhisattva Mahāsattva, saying: 'Excellent, excellent! Son of noble family, it is exactly so.'So it is, noble son. One should practice the profound perfection of wisdom exactly as you have taught.This is indeed the case, son of good family. One should engage in the practice of the profound perfection of wisdom precisely as you have explained.After the Blessed One had spoken these words.The Venerable Shariputra <span class=\"\\text-quotation-style\\\">Son of Sharadwati</span>, the Bodhisattva Mahasattva Noble Avalokiteshvara, and the entire assembly—including gods, humans, asuras, and gandharvas—rejoiced and praised what the Blessed One had spoken.Thus concludes the Noble Heart of the Perfection of Wisdom.",
+      "target_annotation": [
+        {
+          "start": 0,
+          "end": 54
+        },
+        {
+          "start": 54,
+          "end": 108
+        },
+        {
+          "start": 108,
+          "end": 172
+        },
+        {
+          "start": 172,
+          "end": 188
+        },
+        {
+          "start": 188,
+          "end": 245
+        },
+        {
+          "start": 245,
+          "end": 279
+        },
+        {
+          "start": 279,
+          "end": 418
+        },
+        {
+          "start": 418,
+          "end": 516
+        },
+        {
+          "start": 516,
+          "end": 656
+        },
+        {
+          "start": 656,
+          "end": 716
+        },
+        {
+          "start": 716,
+          "end": 846
+        },
+        {
+          "start": 846,
+          "end": 1305
+        },
+        {
+          "start": 1305,
+          "end": 1345
+        },
+        {
+          "start": 1345,
+          "end": 1416
+        },
+        {
+          "start": 1416,
+          "end": 1496
+        },
+        {
+          "start": 1496,
+          "end": 1646
+        },
+        {
+          "start": 1866,
+          "end": 1953
+        },
+        {
+          "start": 1953,
+          "end": 2131
+        },
+        {
+          "start": 2131,
+          "end": 2243
+        },
+        {
+          "start": 2243,
+          "end": 2339
+        },
+        {
+          "start": 2339,
+          "end": 2499
+        },
+        {
+          "start": 2499,
+          "end": 2733
+        },
+        {
+          "start": 2733,
+          "end": 2789
+        },
+        {
+          "start": 2789,
+          "end": 2890
+        },
+        {
+          "start": 2890,
+          "end": 3071
+        },
+        {
+          "start": 3071,
+          "end": 3180
+        },
+        {
+          "start": 3225,
+          "end": 3266
+        },
+        {
+          "start": 3266,
+          "end": 3508
+        },
+        {
+          "start": 3508,
+          "end": 3565
+        }
+      ],
+      "alignment_annotation": [
+        {
+          "start": 0,
+          "end": 50
+        },
+        {
+          "start": 50,
+          "end": 107
+        },
+        {
+          "start": 107,
+          "end": 182
+        },
+        {
+          "start": 182,
+          "end": 207
+        },
+        {
+          "start": 207,
+          "end": 267
+        },
+        {
+          "start": 267,
+          "end": 297
+        },
+        {
+          "start": 297,
+          "end": 440
+        },
+        {
+          "start": 440,
+          "end": 564
+        },
+        {
+          "start": 564,
+          "end": 695
+        },
+        {
+          "start": 695,
+          "end": 755
+        },
+        {
+          "start": 755,
+          "end": 888
+        },
+        {
+          "start": 888,
+          "end": 1379
+        },
+        {
+          "start": 1379,
+          "end": 1416
+        },
+        {
+          "start": 1416,
+          "end": 1487
+        },
+        {
+          "start": 1487,
+          "end": 1570
+        },
+        {
+          "start": 1570,
+          "end": 1994
+        },
+        {
+          "start": 1994,
+          "end": 2168
+        },
+        {
+          "start": 2168,
+          "end": 2432
+        },
+        {
+          "start": 2432,
+          "end": 2582
+        },
+        {
+          "start": 2582,
+          "end": 2730
+        },
+        {
+          "start": 2730,
+          "end": 3073
+        },
+        {
+          "start": 3073,
+          "end": 3320
+        },
+        {
+          "start": 3320,
+          "end": 3399
+        },
+        {
+          "start": 3399,
+          "end": 3496
+        },
+        {
+          "start": 3496,
+          "end": 3690
+        },
+        {
+          "start": 3690,
+          "end": 3940
+        },
+        {
+          "start": 3940,
+          "end": 3985
+        },
+        {
+          "start": 3985,
+          "end": 4247
+        },
+        {
+          "start": 4247,
+          "end": 4306
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "text_type": "translation",
+        "instance_type": "critical",
+        "source": "Openpecha AI",
+        "colophon": "The Heart of the Perfection of Wisdom of the Blessed Lady",
+        "incipit_title": {
+          "en": "The Heart of the Perfection of Wisdom AI Draft"
+        },
+        "language": "en",
+        "category_id": "rw8oWUd1WtwqeD2x0ZMSm",
+        "license": "CC0",
+        "copyright": "Public Domain",
+        "contributions": [],
+        "date": "2026-02-01",
+        "bdrc": ""
+      },
+      "segment_annotation": [
+        {
+          "span": {
+            "start": 0,
+            "end": 57
+          }
+        },
+        {
+          "span": {
+            "start": 57,
+            "end": 88
+          }
+        },
+        {
+          "span": {
+            "start": 88,
+            "end": 170
+          }
+        },
+        {
+          "span": {
+            "start": 170,
+            "end": 184
+          }
+        },
+        {
+          "span": {
+            "start": 184,
+            "end": 233
+          }
+        },
+        {
+          "span": {
+            "start": 233,
+            "end": 263
+          }
+        },
+        {
+          "span": {
+            "start": 263,
+            "end": 407
+          }
+        },
+        {
+          "span": {
+            "start": 407,
+            "end": 517
+          }
+        },
+        {
+          "span": {
+            "start": 517,
+            "end": 766
+          }
+        },
+        {
+          "span": {
+            "start": 766,
+            "end": 832
+          }
+        },
+        {
+          "span": {
+            "start": 832,
+            "end": 959
+          }
+        },
+        {
+          "span": {
+            "start": 959,
+            "end": 1443
+          }
+        },
+        {
+          "span": {
+            "start": 1443,
+            "end": 1486
+          }
+        },
+        {
+          "span": {
+            "start": 1486,
+            "end": 1552
+          }
+        },
+        {
+          "span": {
+            "start": 1552,
+            "end": 1631
+          }
+        },
+        {
+          "span": {
+            "start": 1631,
+            "end": 2080
+          }
+        },
+        {
+          "span": {
+            "start": 2080,
+            "end": 2231
+          }
+        },
+        {
+          "span": {
+            "start": 2231,
+            "end": 2520
+          }
+        },
+        {
+          "span": {
+            "start": 2520,
+            "end": 2638
+          }
+        },
+        {
+          "span": {
+            "start": 2638,
+            "end": 3001
+          }
+        },
+        {
+          "span": {
+            "start": 3001,
+            "end": 3161
+          }
+        },
+        {
+          "span": {
+            "start": 3161,
+            "end": 3391
+          }
+        },
+        {
+          "span": {
+            "start": 3391,
+            "end": 3467
+          }
+        },
+        {
+          "span": {
+            "start": 3467,
+            "end": 3564
+          }
+        },
+        {
+          "span": {
+            "start": 3564,
+            "end": 3762
+          }
+        },
+        {
+          "span": {
+            "start": 3762,
+            "end": 3889
+          }
+        },
+        {
+          "span": {
+            "start": 3889,
+            "end": 3980
+          }
+        },
+        {
+          "span": {
+            "start": 3980,
+            "end": 4203
+          }
+        },
+        {
+          "span": {
+            "start": 4203,
+            "end": 4262
+          }
+        }
+      ],
+      "biblography_annotation": [],
+      "content": "The Heart of the Perfection of Wisdom of the Blessed LadyBhagavatī Prajñāpāramitā HṛdayaIn the Tibetan language: The Heart of the Perfection of Wisdom of the Blessed LadyFirst FascicleI prostrate to the Blessed Mother Prajñāpāramitā.Thus I have heard at one time.The Blessed One was dwelling on Vulture Peak Mountain in Rājagṛha, together with a great assembly of monks and a great assembly of bodhisattvas.At that time, the Blessed One entered into the samādhi of the Dharma discourse called 'Profound Illumination.'At that time, the noble Bodhisattva Mahasattva Avalokiteśvara was thoroughly contemplating the practice of the profound perfection of wisdom that which transcends conceptual understanding and ordinary causality with direct, non-conceptual awareness.One should view those five aggregates as empty of inherent nature.Then, through the power of the Buddha, the venerable Śāriputra spoke these words to the noble great bodhisattva Avalokiteśvara.Son of noble family, whoever wishes to practice the profound Perfection of Wisdom, how should they train in meditation? Having thus spoken, the bodhisattva mahāsattva Noble Avalokiteshvara said these words to the venerable Shariputra: O Shariputra, any son of noble family or daughter of noble family who wishes to engage in the profound Perfection of Wisdom should view things in this way: they should correctly and thoroughly observe the five aggregates as empty of inherent nature.Form is empty. Emptiness manifests as form.Form is not other than emptiness;emptiness is not other than form.Similarly, feeling, perception, mental formations, and consciousness are empty.Therefore, Shariputra, all phenomena are emptiness; without characteristics, unborn, unceased, stainless, not free from stains, not diminished, not filled.Therefore, Shariputra, in emptiness—that ultimate nature of reality—there is no form, no feeling, no perception, no mental formations, no consciousness; no eye, no ear, no nose, no tongue, no body, no mind; no visible form, no sound, no smell, no taste, no tangible object, no mental phenomena.There is no eye element, and from there up to the mind element there is none; likewise, there is no dharma element and no mental consciousness element.There is neither inherently existing ignorance nor cessation of ignorance, up through neither aging-and-death nor cessation of aging-and-death.Neither suffering, origin, cessation, nor path exist as such.There is neither wisdom to grasp, nor attainment to achieve, nor even non-attainment.Therefore, Shariputra, because there is nothing to attain, bodhisattvas rely on and abide in the Perfection of Wisdom.Since the mind is intrinsically free from obscurations that have never truly existed, there is no fear; having completely transcended misconceptions about ultimate existence through the progressive stages of the path up to vajra-like concentration, one reaches the culmination of nirvāṇa—the perfect state of buddhahood that transcends all expression and thought.All buddhas established throughout the three times, by relying on the Perfection of Wisdom, have fully awakened to unsurpassed, perfect, complete enlightenment.Therefore, the Perfection of Wisdom mantra, the great vidyā mantra, the unsurpassed mantra, the mantra equal to the unequaled, the mantra that thoroughly pacifies all suffering. Because it is not false, it should be known as true.Thus: Gone, gone, gone beyond, thoroughly gone beyond, enlightenment, svaha!Thus, Śāriputra, a bodhisattva, a great being, should train in the profound perfection of wisdom.Then the Blessed One arose from that samādhi. Having bestowed praise upon the noble Avalokiteśvara, the Bodhisattva Mahāsattva, saying: 'Excellent, excellent! Son of noble family, it is exactly so.'Thus it is, son of noble family, one should practice the profound Perfection of Wisdom in exactly the way that has been taught.After the Blessed One <span class=\"\\text-quotation-style\\\">Bhagavān</span> had thus spoken,The Venerable Śāradvatīputra, and the bodhisattva mahāsattva Avalokiteśvara, and the entire assembly, and the world including gods, humans, asuras, and gandharvas rejoiced and openly praised what the Blessed One had spoken.Thus concludes the Noble Heart of the Perfection of Wisdom.",
+      "target_annotation": [
+        {
+          "start": 0,
+          "end": 54
+        },
+        {
+          "start": 54,
+          "end": 108
+        },
+        {
+          "start": 108,
+          "end": 172
+        },
+        {
+          "start": 172,
+          "end": 188
+        },
+        {
+          "start": 188,
+          "end": 245
+        },
+        {
+          "start": 245,
+          "end": 279
+        },
+        {
+          "start": 279,
+          "end": 418
+        },
+        {
+          "start": 418,
+          "end": 516
+        },
+        {
+          "start": 516,
+          "end": 656
+        },
+        {
+          "start": 656,
+          "end": 716
+        },
+        {
+          "start": 716,
+          "end": 846
+        },
+        {
+          "start": 846,
+          "end": 1305
+        },
+        {
+          "start": 1305,
+          "end": 1345
+        },
+        {
+          "start": 1345,
+          "end": 1416
+        },
+        {
+          "start": 1416,
+          "end": 1496
+        },
+        {
+          "start": 1496,
+          "end": 1646
+        },
+        {
+          "start": 1866,
+          "end": 1953
+        },
+        {
+          "start": 1953,
+          "end": 2131
+        },
+        {
+          "start": 2131,
+          "end": 2243
+        },
+        {
+          "start": 2243,
+          "end": 2339
+        },
+        {
+          "start": 2339,
+          "end": 2499
+        },
+        {
+          "start": 2499,
+          "end": 2733
+        },
+        {
+          "start": 2733,
+          "end": 2789
+        },
+        {
+          "start": 2789,
+          "end": 2890
+        },
+        {
+          "start": 2890,
+          "end": 3071
+        },
+        {
+          "start": 3071,
+          "end": 3180
+        },
+        {
+          "start": 3225,
+          "end": 3266
+        },
+        {
+          "start": 3266,
+          "end": 3508
+        },
+        {
+          "start": 3508,
+          "end": 3565
+        }
+      ],
+      "alignment_annotation": [
+        {
+          "start": 0,
+          "end": 57
+        },
+        {
+          "start": 57,
+          "end": 88
+        },
+        {
+          "start": 88,
+          "end": 170
+        },
+        {
+          "start": 170,
+          "end": 184
+        },
+        {
+          "start": 184,
+          "end": 233
+        },
+        {
+          "start": 233,
+          "end": 263
+        },
+        {
+          "start": 263,
+          "end": 407
+        },
+        {
+          "start": 407,
+          "end": 517
+        },
+        {
+          "start": 517,
+          "end": 766
+        },
+        {
+          "start": 766,
+          "end": 832
+        },
+        {
+          "start": 832,
+          "end": 959
+        },
+        {
+          "start": 959,
+          "end": 1443
+        },
+        {
+          "start": 1443,
+          "end": 1486
+        },
+        {
+          "start": 1486,
+          "end": 1552
+        },
+        {
+          "start": 1552,
+          "end": 1631
+        },
+        {
+          "start": 1631,
+          "end": 2080
+        },
+        {
+          "start": 2080,
+          "end": 2231
+        },
+        {
+          "start": 2231,
+          "end": 2520
+        },
+        {
+          "start": 2520,
+          "end": 2638
+        },
+        {
+          "start": 2638,
+          "end": 3001
+        },
+        {
+          "start": 3001,
+          "end": 3161
+        },
+        {
+          "start": 3161,
+          "end": 3391
+        },
+        {
+          "start": 3391,
+          "end": 3467
+        },
+        {
+          "start": 3467,
+          "end": 3564
+        },
+        {
+          "start": 3564,
+          "end": 3762
+        },
+        {
+          "start": 3762,
+          "end": 3889
+        },
+        {
+          "start": 3889,
+          "end": 3980
+        },
+        {
+          "start": 3980,
+          "end": 4203
+        },
+        {
+          "start": 4203,
+          "end": 4262
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "text_type": "translation",
+        "instance_type": "critical",
+        "source": "Openpecha AI",
+        "colophon": "\"བཅོམ་ལྡན་འདས་མ་ → Blessed Lady<br>ཤེས་རབ་ → wisdom<br>ཀྱི་ → of<br>ཕ་རོལ་ཏུ་ཕྱིན་པའི་ → perfection<br>སྙིང་པོ་ → heart, essence\",",
+        "incipit_title": {
+          "en": "The Heart of the Perfection of Wisdom Word by Word"
+        },
+        "language": "en",
+        "category_id": "rw8oWUd1WtwqeD2x0ZMSm",
+        "license": "CC0",
+        "copyright": "Public Domain",
+        "contributions": [],
+        "date": "2026-02-01",
+        "bdrc": ""
+      },
+      "segment_annotation": [
+        {
+          "span": {
+            "start": 0,
+            "end": 114
+          }
+        },
+        {
+          "span": {
+            "start": 114,
+            "end": 539
+          }
+        },
+        {
+          "span": {
+            "start": 539,
+            "end": 694
+          }
+        },
+        {
+          "span": {
+            "start": 694,
+            "end": 788
+          }
+        },
+        {
+          "span": {
+            "start": 788,
+            "end": 974
+          }
+        },
+        {
+          "span": {
+            "start": 974,
+            "end": 1076
+          }
+        },
+        {
+          "span": {
+            "start": 1076,
+            "end": 1441
+          }
+        },
+        {
+          "span": {
+            "start": 1441,
+            "end": 1706
+          }
+        },
+        {
+          "span": {
+            "start": 1706,
+            "end": 2098
+          }
+        },
+        {
+          "span": {
+            "start": 2098,
+            "end": 2343
+          }
+        },
+        {
+          "span": {
+            "start": 2343,
+            "end": 2610
+          }
+        },
+        {
+          "span": {
+            "start": 2610,
+            "end": 3616
+          }
+        },
+        {
+          "span": {
+            "start": 3616,
+            "end": 3755
+          }
+        },
+        {
+          "span": {
+            "start": 3755,
+            "end": 3918
+          }
+        },
+        {
+          "span": {
+            "start": 3918,
+            "end": 4110
+          }
+        },
+        {
+          "span": {
+            "start": 4110,
+            "end": 4900
+          }
+        },
+        {
+          "span": {
+            "start": 4900,
+            "end": 5164
+          }
+        },
+        {
+          "span": {
+            "start": 5164,
+            "end": 5713
+          }
+        },
+        {
+          "span": {
+            "start": 5713,
+            "end": 5977
+          }
+        },
+        {
+          "span": {
+            "start": 5977,
+            "end": 6277
+          }
+        },
+        {
+          "span": {
+            "start": 6277,
+            "end": 6658
+          }
+        },
+        {
+          "span": {
+            "start": 6658,
+            "end": 7067
+          }
+        },
+        {
+          "span": {
+            "start": 7067,
+            "end": 7205
+          }
+        },
+        {
+          "span": {
+            "start": 7205,
+            "end": 7401
+          }
+        },
+        {
+          "span": {
+            "start": 7401,
+            "end": 7789
+          }
+        },
+        {
+          "span": {
+            "start": 7789,
+            "end": 8067
+          }
+        },
+        {
+          "span": {
+            "start": 8067,
+            "end": 8297
+          }
+        },
+        {
+          "span": {
+            "start": 8297,
+            "end": 8782
+          }
+        },
+        {
+          "span": {
+            "start": 8782,
+            "end": 8913
+          }
+        }
+      ],
+      "biblography_annotation": [],
+      "content": "\"བཅོམ་ལྡན་འདས་མ་ → Blessed Ladyཤེས་རབ་ → wisdomཀྱི་ → ofཕ་རོལ་ཏུ་ཕྱིན་པའི་ → perfectionསྙིང་པོ་ → heart, essence\",\"༄༅། → [auspicious symbols/marks]རྒྱ་གར་སྐད་དུ། → in Sanskrit/in the Indian languageབྷ་ག་བ་ཏི་ → Bhagavatī <span class='\\\"text-quotation-style\\\"'>Blessed One - feminine form</span>པྲ་ཛྙ་ → Prajñā <span class='\\\"text-quotation-style\\\"'>wisdom/insight</span>པ་ར་མི་ཏཱྀ་ → Pāramitā <span class='\\\"text-quotation-style\\\"'>perfection/transcendence</span>ཧྲད་ཡ → Hṛdaya <span class='\\\"text-quotation-style\\\"'>heart/essence</span>\",\"བོད་སྐད་དུ། → In the Tibetan languageབཅོམ་ལྡན་འདས་མ་ → Blessed Ladyཤེས་རབ་ཀྱི་ → of wisdomཕ་རོལ་ཏུ་ཕྱིན་པའི་ → of the perfectionསྙིང་པོ། → heart/essence\",\"བམ་པོ་ → fascicle/volumeགཅིག་ → first/oneགོ → final particle indicating completion/emphasis\",\"བཅོམ་ལྡན་འདས་མ་ → Blessed Motherཤེས་རབ་ཀྱི་ → of wisdomཕ་རོལ་དུ་ཕྱིན་པ་ → perfection <span class='\\\"text-quotation-style\\\"'>lit. 'gone beyond'</span>ལ་ → toཕྱག་འཚལ་ལོ། ། → I prostrate\",\"འདི་ → thus/thisསྐད་ → speech/wordsབདག་གིས་ → by me/Iཐོས་པ་ → heardདུས་ → timeགཅིག་ → oneན། → at/in\",\"བཅོམ་ལྡན་འདས་ → Blessed Oneརྒྱལ་པོའི་ཁབ་ → Rājagṛha <span class='\\\"text-quotation-style\\\"'>literally: 'King's Palace'</span>བྱ་རྒོད་ཕུང་པོའི་རི་ལ་ → on Vulture Peak Mountainདགེ་སློང་གི་ → of monksདགེ་འདུན་ཆེན་པོ་ → great assemblyདང་ → andབྱང་ཆུབ་སེམས་དཔའི་ → of bodhisattvasདགེ་འདུན་ཆེན་པོ་ → great assemblyདང་ → andཐབས་ཅིག་ཏུ་ → togetherབཞུགས་ཏེ་ → was dwelling\",\"དེའི་ཚེ་ → at that timeབཅོམ་ལྡན་འདས་ → the Blessed Oneཟབ་མོ་ → profoundསྣང་བ་ → illumination/appearanceཞེས་བྱ་བའི་ → called/namedཆོས་ཀྱི་ → of Dharmaརྣམ་གྲངས་ཀྱི་ → discourse/enumerationཏིང་ངེ་འཛིན་ → samādhiལ་ → intoསྙོམས་པར་ → evenly/balancedཞུགས་སོ་ → entered\",\"ཡང་ → again/moreoverདེའི་ཚེ་ → at that timeབྱང་ཆུབ་སེམས་དཔའ་ → bodhisattvaསེམས་དཔའ་ཆེན་པོ་ → mahasattva <span class='\\\"text-quotation-style\\\"'>great being</span>འཕགས་པ་ → nobleསྤྱན་རས་གཟིགས་དབང་ཕྱུག་ → Avalokiteśvaraཤེས་རབ་ཀྱི་ → of wisdomཕ་རོལ་ཏུ་ → perfection/transcendentཟབ་མོའི་ → profoundསྤྱོད་པ་ → practiceཉིད་ལ་ → itself/preciselyརྣམ་པར་ → thoroughlyབལྟ་ཞིང་ → contemplating/looking\",\"ཕུང་པོ་ལྔ་པོ་ → the five aggregatesདེ་དག་ → thoseལ་ཡང་ → also/moreover <span class='\\\"text-quotation-style\\\"'>particle</span>རང་བཞིན་གྱིས་ → by/of inherent natureསྟོང་པར་ → as emptyརྣམ་པར་ → completely/thoroughlyབལྟའོ། ། → should view/observe\",\"དེ་ནས་ → thenསངས་རྒྱས་ཀྱི་ → of the Buddhaམཐུས་ → through the powerཚེ་དང་ལྡན་པ་ → venerableཤཱ་རིའི་བུས་ → Śāriputraབྱང་ཆུབ་སེམས་དཔའ་ → bodhisattvaཆེན་པོ་ → greatའཕགས་པ་ → nobleསྤྱན་རས་གཟིགས་དབང་ཕྱུག་ → Avalokiteśvaraལ་ → toའདི་སྐད་ཅེས་ → these wordsསྨྲས་སོ → spoke\",\"རིགས་ཀྱི་བུ་ → son of noble familyགང་ལ་ལ་ → whoeverཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ → Perfection of Wisdomཟབ་མོའི་ → profoundསྤྱོད་པ་ → practiceསྤྱད་པར་ → to engage inའདོད་པ་ → wishesདེས་ → they/by themཇི་ལྟར་ → howབསླབ་པར་བྱ་ → should trainདེ་སྐད་ཅེས་སྨྲས་པ་དང་ → having thus spokenབྱང་ཆུབ་སེམས་དཔའ་ → bodhisattvaསེམས་དཔའ་ཆེན་པོ་ → mahāsattvaའཕགས་པ་ → nobleསྤྱན་རས་གཟིགས་དབང་ཕྱུག་ → Avalokiteshvaraགིས་ → byཚེ་དང་ལྡན་པ་ → venerableཤཱ་ར་དྭ་ཏའི་བུ་ → Shariputraལ་ → toའདི་སྐད་ཅེས་སྨྲས་སོ་ → said these wordsཤཱ་རིའི་བུ་ → O Shariputraརིགས་ཀྱི་བུའམ་ → son of noble familyརིགས་ཀྱི་བུ་མོ་ → daughter of noble familyགང་ལ་ལ་ → any/whoeverཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ → Perfection of Wisdomཟབ་མོའི་ → profoundསྤྱོད་པ་ → practiceསྤྱད་པར་ → to engage inའདོད་པ་ → wishesདེས་ → they/by themའདི་ལྟར་ → in this wayརྣམ་པར་བལྟ་བར་བྱ་སྟེ་ → should viewཕུང་པོ་ལྔ་པོ་ → five aggregatesདེ་དག་ → thoseཀྱང་ → alsoརང་བཞིན་གྱིས་ → by inherent natureསྟོང་པར་ → as emptyརྣམ་པར་ → thoroughlyཡང་དག་པར་ → correctlyརྗེས་སུ་བལྟའོ་ → should observe\",\"གཟུགས་ → formསྟོང་པའོ → is emptyསྟོང་པ་ཉིད་ → emptinessགཟུགས་ → formསོ → is <span class='\\\"text-quotation-style\\\"'>final particle</span>\",\"གཟུགས་ → formལས་ → fromསྟོང་པ་ཉིད་ → emptinessགཞན་ → otherམ་ཡིན་ → is notསྟོང་པ་ཉིད་ → emptinessལས་ → fromཀྱང་ → alsoགཟུགས་ → formགཞན་ → otherམ་ཡིན་ནོ་ → is not\",\"དེ་བཞིན་དུ་ → similarlyཚོར་བ་ → feelingདང་ → andའདུ་ཤེས་ → perceptionདང་ → andའདུ་བྱེད་ → mental formationsདང་ → andརྣམ་པར་ཤེས་པ་ → consciousnessརྣམས་ → plural markerསྟོང་པའོ། ། → are empty\",\"ཤཱ་རིའི་བུ་ → Shariputraདེ་ལྟ་བས་ན་ → thereforeཆོས་ཐམས་ཅད་ → all phenomenaསྟོང་པ་ཉིད་ → emptinessདེ་ → that isམཚན་ཉིད་མེད་པ་ → without characteristicsམ་སྐྱེས་པ་ → unbornམ་འགགས་པ་ → unceasedདྲི་མ་མེད་པ་ → stainlessདྲི་མ་དང་བྲལ་བ་མེད་པ་ → not free from stainsབྲི་བ་མེད་པ་ → not diminishedགང་བ་མེད་པའོ་ → not filledཤཱ་རིའི་བུ་ → Shariputraདེ་ལྟ་བས་ན་ → thereforeསྟོང་པ་ཉིད་ལ་ → in emptinessགཟུགས་མེད་ → no formཚོར་བ་མེད་ → no feelingའདུ་ཤེས་མེད་ → no perceptionའདུ་བྱེད་མེད་ → no mental formationsརྣམ་པར་ཤེས་པ་མེད་ → no consciousnessམིག་མེད་ → no eyeརྣ་བ་མེད་ → no earསྣ་མེད་ → no noseལྕེ་མེད་ → no tongueལུས་མེད་ → no bodyཡིད་མེད་ → no mindགཟུགས་མེད་ → no visible formསྒྲ་མེད་ → no soundདྲི་མེད་ → no smellརོ་མེད་ → no tasteརེག་བྱ་མེད་ → no tangible objectཆོས་མེད་དོ་ → no mental phenomena\",\"མིག་གི་ → of eyeཁམས་ → elementམེད་པ་ → is not/does not existནས་ → fromཡིད་ཀྱི་ → of mindཁམས་ → elementམེད། → is not/does not existཡིད་ཀྱི་ → of mindརྣམ་པར་ཤེས་པའི་ → consciousnessཁམས་ → elementཀྱི་བར་དུ་ → up toཡང་ → also/likewiseམེད་དོ། → is not/does not exist\",\"མ་རིག་པ་ → ignoranceམེད། → does not exist/is notམ་རིག་པ་ → ignoranceཟད་པ་ → cessationམེད་པ་ → does not existནས་ → from/up throughརྒ་ཤི་ → aging-and-deathམེད། → does not existརྒ་ཤི་ → aging-and-deathཟད་པའི་ → cessationབར་དུ་ → until/up toཡང་ → also/evenམེད་དོ། ། → does not existསྡུག་བསྔལ་བ་ → sufferingདང་། → andཀུན་འབྱུང་བ་ → originདང་། → andའགོག་པ་ → cessationདང་། → andལམ་ → pathམེད། → does not existཡེ་ཤེས་ → wisdomམེད། → does not existཐོབ་པ་ → attainmentམེད། → does not existམ་ཐོབ་པ་ → non-attainmentཡང་ → even/alsoམེད་དོ། ། → does not exist\",\"ཤཱ་རིའི་བུ་ → Shariputraདེ་ལྟ་བས་ན་ → thereforeབྱང་ཆུབ་སེམས་དཔའ་ → bodhisattvasརྣམས་ → plural markerཐོབ་པ་ → attain/obtainམེད་པའི་ → nothing/withoutཕྱིར་ → becauseཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ → Perfection of Wisdomལ་ → on/toབརྟེན་ཅིང་ → relyགནས་ཏེ་ → abide/dwell\",\"སེམས་ལ་ → in/to the mindསྒྲིབ་པ་ → obscurationsམེད་པས་ → since there are none/being free fromསྐྲག་པ་ → fearམེད་དེ་ → there is noཕྱིན་ཅི་ལོག་ → misconceptionsལས་ → fromཤིན་ཏུ་ → completelyའདས་ནས་ → having transcendedམྱ་ངན་ལས་འདས་པར་ → to nirvāṇaམཐར་ → culmination/finalཕྱིན་ཏོ་ → reached/arrived at\",\"དུས་གསུམ་དུ་ → in the three timesརྣམ་པར་བཞུགས་པའི་ → established/dwellingསངས་རྒྱས་ → buddhasཐམས་ཅད་ → allཀྱང་ → also/evenཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ → Perfection of Wisdomལ་ → to/onབརྟེན་ནས་ → by relyingབླ་ན་མེད་པ་ → unsurpassedཡང་དག་པར་ → perfect/authenticརྫོགས་པའི་ → completeབྱང་ཆུབ་ → enlightenmentཏུ་ → to/intoམངོན་པར་རྫོགས་པར་ → fully/manifestlyསངས་རྒྱས་སོ → have awakened\",\"དེ་ལྟ་བས་ན་ → thereforeཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པའི་སྔགས་ → perfection of wisdom mantraརིག་པ་ཆེན་པོའི་སྔགས་ → great vidyā mantraབླ་ན་མེད་པའི་སྔགས་ → unsurpassed mantraམི་མཉམ་པ་དང་མཉམ་པའི་སྔགས་ → mantra equal to the unequaledསྡུག་བསྔལ་ཐམས་ཅད་ → all sufferingརབ་ཏུ་ཞི་བར་བྱེད་པའི་སྔགས་ → mantra that thoroughly pacifiesམི་རྫུན་པས་ན་ → because it is not falseབདེན་པར་ → as trueཤེས་པར་བྱ་སྟེ་ → should be known\",\"ཏདྱ་ཐཱ། → Thusག་ཏེ་→ goneག་ཏེ་→ goneཔཱ་ར་ག་ཏེ། → gone beyondཔཱ་ར་སཾ་ག་ཏེ། → thoroughly gone beyondབོ་དྷི་→ enlightenmentསྭ་ཧཱ། → svaha!\",\"ཤཱ་རིའི་བུ་ → Śāriputraབྱང་ཆུབ་སེམས་དཔའ་ → bodhisattvaསེམས་དཔའ་ཆེན་པོ་ → great beingདེ་ལྟར་ → thusཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ → perfection of wisdomཟབ་མོ་ → profoundབསླབ་པར་བྱའོ། → should train\",\"དེ་ནས་ → Thenབཅོམ་ལྡན་འདས་ → Blessed Oneཏིང་ངེ་འཛིན་ → samādhiདེ་ → thatལས་ → fromབཞེངས་ཏེ་ → aroseབྱང་ཆུབ་སེམས་དཔའ་ → bodhisattvaསེམས་དཔའ་ཆེན་པོ་ → mahāsattvaའཕགས་པ་ → nobleསྤྱན་རས་དབང་ཕྱུག་ → Avalokiteśvaraལ་ → toལེགས་སོ་ → excellentཞེས་བྱ་བ་ → sayingབྱིན་ནས་ → having bestowedལེགས་སོ་ལེགས་སོ་ → excellent, excellentརིགས་ཀྱི་བུ་ → son of noble familyདེ་དེ་བཞིན་ནོ་ → it is exactly so\",\"རིགས་ཀྱི་བུ་ → son of noble familyདེ་དེ་བཞིན་ཏེ། → thus it isཇི་ལྟར་ → exactly as/in the way thatཁྱོད་ཀྱིས་ → by youབསྟན་པ་ → taughtབཞིན་དུ་ → according to/just likeཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ → Perfection of Wisdomཟབ་མོ་ → profoundལ་ → to/inསྤྱད་པར་བྱ་སྟེ། → should practice\",\"བཅོམ་ལྡན་འདས་ → Blessed One <span class='\\\"text-quotation-style\\\"'>Bhagavān</span>ཀྱིས་ → by/from <span class='\\\"text-quotation-style\\\"'>agentive particle</span>དེ་སྐད་ཅེས་ → thus/in this wayབཀའ་སྩལ་ནས་ → having spoken/declared\",\"ཚེ་དང་ལྡན་པ་ → Venerableཤཱ་ར་དྭ་ཏིའི་བུ་ → Śāradvatīputraདང་ → andབྱང་ཆུབ་སེམས་དཔའ་ → bodhisattvaསེམས་དཔའ་ཆེན་པོ་ → mahāsattvaསྤྱན་རས་གཟིགས་དབང་ཕྱུག་ → Avalokiteśvaraདང་ → andཐམས་ཅད་དང་ལྡན་པའི་ → entireའཁོར་ → assemblyདེ་དག་ → thoseདང་ → andལྷ་ → godsདང་ → andམི་ → humansདང་ → andལྷ་མ་ཡིན་ → asurasདང་ → andདྲི་ཟར་ → gandharvasབཅས་པའི་ → includingའཇིག་རྟེན་ → worldཡི་རངས་ཏེ་ → rejoicedབཅོམ་ལྡན་འདས་ → Blessed Oneཀྱིས་ → byགསུངས་པ་ → spokenལ་ → toམངོན་པར་བསྟོད་དོ་ → openly praised\",\"འཕགས་པ་ → Nobleཤེས་རབ་ཀྱི་ → of wisdomཕ་རོལ་ཏུ་ཕྱིན་པའི་ → perfectionསྙིང་པོ་ → heart/essenceརྫོགས་སོ། ། → concludes/is completed\"",
+      "target_annotation": [
+        {
+          "start": 0,
+          "end": 54
+        },
+        {
+          "start": 54,
+          "end": 108
+        },
+        {
+          "start": 108,
+          "end": 172
+        },
+        {
+          "start": 172,
+          "end": 188
+        },
+        {
+          "start": 188,
+          "end": 245
+        },
+        {
+          "start": 245,
+          "end": 279
+        },
+        {
+          "start": 279,
+          "end": 418
+        },
+        {
+          "start": 418,
+          "end": 516
+        },
+        {
+          "start": 516,
+          "end": 656
+        },
+        {
+          "start": 656,
+          "end": 716
+        },
+        {
+          "start": 716,
+          "end": 846
+        },
+        {
+          "start": 846,
+          "end": 1305
+        },
+        {
+          "start": 1305,
+          "end": 1345
+        },
+        {
+          "start": 1345,
+          "end": 1416
+        },
+        {
+          "start": 1416,
+          "end": 1496
+        },
+        {
+          "start": 1496,
+          "end": 1646
+        },
+        {
+          "start": 1866,
+          "end": 1953
+        },
+        {
+          "start": 1953,
+          "end": 2131
+        },
+        {
+          "start": 2131,
+          "end": 2243
+        },
+        {
+          "start": 2243,
+          "end": 2339
+        },
+        {
+          "start": 2339,
+          "end": 2499
+        },
+        {
+          "start": 2499,
+          "end": 2733
+        },
+        {
+          "start": 2733,
+          "end": 2789
+        },
+        {
+          "start": 2789,
+          "end": 2890
+        },
+        {
+          "start": 2890,
+          "end": 3071
+        },
+        {
+          "start": 3071,
+          "end": 3180
+        },
+        {
+          "start": 3225,
+          "end": 3266
+        },
+        {
+          "start": 3266,
+          "end": 3508
+        },
+        {
+          "start": 3508,
+          "end": 3565
+        }
+      ],
+      "alignment_annotation": [
+        {
+          "start": 0,
+          "end": 114
+        },
+        {
+          "start": 114,
+          "end": 539
+        },
+        {
+          "start": 539,
+          "end": 694
+        },
+        {
+          "start": 694,
+          "end": 788
+        },
+        {
+          "start": 788,
+          "end": 974
+        },
+        {
+          "start": 974,
+          "end": 1076
+        },
+        {
+          "start": 1076,
+          "end": 1441
+        },
+        {
+          "start": 1441,
+          "end": 1706
+        },
+        {
+          "start": 1706,
+          "end": 2098
+        },
+        {
+          "start": 2098,
+          "end": 2343
+        },
+        {
+          "start": 2343,
+          "end": 2610
+        },
+        {
+          "start": 2610,
+          "end": 3616
+        },
+        {
+          "start": 3616,
+          "end": 3755
+        },
+        {
+          "start": 3755,
+          "end": 3918
+        },
+        {
+          "start": 3918,
+          "end": 4110
+        },
+        {
+          "start": 4110,
+          "end": 4900
+        },
+        {
+          "start": 4900,
+          "end": 5164
+        },
+        {
+          "start": 5164,
+          "end": 5713
+        },
+        {
+          "start": 5713,
+          "end": 5977
+        },
+        {
+          "start": 5977,
+          "end": 6277
+        },
+        {
+          "start": 6277,
+          "end": 6658
+        },
+        {
+          "start": 6658,
+          "end": 7067
+        },
+        {
+          "start": 7067,
+          "end": 7205
+        },
+        {
+          "start": 7205,
+          "end": 7401
+        },
+        {
+          "start": 7401,
+          "end": 7789
+        },
+        {
+          "start": 7789,
+          "end": 8067
+        },
+        {
+          "start": 8067,
+          "end": 8297
+        },
+        {
+          "start": 8297,
+          "end": 8782
+        },
+        {
+          "start": 8782,
+          "end": 8913
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "text_type": "translation",
+        "instance_type": "critical",
+        "source": "Openpecha AI",
+        "colophon": "世尊母般若波罗蜜多心要",
+        "incipit_title": {
+          "zh": "般若波羅密多心經 Easy to Read"
+        },
+        "language": "zh",
+        "category_id": "rw8oWUd1WtwqeD2x0ZMSm",
+        "license": "CC0",
+        "copyright": "Public Domain",
+        "contributions": [],
+        "date": "2026-02-01",
+        "bdrc": ""
+      },
+      "segment_annotation": [
+        {
+          "span": {
+            "start": 0,
+            "end": 11
+          }
+        },
+        {
+          "span": {
+            "start": 11,
+            "end": 35
+          }
+        },
+        {
+          "span": {
+            "start": 35,
+            "end": 52
+          }
+        },
+        {
+          "span": {
+            "start": 52,
+            "end": 56
+          }
+        },
+        {
+          "span": {
+            "start": 56,
+            "end": 70
+          }
+        },
+        {
+          "span": {
+            "start": 70,
+            "end": 78
+          }
+        },
+        {
+          "span": {
+            "start": 78,
+            "end": 107
+          }
+        },
+        {
+          "span": {
+            "start": 107,
+            "end": 130
+          }
+        },
+        {
+          "span": {
+            "start": 130,
+            "end": 162
+          }
+        },
+        {
+          "span": {
+            "start": 162,
+            "end": 180
+          }
+        },
+        {
+          "span": {
+            "start": 180,
+            "end": 211
+          }
+        },
+        {
+          "span": {
+            "start": 211,
+            "end": 332
+          }
+        },
+        {
+          "span": {
+            "start": 332,
+            "end": 342
+          }
+        },
+        {
+          "span": {
+            "start": 342,
+            "end": 357
+          }
+        },
+        {
+          "span": {
+            "start": 357,
+            "end": 383
+          }
+        },
+        {
+          "span": {
+            "start": 383,
+            "end": 512
+          }
+        },
+        {
+          "span": {
+            "start": 512,
+            "end": 532
+          }
+        },
+        {
+          "span": {
+            "start": 532,
+            "end": 601
+          }
+        },
+        {
+          "span": {
+            "start": 601,
+            "end": 632
+          }
+        },
+        {
+          "span": {
+            "start": 632,
+            "end": 670
+          }
+        },
+        {
+          "span": {
+            "start": 670,
+            "end": 696
+          }
+        },
+        {
+          "span": {
+            "start": 696,
+            "end": 752
+          }
+        },
+        {
+          "span": {
+            "start": 752,
+            "end": 776
+          }
+        },
+        {
+          "span": {
+            "start": 776,
+            "end": 804
+          }
+        },
+        {
+          "span": {
+            "start": 804,
+            "end": 846
+          }
+        },
+        {
+          "span": {
+            "start": 846,
+            "end": 876
+          }
+        },
+        {
+          "span": {
+            "start": 876,
+            "end": 885
+          }
+        },
+        {
+          "span": {
+            "start": 885,
+            "end": 964
+          }
+        },
+        {
+          "span": {
+            "start": 964,
+            "end": 980
+          }
+        }
+      ],
+      "biblography_annotation": [],
+      "content": "世尊母般若波罗蜜多心要〖印度语（梵文）中称为：薄伽梵般若波罗蜜多心经〗藏语中的《世尊母般若波罗蜜多心要》第一卷。我向世尊母般若波罗蜜多顶礼。如是我闻，一时。世尊在王舍城的鹫峰山上，与大比丘僧众及大菩萨僧众共同安住。当时，世尊进入了名为'甚深显现'的法门三摩地。那时，圣观世音菩萨摩诃萨正在深入观照甚深般若波罗蜜多的修行法门。当如是观照这五蕴，亦应见其本性为空。此时，依靠佛陀的神力加持，具寿舍利弗向大菩萨圣观自在如是问道：'善男子，若有人希望修习甚深般若波罗蜜多的行持，应当如何学习？'如是问了之后，菩萨摩诃萨圣观世音自在对具寿舍利子如是说道：'舍利子，若有善男子或善女人，希望修习甚深般若波罗蜜多的行持，应当如是观照：应当如实清晰地观察，这五蕴本性上都是空的。'色即是空，空即是色。色不异于空性，空性也不异于色。同样地，受蕴、想蕴、行蕴以及识蕴等诸蕴也都是空性的。舍利子，所以一切法皆是空性，它们没有特征，不生不灭，无有污垢，也无从污垢中解脱，既不减少也不增加。因此，在空性中，不存在色蕴，不存在受蕴，不存在想蕴，不存在行蕴，不存在识蕴；不存在眼根、耳根、鼻根、舌根、身根、意根；不存在色境、声境、香境、味境、触境、法境。无眼界，乃至无意界，无法界，也无意识界。无明不存在，无明的止息也不存在；从此延伸，老死不存在，老死的止息也不存在。苦、集、灭、道皆不存在；智慧不存在，获得不存在，未获得也不存在。因此，舍利子，菩萨们正是因为无所得而依止并安住于般若波罗蜜多。由于心中无有障碍，故无有恐惧；彻底超越一切颠倒妄见后，最终圆满证得涅槃境界。三世一切诸佛，皆依般若波罗蜜多，而证得无上正等正觉。因此，应当了知般若波罗蜜多咒是大明咒、无上咒、无等等咒、能息灭一切苦的咒。因为它不虚妄，所以应当知晓它是真实的。如是：去，去，到彼岸去，完全到彼岸去，觉悟成就！舍利子，菩萨大士应当按照这种方式修学甚深的般若波罗蜜多。此时，世尊从深定中起身，向圣观自在菩萨赐予赞许道：'善哉！善哉！善男子，正是如此。'善男子，确实如此！应当如你所指示的那样修习甚深般若波罗蜜多。世尊如是宣说之后。世尊如是宣说后，长老舍利弗与大菩萨圣观世音自在，以及所有与会的僧众，连同天人、世人、阿修罗和乾闼婆等众生，皆心生欢喜，赞叹世尊所宣说的教法，并恭敬地加以奉行。《圣般若波罗蜜多心经》至此圆满。",
+      "target_annotation": [
+        {
+          "start": 0,
+          "end": 54
+        },
+        {
+          "start": 54,
+          "end": 108
+        },
+        {
+          "start": 108,
+          "end": 172
+        },
+        {
+          "start": 172,
+          "end": 188
+        },
+        {
+          "start": 188,
+          "end": 245
+        },
+        {
+          "start": 245,
+          "end": 279
+        },
+        {
+          "start": 279,
+          "end": 418
+        },
+        {
+          "start": 418,
+          "end": 516
+        },
+        {
+          "start": 516,
+          "end": 656
+        },
+        {
+          "start": 656,
+          "end": 716
+        },
+        {
+          "start": 716,
+          "end": 846
+        },
+        {
+          "start": 846,
+          "end": 1305
+        },
+        {
+          "start": 1305,
+          "end": 1345
+        },
+        {
+          "start": 1345,
+          "end": 1416
+        },
+        {
+          "start": 1416,
+          "end": 1496
+        },
+        {
+          "start": 1496,
+          "end": 1646
+        },
+        {
+          "start": 1866,
+          "end": 1953
+        },
+        {
+          "start": 1953,
+          "end": 2131
+        },
+        {
+          "start": 2131,
+          "end": 2243
+        },
+        {
+          "start": 2243,
+          "end": 2339
+        },
+        {
+          "start": 2339,
+          "end": 2499
+        },
+        {
+          "start": 2499,
+          "end": 2733
+        },
+        {
+          "start": 2733,
+          "end": 2789
+        },
+        {
+          "start": 2789,
+          "end": 2890
+        },
+        {
+          "start": 2890,
+          "end": 3071
+        },
+        {
+          "start": 3071,
+          "end": 3180
+        },
+        {
+          "start": 3225,
+          "end": 3266
+        },
+        {
+          "start": 3266,
+          "end": 3508
+        },
+        {
+          "start": 3508,
+          "end": 3565
+        }
+      ],
+      "alignment_annotation": [
+        {
+          "start": 0,
+          "end": 11
+        },
+        {
+          "start": 11,
+          "end": 35
+        },
+        {
+          "start": 35,
+          "end": 52
+        },
+        {
+          "start": 52,
+          "end": 56
+        },
+        {
+          "start": 56,
+          "end": 70
+        },
+        {
+          "start": 70,
+          "end": 78
+        },
+        {
+          "start": 78,
+          "end": 107
+        },
+        {
+          "start": 107,
+          "end": 130
+        },
+        {
+          "start": 130,
+          "end": 162
+        },
+        {
+          "start": 162,
+          "end": 180
+        },
+        {
+          "start": 180,
+          "end": 211
+        },
+        {
+          "start": 211,
+          "end": 332
+        },
+        {
+          "start": 332,
+          "end": 342
+        },
+        {
+          "start": 342,
+          "end": 357
+        },
+        {
+          "start": 357,
+          "end": 383
+        },
+        {
+          "start": 383,
+          "end": 512
+        },
+        {
+          "start": 512,
+          "end": 532
+        },
+        {
+          "start": 532,
+          "end": 601
+        },
+        {
+          "start": 601,
+          "end": 632
+        },
+        {
+          "start": 632,
+          "end": 670
+        },
+        {
+          "start": 670,
+          "end": 696
+        },
+        {
+          "start": 696,
+          "end": 752
+        },
+        {
+          "start": 752,
+          "end": 776
+        },
+        {
+          "start": 776,
+          "end": 804
+        },
+        {
+          "start": 804,
+          "end": 846
+        },
+        {
+          "start": 846,
+          "end": 876
+        },
+        {
+          "start": 876,
+          "end": 885
+        },
+        {
+          "start": 885,
+          "end": 964
+        },
+        {
+          "start": 964,
+          "end": 980
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "text_type": "translation",
+        "instance_type": "critical",
+        "source": "Openpecha AI",
+        "colophon": "具德佛母般若波罗蜜多心要",
+        "incipit_title": {
+          "zh": "般若波羅密多心經 AI Draft"
+        },
+        "language": "zh",
+        "category_id": "rw8oWUd1WtwqeD2x0ZMSm",
+        "license": "CC0",
+        "copyright": "Public Domain",
+        "contributions": [],
+        "date": "2026-02-01",
+        "bdrc": ""
+      },
+      "segment_annotation": [
+        {
+          "span": {
+            "start": 0,
+            "end": 12
+          }
+        },
+        {
+          "span": {
+            "start": 12,
+            "end": 31
+          }
+        },
+        {
+          "span": {
+            "start": 31,
+            "end": 42
+          }
+        },
+        {
+          "span": {
+            "start": 42,
+            "end": 45
+          }
+        },
+        {
+          "span": {
+            "start": 45,
+            "end": 57
+          }
+        },
+        {
+          "span": {
+            "start": 57,
+            "end": 65
+          }
+        },
+        {
+          "span": {
+            "start": 65,
+            "end": 94
+          }
+        },
+        {
+          "span": {
+            "start": 94,
+            "end": 118
+          }
+        },
+        {
+          "span": {
+            "start": 118,
+            "end": 144
+          }
+        },
+        {
+          "span": {
+            "start": 144,
+            "end": 158
+          }
+        },
+        {
+          "span": {
+            "start": 158,
+            "end": 189
+          }
+        },
+        {
+          "span": {
+            "start": 189,
+            "end": 293
+          }
+        },
+        {
+          "span": {
+            "start": 293,
+            "end": 303
+          }
+        },
+        {
+          "span": {
+            "start": 303,
+            "end": 316
+          }
+        },
+        {
+          "span": {
+            "start": 316,
+            "end": 335
+          }
+        },
+        {
+          "span": {
+            "start": 335,
+            "end": 497
+          }
+        },
+        {
+          "span": {
+            "start": 497,
+            "end": 528
+          }
+        },
+        {
+          "span": {
+            "start": 528,
+            "end": 573
+          }
+        },
+        {
+          "span": {
+            "start": 573,
+            "end": 603
+          }
+        },
+        {
+          "span": {
+            "start": 603,
+            "end": 636
+          }
+        },
+        {
+          "span": {
+            "start": 636,
+            "end": 675
+          }
+        },
+        {
+          "span": {
+            "start": 675,
+            "end": 736
+          }
+        },
+        {
+          "span": {
+            "start": 736,
+            "end": 772
+          }
+        },
+        {
+          "span": {
+            "start": 772,
+            "end": 796
+          }
+        },
+        {
+          "span": {
+            "start": 796,
+            "end": 847
+          }
+        },
+        {
+          "span": {
+            "start": 847,
+            "end": 880
+          }
+        },
+        {
+          "span": {
+            "start": 880,
+            "end": 889
+          }
+        },
+        {
+          "span": {
+            "start": 889,
+            "end": 951
+          }
+        },
+        {
+          "span": {
+            "start": 951,
+            "end": 964
+          }
+        }
+      ],
+      "biblography_annotation": [],
+      "content": "具德佛母般若波罗蜜多心要印度语（梵语）：薄伽梵般若波罗蜜多心经世尊母般若波罗蜜多心经第一卷敬礼世尊母般若波罗蜜多。如是我闻，一时。薄伽梵于王舍城鹫峰山上，与大比丘僧团及大菩萨僧团共同安住。当时，世尊示现入于名为'甚深显现'的法类三摩地。尔时，圣观自在菩萨摩诃萨，正观照甚深般若波罗蜜多行。应当如实观照五蕴皆空无自性。尔时，借由佛陀加持力，具寿舍利子向圣观自在菩萨摩诃萨如是说道：'善男子，若有人希望修持甚深般若波罗蜜多行，应当如何学习？'说此语时，菩萨摩诃萨圣观自在对具寿舍利子如是言道：'舍利子，若善男子或善女人，希望修持甚深般若波罗蜜多行，应当如是观照：应当如实正观五蕴自性皆空。'色即是空。空即是色。色非异于空，空亦非异于色。同样地，受、想、行以及一切识亦皆为空。舍利子，因此一切法皆是空性，无相（超越一切执取之相），不生（不由因缘所生），不灭（超越灭尽），无垢（染污轮回本性不存在），无离垢（本来不落入能所对立），无减（法性不会减少），无增（法性不可增长）。舍利子，是故于此大空性中，无色，无受，无想，无行，无识；无眼，无耳，无鼻，无舌，无身，无意；无色，无声，无香，无味，无触，无法。从眼界不存在，乃至意界亦不存在；意识界以及中间所有界亦不存在。无无明，亦无无明尽；乃至无老死，亦无老死尽。无苦、集、灭、道。无智慧，无所得，亦无无所得。舍利子，因此，菩萨们因无所得故，依止并安住于般若波罗蜜多中。由于心无障蔽，故无恐惧；已彻底超越一切颠倒妄见，最终圆满成就涅槃。安住于三世中的一切诸佛，皆依靠般若波罗蜜多，现前圆满证悟无上、真实圆满的菩提。因此，应当了知般若波罗蜜多咒，这是大智慧咒，超越一切的无上咒，无与伦比而平等的咒，能息灭一切苦的咒，因不虚妄故应知为真实。即是如此：已去已去，已去往彼岸，已完全去往彼岸，菩提觉悟，愿其根基稳固！舍利子，菩萨摩诃萨应当如是修学甚深般若波罗蜜多。尔时，世尊从彼三摩地安详起身，并向圣观自在菩萨摩诃萨赐予赞叹，说道：'善哉！善哉！善男子，正是如此！'善男子，诚然如是。应当按照你所教导的那样，修习甚深的般若波罗蜜多。世尊如是宣说已毕，世尊如是说已，具寿舍利子及观自在菩萨摩诃萨，与会一切眷属、天、人、阿修罗、乾闼婆等世间众生，皆大欢喜，于世尊所说，称赞礼敬。《圣般若波罗蜜多心经》圆满",
+      "target_annotation": [
+        {
+          "start": 0,
+          "end": 54
+        },
+        {
+          "start": 54,
+          "end": 108
+        },
+        {
+          "start": 108,
+          "end": 172
+        },
+        {
+          "start": 172,
+          "end": 188
+        },
+        {
+          "start": 188,
+          "end": 245
+        },
+        {
+          "start": 245,
+          "end": 279
+        },
+        {
+          "start": 279,
+          "end": 418
+        },
+        {
+          "start": 418,
+          "end": 516
+        },
+        {
+          "start": 516,
+          "end": 656
+        },
+        {
+          "start": 656,
+          "end": 716
+        },
+        {
+          "start": 716,
+          "end": 846
+        },
+        {
+          "start": 846,
+          "end": 1305
+        },
+        {
+          "start": 1305,
+          "end": 1345
+        },
+        {
+          "start": 1345,
+          "end": 1416
+        },
+        {
+          "start": 1416,
+          "end": 1496
+        },
+        {
+          "start": 1496,
+          "end": 1646
+        },
+        {
+          "start": 1866,
+          "end": 1953
+        },
+        {
+          "start": 1953,
+          "end": 2131
+        },
+        {
+          "start": 2131,
+          "end": 2243
+        },
+        {
+          "start": 2243,
+          "end": 2339
+        },
+        {
+          "start": 2339,
+          "end": 2499
+        },
+        {
+          "start": 2499,
+          "end": 2733
+        },
+        {
+          "start": 2733,
+          "end": 2789
+        },
+        {
+          "start": 2789,
+          "end": 2890
+        },
+        {
+          "start": 2890,
+          "end": 3071
+        },
+        {
+          "start": 3071,
+          "end": 3180
+        },
+        {
+          "start": 3225,
+          "end": 3266
+        },
+        {
+          "start": 3266,
+          "end": 3508
+        },
+        {
+          "start": 3508,
+          "end": 3565
+        }
+      ],
+      "alignment_annotation": [
+        {
+          "start": 0,
+          "end": 12
+        },
+        {
+          "start": 12,
+          "end": 31
+        },
+        {
+          "start": 31,
+          "end": 42
+        },
+        {
+          "start": 42,
+          "end": 45
+        },
+        {
+          "start": 45,
+          "end": 57
+        },
+        {
+          "start": 57,
+          "end": 65
+        },
+        {
+          "start": 65,
+          "end": 94
+        },
+        {
+          "start": 94,
+          "end": 118
+        },
+        {
+          "start": 118,
+          "end": 144
+        },
+        {
+          "start": 144,
+          "end": 158
+        },
+        {
+          "start": 158,
+          "end": 189
+        },
+        {
+          "start": 189,
+          "end": 293
+        },
+        {
+          "start": 293,
+          "end": 303
+        },
+        {
+          "start": 303,
+          "end": 316
+        },
+        {
+          "start": 316,
+          "end": 335
+        },
+        {
+          "start": 335,
+          "end": 497
+        },
+        {
+          "start": 497,
+          "end": 528
+        },
+        {
+          "start": 528,
+          "end": 573
+        },
+        {
+          "start": 573,
+          "end": 603
+        },
+        {
+          "start": 603,
+          "end": 636
+        },
+        {
+          "start": 636,
+          "end": 675
+        },
+        {
+          "start": 675,
+          "end": 736
+        },
+        {
+          "start": 736,
+          "end": 772
+        },
+        {
+          "start": 772,
+          "end": 796
+        },
+        {
+          "start": 796,
+          "end": 847
+        },
+        {
+          "start": 847,
+          "end": 880
+        },
+        {
+          "start": 880,
+          "end": 889
+        },
+        {
+          "start": 889,
+          "end": 951
+        },
+        {
+          "start": 951,
+          "end": 964
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "text_type": "translation",
+        "instance_type": "critical",
+        "source": "Openpecha AI",
+        "colophon": "བཅོམ་ལྡན་འདས་མ་ → 具德佛母 <span class=\"\\text-quotation-style\\\">The Blessed Mother</span><br>ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པའི་ → 般若波罗蜜多 <span class=\"\\text-quotation-style\\\">Perfection of Wisdom</span><br>སྙིང་པོ་ → 心要 <span class=\"\\text-quotation-style\\\">Heart/Essence</span>",
+        "incipit_title": {
+          "zh": "般若波羅密多心經 Word by Word"
+        },
+        "language": "zh",
+        "category_id": "rw8oWUd1WtwqeD2x0ZMSm",
+        "license": "CC0",
+        "copyright": "Public Domain",
+        "contributions": [],
+        "date": "2026-02-01",
+        "bdrc": ""
+      },
+      "segment_annotation": [
+        {
+          "span": {
+            "start": 0,
+            "end": 259
+          }
+        },
+        {
+          "span": {
+            "start": 259,
+            "end": 368
+          }
+        },
+        {
+          "span": {
+            "start": 368,
+            "end": 457
+          }
+        },
+        {
+          "span": {
+            "start": 457,
+            "end": 489
+          }
+        },
+        {
+          "span": {
+            "start": 489,
+            "end": 577
+          }
+        },
+        {
+          "span": {
+            "start": 577,
+            "end": 849
+          }
+        },
+        {
+          "span": {
+            "start": 849,
+            "end": 1664
+          }
+        },
+        {
+          "span": {
+            "start": 1664,
+            "end": 1807
+          }
+        },
+        {
+          "span": {
+            "start": 1807,
+            "end": 2619
+          }
+        },
+        {
+          "span": {
+            "start": 2619,
+            "end": 2721
+          }
+        },
+        {
+          "span": {
+            "start": 2721,
+            "end": 2970
+          }
+        },
+        {
+          "span": {
+            "start": 2970,
+            "end": 3607
+          }
+        },
+        {
+          "span": {
+            "start": 3607,
+            "end": 3873
+          }
+        },
+        {
+          "span": {
+            "start": 3873,
+            "end": 4605
+          }
+        },
+        {
+          "span": {
+            "start": 4605,
+            "end": 4729
+          }
+        },
+        {
+          "span": {
+            "start": 4729,
+            "end": 5194
+          }
+        },
+        {
+          "span": {
+            "start": 5194,
+            "end": 5329
+          }
+        },
+        {
+          "span": {
+            "start": 5329,
+            "end": 5596
+          }
+        },
+        {
+          "span": {
+            "start": 5596,
+            "end": 5765
+          }
+        },
+        {
+          "span": {
+            "start": 5765,
+            "end": 5967
+          }
+        },
+        {
+          "span": {
+            "start": 5967,
+            "end": 6213
+          }
+        },
+        {
+          "span": {
+            "start": 6213,
+            "end": 6460
+          }
+        },
+        {
+          "span": {
+            "start": 6460,
+            "end": 6613
+          }
+        },
+        {
+          "span": {
+            "start": 6613,
+            "end": 7226
+          }
+        },
+        {
+          "span": {
+            "start": 7226,
+            "end": 8297
+          }
+        },
+        {
+          "span": {
+            "start": 8297,
+            "end": 8460
+          }
+        },
+        {
+          "span": {
+            "start": 8460,
+            "end": 8803
+          }
+        },
+        {
+          "span": {
+            "start": 8803,
+            "end": 9150
+          }
+        },
+        {
+          "span": {
+            "start": 9150,
+            "end": 9231
+          }
+        }
+      ],
+      "biblography_annotation": [],
+      "content": "བཅོམ་ལྡན་འདས་མ་ → 具德佛母 <span class=\"\\text-quotation-style\\\">The Blessed Mother</span>ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པའི་ → 般若波罗蜜多 <span class=\"\\text-quotation-style\\\">Perfection of Wisdom</span>སྙིང་པོ་ → 心要 <span class=\"\\text-quotation-style\\\">Heart/Essence</span>༄༅། → （文本开始标记）རྒྱ་གར་ → 印度སྐད་དུ། → 语言（中）བྷ་ག་བ་ཏི་ → 薄伽梵（世尊）པྲ་ཛྙ་ → 般若（智慧）པ་ར་མི་ཏཱྀ་ → 波罗蜜多（到彼岸）ཧྲད་ཡ → 心要བོད་སྐད་དུ། → 藏语中བཅོམ་ལྡན་འདས་མ་ → 世尊母ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པའི་ → 般若波罗蜜多སྙིང་པོ། → 心经བམ་པོ་ → 卷གཅིག་ → 一གོ → 语助词，表示结束བཅོམ་ལྡན་འདས་མ་ → 世尊母ཤེས་རབ་ཀྱི་ཕ་རོལ་དུ་ཕྱིན་པ་ → 般若波罗蜜多ལ་ → 于（虚词，表示对象）ཕྱག་འཚལ་ལོ། → 敬礼འདི་སྐད་ → 如是 <span class=\"\\text-quotation-style\\\">thus, in this way</span>བདག་གིས་ → 我 <span class=\"\\text-quotation-style\\\">I, by me</span>ཐོས་པ་ → 闻 <span class=\"\\text-quotation-style\\\">heard</span>དུས་གཅིག་ན་ → 一时 <span class=\"\\text-quotation-style\\\">at one time</span>བཅོམ་ལྡན་འདས་ → 薄伽梵 <span class=\"\\text-quotation-style\\\">Blessed One/Bhagavan</span>རྒྱལ་པོའི་ཁབ་ → 王舍城 <span class=\"\\text-quotation-style\\\">Rājagṛha</span>བྱ་རྒོད་ཕུང་པོའི་རི་ → 鹫峰山 <span class=\"\\text-quotation-style\\\">Vulture Peak Mountain</span>ལ་ → 上 <span class=\"\\text-quotation-style\\\">at/on</span>དགེ་སློང་གི་ → 比丘 <span class=\"\\text-quotation-style\\\">bhikṣu</span>དགེ་འདུན་ཆེན་པོ་ → 大僧团 <span class=\"\\text-quotation-style\\\">great sangha</span>དང་ → 及 <span class=\"\\text-quotation-style\\\">and</span>བྱང་ཆུབ་སེམས་དཔའི་ → 菩萨 <span class=\"\\text-quotation-style\\\">bodhisattva</span>དགེ་འདུན་ཆེན་པོ་ → 大僧团 <span class=\"\\text-quotation-style\\\">great sangha</span>དང་ཐབས་ཅིག་ཏུ་ → 共同 <span class=\"\\text-quotation-style\\\">together with</span>བཞུགས་ཏེ་ → 安住 <span class=\"\\text-quotation-style\\\">dwelled/resided</span>དེའི་ཚེ་ → 当时བཅོམ་ལྡན་འདས་ → 世尊ཟབ་མོ་ → 甚深སྣང་བ་ → 显现ཞེས་བྱ་བའི་ → 名为ཆོས་ཀྱི་རྣམ་གྲངས་ → 法类ཀྱི་ → 的ཏིང་ངེ་འཛིན་ → 三摩地ལ་ → 于སྙོམས་པར་ཞུགས་སོ → 入Let me provide a word-by-word translation mapping between the Tibetan source text and Chinese:ཡང་དེའི་ཚེ་ → 尔时 <span class=\"\\text-quotation-style\\\">at that time</span>བྱང་ཆུབ་སེམས་དཔའ་ → 菩萨 <span class=\"\\text-quotation-style\\\">bodhisattva</span>སེམས་དཔའ་ཆེན་པོ་ → 摩诃萨 <span class=\"\\text-quotation-style\\\">great being</span>འཕགས་པ་ → 圣 <span class=\"\\text-quotation-style\\\">noble/holy</span>སྤྱན་རས་གཟིགས་དབང་ཕྱུག་ → 观自在 <span class=\"\\text-quotation-style\\\">Avalokiteshvara</span>ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ → 般若波罗蜜多 <span class=\"\\text-quotation-style\\\">perfection of wisdom</span>ཟབ་མོའི་ → 甚深 <span class=\"\\text-quotation-style\\\">profound/deep</span>སྤྱོད་པ་ → 行 <span class=\"\\text-quotation-style\\\">practice/conduct</span>རྣམ་པར་བལྟ་ཞིང་ → 正观照 <span class=\"\\text-quotation-style\\\">thoroughly observing/examining</span>ཕུང་པོ་ལྔ་པོ་ → 五蕴དེ་དག་ → 彼等/那些ལ་ཡང་ → 于/对于རང་བཞིན་གྱིས་ → 自性地སྟོང་པར་ → 空རྣམ་པར་ → 如实地བལྟའོ། → 观照/应观དེ་ནས་ → 尔时སངས་རྒྱས་ཀྱི་ → 佛陀的མཐུས་ → 加持力借由ཚེ་དང་ལྡན་པ་ → 具寿ཤཱ་རིའི་བུས་ → 舍利子བྱང་ཆུབ་སེམས་དཔའ་ཆེན་པོ་ → 菩萨摩诃萨འཕགས་པ་ → 圣སྤྱན་རས་གཟིགས་ → 观自在དབང་ཕྱུག་ → <span class=\"\\text-quotation-style\\\">此处为尊称，与前面观自在合译</span>ལ་ → 向འདི་སྐད་ཅེས་ → 如是སྨྲས་སོ། ། → 说道རིགས་ཀྱི་བུ་ → 善男子གང་ལ་ལ་ → 若有人ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ → 般若波罗蜜多ཟབ་མོའི་ → 甚深སྤྱོད་པ་ → 行སྤྱད་པར་ → 修持འདོད་པ་ → 希望དེས་ → 应当ཇི་ལྟར་ → 如何བསླབ་པར་བྱ་ → 学习དེ་སྐད་ཅེས་སྨྲས་པ་དང་ → 说此语时བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་ → 菩萨摩诃萨འཕགས་པ་སྤྱན་རས་གཟིགས་དབང་ཕྱུག་ → 圣观自在གིས་ → 由/被ཚེ་དང་ལྡན་པ་ → 具寿ཤཱ་ར་དྭ་ཏའི་བུ་ → 舍利子ལ་ → 对འདི་སྐད་ཅེས་སྨྲས་སོ་ → 如是言道ཤཱ་རིའི་བུ་ → 舍利子རིགས་ཀྱི་བུའམ་ → 善男子或རིགས་ཀྱི་བུ་མོ་ → 善女人གང་ལ་ལ་ → 若ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ → 般若波罗蜜多ཟབ་མོའི་ → 甚深སྤྱོད་པ་ → 行སྤྱད་པར་ → 修持འདོད་པ་ → 希望དེས་ → 应当འདི་ལྟར་ → 如是རྣམ་པར་བལྟ་བར་བྱ་སྟེ་ → 观照ཕུང་པོ་ལྔ་པོ་ → 五蕴དེ་དག་ཀྱང་ → 皆རང་བཞིན་གྱིས་ → 自性སྟོང་པར་ → 空རྣམ་པར་ཡང་དག་པར་རྗེས་སུ་བལྟའོ་ → 如实正观གཟུགས་ → 色 <span class=\"\\text-quotation-style\\\">form/matter</span>སྟོང་པའོ → 是空 <span class=\"\\text-quotation-style\\\">is empty</span>སྟོང་པ་ཉིད་ → 空 <span class=\"\\text-quotation-style\\\">emptiness</span>གཟུགས་སོ → 是色 <span class=\"\\text-quotation-style\\\">is form</span>གཟུགས་ → 色 <span class=\"\\text-quotation-style\\\">material form/matter</span>ལས་ → 从/于 <span class=\"\\text-quotation-style\\\">from/than</span>སྟོང་པ་ཉིད་ → 空 <span class=\"\\text-quotation-style\\\">emptiness</span>གཞན་ → 异 <span class=\"\\text-quotation-style\\\">different/other</span>མ་ཡིན་ → 非 <span class=\"\\text-quotation-style\\\">is not</span>སྟོང་པ་ཉིད་ → 空 <span class=\"\\text-quotation-style\\\">emptiness</span>ལས་ → 从/于 <span class=\"\\text-quotation-style\\\">from/than</span>ཀྱང་ → 亦 <span class=\"\\text-quotation-style\\\">also</span>གཟུགས་ → 色 <span class=\"\\text-quotation-style\\\">material form/matter</span>གཞན་ → 异 <span class=\"\\text-quotation-style\\\">different/other</span>མ་ཡིན་ནོ། → 非 <span class=\"\\text-quotation-style\\\">is not</span>དེ་བཞིན་དུ་ → 同样地ཚོར་བ་ → 受དང་ → 和/以及འདུ་ཤེས་ → 想དང་ → 和/以及འདུ་བྱེད་ → 行དང་ → 和/以及རྣམ་པར་ཤེས་པ་ → 识རྣམས་ → 一切/诸སྟོང་པའོ → 为空ཤཱ་རིའི་བུ་ → 舍利子དེ་ལྟ་བས་ན་ → 因此ཆོས་ཐམས་ཅད་ → 一切法སྟོང་པ་ཉིད་ → 空性མཚན་ཉིད་མེད་པ་ → 无相མ་སྐྱེས་པ་ → 不生མ་འགགས་པ་ → 不灭དྲི་མ་མེད་པ་ → 无垢དྲི་མ་དང་བྲལ་བ་མེད་པ་ → 无离垢བྲི་བ་མེད་པ་ → 无减གང་བ་མེད་པའོ་ → 无增སྟོང་པ་ཉིད་ལ་ → 于此大空性中གཟུགས་མེད་ → 无色ཚོར་བ་མེད་ → 无受འདུ་ཤེས་མེད་ → 无想འདུ་བྱེད་མེད་ → 无行རྣམ་པར་ཤེས་པ་མེད་ → 无识མིག་མེད་ → 无眼རྣ་བ་མེད་ → 无耳སྣ་མེད་ → 无鼻ལྕེ་མེད་ → 无舌ལུས་མེད་ → 无身ཡིད་མེད་ → 无意གཟུགས་མེད་ → 无色སྒྲ་མེད་ → 无声དྲི་མེད་ → 无香རོ་མེད་ → 无味རེག་བྱ་མེད་ → 无触ཆོས་མེད་དོ་ → 无法མིག་གི་ཁམས་ → 眼界མེད་པ་ → 不存在ནས་ → 从/乃至ཡིད་ཀྱི་ཁམས་ → 意界མེད་ → 不存在ཡིད་ཀྱི་རྣམ་པར་ཤེས་པའི་ཁམས་ → 意识界ཀྱི་བར་དུ་ཡང་ → 以及中间所有མེད་དོ། ། → 不存在མ་རིག་པ་ → 无明མེད། → 无མ་རིག་པ་ཟད་པ་ → 无明尽མེད་པ་ནས་ → 亦无རྒ་ཤི་ → 老死མེད། → 无རྒ་ཤི་ཟད་པའི་ → 老死尽བར་དུ་ཡང་མེད་དོ། ། → 亦无སྡུག་བསྔལ་བ་ → 苦དང་། → 和ཀུན་འབྱུང་བ་ → 集དང་། → 和འགོག་པ་ → 灭དང་། → 和ལམ་ → 道མེད། → 无ཡེ་ཤེས་ → 智慧མེད། → 无ཐོབ་པ་ → 所得མེད། → 无མ་ཐོབ་པ་ → 无所得ཡང་མེད་དོ། ། → 亦无ཤཱ་རིའི་བུ་ → 舍利子དེ་ལྟ་བས་ན་ → 因此བྱང་ཆུབ་སེམས་དཔའ་ → 菩萨རྣམས་ → 们ཐོབ་པ་ → 所得མེད་པའི་ → 无ཕྱིར་ → 故ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ → 般若波罗蜜多ལ་ → 于བརྟེན་ → 依止ཅིང་ → 并གནས་ཏེ་ → 安住སེམས་ལ་ → 于心 / 对心སྒྲིབ་པ་ → 障蔽 / 遮障མེད་པས་ → 由于无 / 因为没有སྐྲག་པ་ → 恐惧 / 畏惧མེད་དེ་ → 无 / 没有ཕྱིན་ཅི་ལོག་ → 颠倒妄见ལས་ → 从ཤིན་ཏུ་ → 彻底 / 完全འདས་ནས་ → 超越 / 度过མྱ་ངན་ལས་འདས་པ་ → 涅槃མཐར་ → 最终 / 究竟ཕྱིན་ཏོ་ → 圆满成就 / 达到དུས་གསུམ་ → 三世དུ་ → 中རྣམ་པར་བཞུགས་པའི་ → 安住的སངས་རྒྱས་ → 诸佛ཐམས་ཅད་ → 一切ཀྱང་ → 也/皆ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ → 般若波罗蜜多ལ་ → 于བརྟེན་ནས་ → 依靠བླ་ན་མེད་པ་ → 无上ཡང་དག་པར་ → 真实རྫོགས་པའི་ → 圆满的བྱང་ཆུབ་ → 菩提ཏུ་ → 为/成为མངོན་པར་རྫོགས་པར་ → 现前圆满སངས་རྒྱས་སོ། → 证悟དེ་ལྟ་བས་ན་ → 因此ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པའི་སྔགས → 般若波罗蜜多咒རིག་པ་ཆེན་པོའི་སྔགས → 大智慧咒བླ་ན་མེད་པའི་སྔགས → 无上咒མི་མཉམ་པ་དང་མཉམ་པའི་སྔགས → 无与伦比而平等的咒སྡུག་བསྔལ་ཐམས་ཅད་རབ་ཏུ་ཞི་བར་བྱེད་པའི་སྔགས → 能息灭一切苦的咒མི་རྫུན་པས་ན་ → 因不虚妄故བདེན་པར་ཤེས་པར་བྱ་སྟེ → 应知为真实ཏདྱ་ཐཱ། → 即是如此 <span class=\"\\text-quotation-style\\\">就是这样</span>ག་ཏེ་ → 已去ག་ཏེ་ → 已去པཱ་ར་ག་ཏེ། → 已去往彼岸པཱ་ར་སཾ་ག་ཏེ། → 已完全去往彼岸བོ་དྷི་ → 菩提觉悟སྭ་ཧཱ། → 愿其根基稳固ཤཱ་རིའི་བུ་ → 舍利子 <span class=\"\\text-quotation-style\\\">Shariputra</span>བྱང་ཆུབ་སེམས་དཔའ་ → 菩萨 <span class=\"\\text-quotation-style\\\">Bodhisattva</span>སེམས་དཔའ་ཆེན་པོ་ → 摩诃萨 <span class=\"\\text-quotation-style\\\">Great Being</span>དེ་ལྟར་ → 如是 <span class=\"\\text-quotation-style\\\">thus, in this way</span>ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ → 般若波罗蜜多 <span class=\"\\text-quotation-style\\\">Perfection of Wisdom</span>ཟབ་མོ་ → 甚深 <span class=\"\\text-quotation-style\\\">profound, deep</span>ལ་ → 于 <span class=\"\\text-quotation-style\\\">in, at</span>བསླབ་པར་བྱའོ། → 应当修学 <span class=\"\\text-quotation-style\\\">should train/study</span>དེ་ནས་ → 尔时 <span class=\"\\text-quotation-style\\\">then/at that time</span>བཅོམ་ལྡན་འདས་ → 世尊 <span class=\"\\text-quotation-style\\\">the Blessed One</span>ཏིང་ངེ་འཛིན་ → 三摩地 <span class=\"\\text-quotation-style\\\">samadhi/meditation</span>དེ་ལས་ → 从彼 <span class=\"\\text-quotation-style\\\">from that</span>བཞེངས་ཏེ་ → 起身 <span class=\"\\text-quotation-style\\\">arose</span>བྱང་ཆུབ་སེམས་དཔའ་ → 菩萨 <span class=\"\\text-quotation-style\\\">bodhisattva</span>སེམས་དཔའ་ཆེན་པོ་ → 摩诃萨 <span class=\"\\text-quotation-style\\\">great being</span>འཕགས་པ་སྤྱན་རས་དབང་ཕྱུག་ → 圣观自在 <span class=\"\\text-quotation-style\\\">Noble Avalokiteshvara</span>ལ་ → 向 <span class=\"\\text-quotation-style\\\">to</span>ལེགས་སོ་ཞེས་བྱ་བ་ → 赐予赞叹 <span class=\"\\text-quotation-style\\\">gave praise</span>བྱིན་ནས་ → 说道 <span class=\"\\text-quotation-style\\\">having given</span>ལེགས་སོ་ལེགས་སོ་ → 善哉！善哉！<span class=\"\\text-quotation-style\\\">excellent! excellent!</span>རིགས་ཀྱི་བུ་ → 善男子 <span class=\"\\text-quotation-style\\\">son of noble family</span>དེ་དེ་བཞིན་ནོ་ → 正是如此 <span class=\"\\text-quotation-style\\\">it is exactly so</span>རིགས་ཀྱི་བུ་ → 善男子དེ་དེ་བཞིན་ཏེ་ → 诚然如是ཇི་ལྟར་ → 按照ཁྱོད་ཀྱིས་ → 你བསྟན་པ་ → 教导བཞིན་དུ་ → 那样ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ → 般若波罗蜜多ཟབ་མོ་ → 甚深ལ་ → 于སྤྱད་པར་བྱ་སྟེ་ → 修习བཅོམ་ལྡན་འདས་ → 世尊 <span class=\"\\text-quotation-style\\\">The Blessed One</span>ཀྱིས་ → 由/被 <span class=\"\\text-quotation-style\\\">by/from</span> [instrumental particle]དེ་སྐད་ཅེས་ → 如是 <span class=\"\\text-quotation-style\\\">thus/in this way</span>བཀའ་སྩལ་ནས། → 宣说已毕 <span class=\"\\text-quotation-style\\\">spoke/proclaimed + completion particle</span>ཚེ་དང་ལྡན་པ་ → 具寿ཤཱ་ར་དྭ་ཏིའི་བུ་ → 舍利子དང་ → 及བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་ → 菩萨摩诃萨སྤྱན་རས་གཟིགས་དབང་ཕྱུག་ → 观自在དང་ → 与ཐམས་ཅད་དང་ལྡན་པའི་ → 一切འཁོར་ → 眷属དེ་དག་ → 众དང་ → 与ལྷ་ → 天དང་ → 和མི་ → 人དང་ → 和ལྷ་མ་ཡིན་ → 阿修罗དང་ → 和དྲི་ཟར་ → 乾闼婆བཅས་པའི་ → 等འཇིག་རྟེན་ → 世间ཡི་རངས་ཏེ་ → 欢喜བཅོམ་ལྡན་འདས་ → 世尊ཀྱིས་ → 所གསུངས་པ་ → 说ལ་ → 于མངོན་པར་བསྟོད་དོ་ → 称赞礼敬འཕགས་པ་ → 圣ཤེས་རབ་ཀྱི་ → 般若ཕ་རོལ་ཏུ་ཕྱིན་པའི་ → 波罗蜜多སྙིང་པོ་ → 心经རྫོགས་སོ། ། → 圆满",
+      "target_annotation": [
+        {
+          "start": 0,
+          "end": 54
+        },
+        {
+          "start": 54,
+          "end": 108
+        },
+        {
+          "start": 108,
+          "end": 172
+        },
+        {
+          "start": 172,
+          "end": 188
+        },
+        {
+          "start": 188,
+          "end": 245
+        },
+        {
+          "start": 245,
+          "end": 279
+        },
+        {
+          "start": 279,
+          "end": 418
+        },
+        {
+          "start": 418,
+          "end": 516
+        },
+        {
+          "start": 516,
+          "end": 656
+        },
+        {
+          "start": 656,
+          "end": 716
+        },
+        {
+          "start": 716,
+          "end": 846
+        },
+        {
+          "start": 846,
+          "end": 1305
+        },
+        {
+          "start": 1305,
+          "end": 1345
+        },
+        {
+          "start": 1345,
+          "end": 1416
+        },
+        {
+          "start": 1416,
+          "end": 1496
+        },
+        {
+          "start": 1496,
+          "end": 1646
+        },
+        {
+          "start": 1866,
+          "end": 1953
+        },
+        {
+          "start": 1953,
+          "end": 2131
+        },
+        {
+          "start": 2131,
+          "end": 2243
+        },
+        {
+          "start": 2243,
+          "end": 2339
+        },
+        {
+          "start": 2339,
+          "end": 2499
+        },
+        {
+          "start": 2499,
+          "end": 2733
+        },
+        {
+          "start": 2733,
+          "end": 2789
+        },
+        {
+          "start": 2789,
+          "end": 2890
+        },
+        {
+          "start": 2890,
+          "end": 3071
+        },
+        {
+          "start": 3071,
+          "end": 3180
+        },
+        {
+          "start": 3225,
+          "end": 3266
+        },
+        {
+          "start": 3266,
+          "end": 3508
+        },
+        {
+          "start": 3508,
+          "end": 3565
+        }
+      ],
+      "alignment_annotation": [
+        {
+          "start": 0,
+          "end": 259
+        },
+        {
+          "start": 259,
+          "end": 368
+        },
+        {
+          "start": 368,
+          "end": 457
+        },
+        {
+          "start": 457,
+          "end": 489
+        },
+        {
+          "start": 489,
+          "end": 577
+        },
+        {
+          "start": 577,
+          "end": 849
+        },
+        {
+          "start": 849,
+          "end": 1664
+        },
+        {
+          "start": 1664,
+          "end": 1807
+        },
+        {
+          "start": 1807,
+          "end": 2619
+        },
+        {
+          "start": 2619,
+          "end": 2721
+        },
+        {
+          "start": 2721,
+          "end": 2970
+        },
+        {
+          "start": 2970,
+          "end": 3607
+        },
+        {
+          "start": 3607,
+          "end": 3873
+        },
+        {
+          "start": 3873,
+          "end": 4605
+        },
+        {
+          "start": 4605,
+          "end": 4729
+        },
+        {
+          "start": 4729,
+          "end": 5194
+        },
+        {
+          "start": 5194,
+          "end": 5329
+        },
+        {
+          "start": 5329,
+          "end": 5596
+        },
+        {
+          "start": 5596,
+          "end": 5765
+        },
+        {
+          "start": 5765,
+          "end": 5967
+        },
+        {
+          "start": 5967,
+          "end": 6213
+        },
+        {
+          "start": 6213,
+          "end": 6460
+        },
+        {
+          "start": 6460,
+          "end": 6613
+        },
+        {
+          "start": 6613,
+          "end": 7226
+        },
+        {
+          "start": 7226,
+          "end": 8297
+        },
+        {
+          "start": 8297,
+          "end": 8460
+        },
+        {
+          "start": 8460,
+          "end": 8803
+        },
+        {
+          "start": 8803,
+          "end": 9150
+        },
+        {
+          "start": 9150,
+          "end": 9231
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "text_type": "translation",
+        "instance_type": "critical",
+        "source": "Openpecha AI",
+        "colophon": "भगवती प्रज्ञापारमिता हृदय",
+        "incipit_title": {
+          "hi": "प्रज्ञापारमिता हृदय Easy to Read"
+        },
+        "language": "hi",
+        "category_id": "rw8oWUd1WtwqeD2x0ZMSm",
+        "license": "CC0",
+        "copyright": "Public Domain",
+        "contributions": [],
+        "date": "2026-02-01",
+        "bdrc": ""
+      },
+      "segment_annotation": [
+        {
+          "span": {
+            "start": 0,
+            "end": 25
+          }
+        },
+        {
+          "span": {
+            "start": 25,
+            "end": 70
+          }
+        },
+        {
+          "span": {
+            "start": 70,
+            "end": 139
+          }
+        },
+        {
+          "span": {
+            "start": 139,
+            "end": 145
+          }
+        },
+        {
+          "span": {
+            "start": 145,
+            "end": 186
+          }
+        },
+        {
+          "span": {
+            "start": 186,
+            "end": 214
+          }
+        },
+        {
+          "span": {
+            "start": 214,
+            "end": 345
+          }
+        },
+        {
+          "span": {
+            "start": 345,
+            "end": 420
+          }
+        },
+        {
+          "span": {
+            "start": 420,
+            "end": 517
+          }
+        },
+        {
+          "span": {
+            "start": 517,
+            "end": 615
+          }
+        },
+        {
+          "span": {
+            "start": 615,
+            "end": 734
+          }
+        },
+        {
+          "span": {
+            "start": 734,
+            "end": 1131
+          }
+        },
+        {
+          "span": {
+            "start": 1131,
+            "end": 1163
+          }
+        },
+        {
+          "span": {
+            "start": 1163,
+            "end": 1224
+          }
+        },
+        {
+          "span": {
+            "start": 1224,
+            "end": 1287
+          }
+        },
+        {
+          "span": {
+            "start": 1287,
+            "end": 1839
+          }
+        },
+        {
+          "span": {
+            "start": 1839,
+            "end": 1922
+          }
+        },
+        {
+          "span": {
+            "start": 1922,
+            "end": 2167
+          }
+        },
+        {
+          "span": {
+            "start": 2167,
+            "end": 2289
+          }
+        },
+        {
+          "span": {
+            "start": 2289,
+            "end": 2412
+          }
+        },
+        {
+          "span": {
+            "start": 2412,
+            "end": 2652
+          }
+        },
+        {
+          "span": {
+            "start": 2652,
+            "end": 2836
+          }
+        },
+        {
+          "span": {
+            "start": 2836,
+            "end": 2904
+          }
+        },
+        {
+          "span": {
+            "start": 2904,
+            "end": 2991
+          }
+        },
+        {
+          "span": {
+            "start": 2991,
+            "end": 3154
+          }
+        },
+        {
+          "span": {
+            "start": 3154,
+            "end": 3272
+          }
+        },
+        {
+          "span": {
+            "start": 3272,
+            "end": 3307
+          }
+        },
+        {
+          "span": {
+            "start": 3307,
+            "end": 3502
+          }
+        },
+        {
+          "span": {
+            "start": 3502,
+            "end": 3539
+          }
+        }
+      ],
+      "biblography_annotation": [],
+      "content": "भगवती प्रज्ञापारमिता हृदयIn Sanskrit: Bhagavatī Prajñāpāramitā Hṛdaya.In Tibetan: The Heart of the Perfection of Wisdom of the Blessed Ladyएक खंडभगवती प्रज्ञापारमिता को नमस्कार करता हूँ।मैंने इस प्रकार एक समय सुना।अनंत गुणों से सम्पन्न भगवान बुद्ध राजगृह के गृध्रकूट पर्वत पर भिक्षुओं के बड़े संघ और बोधिसत्त्वों के विशाल संघ के साथ विराजमान थे।उस समय भगवान बुद्ध 'गहन प्रकाश' नामक धर्म पर्याय के समाधि में प्रविष्ट हुए।उस समय महाबोधिसत्त्व आर्य अवलोकितेश्वर गहन प्रज्ञापारमिता के अभ्यास का गहराई से अवलोकन कर रहे थे।पांचों स्कंधों को भी स्वभाव से खाली <span class=\"\\text-quotation-style\\\">शून्य</span> देखना चाहिए।Then, through the power of the Buddha, the Venerable Śāriputra said thus to the great bodhisattva noble Avalokiteśvara.'जो कुलपुत्र गहन प्रज्ञापारमिता के आचरण का पालन करना चाहते हैं, उन्हें कैसे शिक्षित होना चाहिए?' ऐसा कहे जाने पर, बोधिसत्व महासत्व आर्य अवलोकितेश्वर ने आयुष्मान शारद्वती पुत्र से इस प्रकार कहा: 'शारिपुत्र, जो भी कुलपुत्र या कुलपुत्री गहन प्रज्ञापारमिता के आचरण का पालन करना चाहते हैं, उन्हें इस प्रकार निरीक्षण करना चाहिए - उन्हें स्पष्ट रूप से देखना चाहिए कि पांचों स्कंध स्वभाव से ही शून्य हैं।'रूप शून्य है। शून्यता ही रूप है।रूप से शून्यता अलग नहीं है, और शून्यता से रूप भी अलग नहीं है।इसी तरह से, संवेदनाएँ, संज्ञा, संस्कार और विज्ञान भी शून्य हैं।हे शारिपुत्र, इसलिए सभी धर्म <span class=\"\\text-quotation-style\\\">वस्तुएँ</span> शून्य हैं। उनका कोई लक्षण नहीं है, वे न उत्पन्न होते हैं, न निरुद्ध होते हैं, न मलिन हैं, न ही मल से रहित हैं, न घटते हैं और न बढ़ते हैं। हे शारिपुत्र, इसलिए शून्यता में रूप नहीं है, वेदना नहीं है, संज्ञा नहीं है, संस्कार नहीं हैं, विज्ञान नहीं है, आँख नहीं है, कान नहीं है, नाक नहीं है, जीभ नहीं है, शरीर नहीं है, मन नहीं है, रूप नहीं है, शब्द नहीं है, गंध नहीं है, रस नहीं है, स्पर्श नहीं है, और धर्म <span class=\"\\text-quotation-style\\\">मानसिक वस्तुएँ</span> नहीं हैं।आँख की धातु नहीं है, और मन की धातु भी नहीं है। मन के विज्ञान की धातु तक भी नहीं है।अविद्या नहीं है, अविद्या के क्षय होने का भी अभाव है। जरा-मरण नहीं है, और जरा-मरण के क्षय होने तक का भी अभाव है। दुःख नहीं है, दुःख का उदय नहीं है, दुःख का निरोध नहीं है, और मार्ग नहीं है। ज्ञान नहीं है, प्राप्ति नहीं है, और अप्राप्ति भी नहीं है।शारिपुत्र, इसलिए बोधिसत्त्व लोग प्राप्ति की भावना से रहित होकर, प्रज्ञापारमिता पर निर्भर करते हैं और उसमें निवास करते हैं।मन में कोई आवरण नहीं होने से भय नहीं होता है। गलत धारणाओं को पूरी तरह पार करके व्यक्ति निर्वाण की पूर्णता तक पहुंच जाता है।तीनों कालों में विराजमान सभी बुद्धों ने प्रज्ञापारमिता <span class=\"\\text-quotation-style\\\">ज्ञान की परम पूर्णता</span> पर निर्भर रहकर अनुत्तर सम्यक संबोधि <span class=\"\\text-quotation-style\\\">सर्वोच्च पूर्ण ज्ञान</span> को प्राप्त किया है।इसलिए, प्रज्ञापारमिता का मंत्र, महाविद्या का मंत्र, अनुपम मंत्र, असमान को समान करने वाला मंत्र, सभी दुःखों को पूरी तरह से शांत करने वाला मंत्र - यह असत्य नहीं है, इसे सत्य जानना चाहिए।Thus: Go, go, go beyond, go completely beyond, enlightenment, svaha.शारिपुत्र, बोधिसत्त्व महासत्त्व को इसी प्रकार गहन प्रज्ञापारमिता में अभ्यास करना चाहिए।उसके बाद भगवान बुद्ध उस समाधि से उठे और महाबोधिसत्व आर्य अवलोकितेश्वर को 'बहुत अच्छा' कहकर आशीर्वाद दिया। 'बहुत अच्छा, बहुत अच्छा। कुलपुत्र, वास्तव में ऐसा ही है।'Son of noble family, it is just so. Just as you have explained, one should practice the profound perfection of wisdom.भगवान बुद्ध ने ऐसा कहकर उपदेश दिया।आदरणीय शारिपुत्र और महाबोधिसत्व अवलोकितेश्वर, साथ ही वहाँ उपस्थित सभी अनुचरों, देवताओं, मनुष्यों, असुरों और गंधर्वों सहित समस्त लोकों ने प्रसन्न होकर भगवान बुद्ध के वचनों की भूरि-भूरि प्रशंसा की।आर्य प्रज्ञापारमिता हृदय संपूर्ण हुआ।",
+      "target_annotation": [
+        {
+          "start": 0,
+          "end": 54
+        },
+        {
+          "start": 54,
+          "end": 108
+        },
+        {
+          "start": 108,
+          "end": 172
+        },
+        {
+          "start": 172,
+          "end": 188
+        },
+        {
+          "start": 188,
+          "end": 245
+        },
+        {
+          "start": 245,
+          "end": 279
+        },
+        {
+          "start": 279,
+          "end": 418
+        },
+        {
+          "start": 418,
+          "end": 516
+        },
+        {
+          "start": 516,
+          "end": 656
+        },
+        {
+          "start": 656,
+          "end": 716
+        },
+        {
+          "start": 716,
+          "end": 846
+        },
+        {
+          "start": 846,
+          "end": 1305
+        },
+        {
+          "start": 1305,
+          "end": 1345
+        },
+        {
+          "start": 1345,
+          "end": 1416
+        },
+        {
+          "start": 1416,
+          "end": 1496
+        },
+        {
+          "start": 1496,
+          "end": 1646
+        },
+        {
+          "start": 1866,
+          "end": 1953
+        },
+        {
+          "start": 1953,
+          "end": 2131
+        },
+        {
+          "start": 2131,
+          "end": 2243
+        },
+        {
+          "start": 2243,
+          "end": 2339
+        },
+        {
+          "start": 2339,
+          "end": 2499
+        },
+        {
+          "start": 2499,
+          "end": 2733
+        },
+        {
+          "start": 2733,
+          "end": 2789
+        },
+        {
+          "start": 2789,
+          "end": 2890
+        },
+        {
+          "start": 2890,
+          "end": 3071
+        },
+        {
+          "start": 3071,
+          "end": 3180
+        },
+        {
+          "start": 3225,
+          "end": 3266
+        },
+        {
+          "start": 3266,
+          "end": 3508
+        },
+        {
+          "start": 3508,
+          "end": 3565
+        }
+      ],
+      "alignment_annotation": [
+        {
+          "start": 0,
+          "end": 25
+        },
+        {
+          "start": 25,
+          "end": 70
+        },
+        {
+          "start": 70,
+          "end": 139
+        },
+        {
+          "start": 139,
+          "end": 145
+        },
+        {
+          "start": 145,
+          "end": 186
+        },
+        {
+          "start": 186,
+          "end": 214
+        },
+        {
+          "start": 214,
+          "end": 345
+        },
+        {
+          "start": 345,
+          "end": 420
+        },
+        {
+          "start": 420,
+          "end": 517
+        },
+        {
+          "start": 517,
+          "end": 615
+        },
+        {
+          "start": 615,
+          "end": 734
+        },
+        {
+          "start": 734,
+          "end": 1131
+        },
+        {
+          "start": 1131,
+          "end": 1163
+        },
+        {
+          "start": 1163,
+          "end": 1224
+        },
+        {
+          "start": 1224,
+          "end": 1287
+        },
+        {
+          "start": 1287,
+          "end": 1839
+        },
+        {
+          "start": 1839,
+          "end": 1922
+        },
+        {
+          "start": 1922,
+          "end": 2167
+        },
+        {
+          "start": 2167,
+          "end": 2289
+        },
+        {
+          "start": 2289,
+          "end": 2412
+        },
+        {
+          "start": 2412,
+          "end": 2652
+        },
+        {
+          "start": 2652,
+          "end": 2836
+        },
+        {
+          "start": 2836,
+          "end": 2904
+        },
+        {
+          "start": 2904,
+          "end": 2991
+        },
+        {
+          "start": 2991,
+          "end": 3154
+        },
+        {
+          "start": 3154,
+          "end": 3272
+        },
+        {
+          "start": 3272,
+          "end": 3307
+        },
+        {
+          "start": 3307,
+          "end": 3502
+        },
+        {
+          "start": 3502,
+          "end": 3539
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "text_type": "translation",
+        "instance_type": "critical",
+        "source": "Openpecha AI",
+        "colophon": "भगवान प्रज्ञापारमिता हृदय",
+        "incipit_title": {
+          "hi": "प्रज्ञापारमिता हृदय AI Draft"
+        },
+        "language": "hi",
+        "category_id": "rw8oWUd1WtwqeD2x0ZMSm",
+        "license": "CC0",
+        "copyright": "Public Domain",
+        "contributions": [],
+        "date": "2026-02-01",
+        "bdrc": ""
+      },
+      "segment_annotation": [
+        {
+          "span": {
+            "start": 0,
+            "end": 25
+          }
+        },
+        {
+          "span": {
+            "start": 25,
+            "end": 89
+          }
+        },
+        {
+          "span": {
+            "start": 89,
+            "end": 156
+          }
+        },
+        {
+          "span": {
+            "start": 156,
+            "end": 233
+          }
+        },
+        {
+          "span": {
+            "start": 233,
+            "end": 499
+          }
+        },
+        {
+          "span": {
+            "start": 499,
+            "end": 530
+          }
+        },
+        {
+          "span": {
+            "start": 530,
+            "end": 636
+          }
+        },
+        {
+          "span": {
+            "start": 636,
+            "end": 715
+          }
+        },
+        {
+          "span": {
+            "start": 715,
+            "end": 821
+          }
+        },
+        {
+          "span": {
+            "start": 821,
+            "end": 893
+          }
+        },
+        {
+          "span": {
+            "start": 893,
+            "end": 987
+          }
+        },
+        {
+          "span": {
+            "start": 987,
+            "end": 1471
+          }
+        },
+        {
+          "span": {
+            "start": 1471,
+            "end": 1503
+          }
+        },
+        {
+          "span": {
+            "start": 1503,
+            "end": 1568
+          }
+        },
+        {
+          "span": {
+            "start": 1568,
+            "end": 1648
+          }
+        },
+        {
+          "span": {
+            "start": 1648,
+            "end": 2096
+          }
+        },
+        {
+          "span": {
+            "start": 2096,
+            "end": 2164
+          }
+        },
+        {
+          "span": {
+            "start": 2164,
+            "end": 2361
+          }
+        },
+        {
+          "span": {
+            "start": 2361,
+            "end": 2467
+          }
+        },
+        {
+          "span": {
+            "start": 2467,
+            "end": 2979
+          }
+        },
+        {
+          "span": {
+            "start": 2979,
+            "end": 3200
+          }
+        },
+        {
+          "span": {
+            "start": 3200,
+            "end": 3329
+          }
+        },
+        {
+          "span": {
+            "start": 3329,
+            "end": 3379
+          }
+        },
+        {
+          "span": {
+            "start": 3379,
+            "end": 3468
+          }
+        },
+        {
+          "span": {
+            "start": 3468,
+            "end": 3707
+          }
+        },
+        {
+          "span": {
+            "start": 3707,
+            "end": 3816
+          }
+        },
+        {
+          "span": {
+            "start": 3816,
+            "end": 3865
+          }
+        },
+        {
+          "span": {
+            "start": 3865,
+            "end": 4067
+          }
+        },
+        {
+          "span": {
+            "start": 4067,
+            "end": 4103
+          }
+        }
+      ],
+      "biblography_annotation": [],
+      "content": "भगवान प्रज्ञापारमिता हृदय॥ नमः सर्वज्ञाय ॥॥ संस्कृत भाषा में: भगवती प्रज्ञापारमिता हृदय ॥In Tibetan: The Heart of the Perfection of Wisdom, the भगवान Motherइस प्रकार मैंने सुना है।<span class=\"\\text-quotation-style\\\">प्रथम खंड</span>भगवान प्रज्ञापारमिता को नमस्कार करता हूँ। आधार स्वरूप सर्वज्ञता के अमनस्क ज्ञान को, मार्ग स्वरूप अनुत्पाद मार्ग के ज्ञान को, और फल स्वरूप बुद्धि से परे सर्वाकारज्ञता को नमस्कार करता हूँ। जो प्रज्ञापारमिता को नमस्कार करता है, वह सर्वज्ञता के ज्ञान को नमस्कार करता है।एवम् मया श्रुतम् एकस्मिन् समये।भगवान राजगृह नगर के गृद्धकूट पर्वत पर भिक्षुओं के विशाल संघ तथा बोधिसत्त्वों के महासंघ के साथ विराजमान थे।उस समय भगवान 'गहन प्रकाश' नामक धर्म पर्याय के समाधि में समान रूप से प्रवेश किए।फिर उस समय महाबोधिसत्त्व महासत्त्व आर्य अवलोकितेश्वर गहन प्रज्ञापारमिता के आचरण का विशेष अवलोकन कर रहे थे।इन पाँचों स्कंधों को भी स्वभाव से शून्य के रूप में गहराई से देखना चाहिए।तदनन्तर बुद्ध की शक्ति से, आयुष्मान शारिपुत्र ने महासत्त्व आर्य अवलोकितेश्वर से इस प्रकार कहा।'कुलपुत्र, जो कोई भी प्रज्ञापारमिता के गहन अभ्यास में प्रवेश करना चाहता है, उसे कैसे शिक्षा लेनी चाहिए?'ऐसा पूछे जाने पर, महाबोधिसत्त्व आर्य अवलोकितेश्वर ने आयुष्मान शारद्वतीपुत्र <span class=\"\\text-quotation-style\\\">शारिपुत्र</span> से इस प्रकार कहा:'शारिपुत्र, कोई भी कुलपुत्र या कुलपुत्री जो प्रज्ञापारमिता <span class=\"\\text-quotation-style\\\">शेरचिन</span> के गहन अभ्यास को करना चाहता/चाहती है, उसे इस प्रकार विचार करना/करनी चाहिए - पाँचों स्कंधों को स्वभाव से शून्य देखना चाहिए।'रूप शून्य है। शून्यता ही रूप है।रूप से शून्यता भिन्न नहीं है, और शून्यता से भी रूप भिन्न नहीं है।इसी प्रकार से, वेदना, संज्ञा, संस्कार और विज्ञान - ये सभी शून्य स्वभाव वाले हैं।हे शारिपुत्र, इसीलिए सभी धर्म शून्यता हैं। वे लक्षण-रहित हैं, अजन्मा हैं, अनिरुद्ध हैं, मल-रहित हैं, मल-विहीनता से भी रहित हैं, क्षय-रहित हैं और वृद्धि-रहित हैं।हे शारिपुत्र, इसीलिए शून्यता में रूप नहीं है, वेदना नहीं है, संज्ञा नहीं है, संस्कार नहीं हैं, विज्ञान नहीं है। चक्षु नहीं है, श्रोत्र नहीं है, घ्राण नहीं है, जिह्वा नहीं है, काय नहीं है, मन नहीं है। रूप नहीं है, शब्द नहीं है, गंध नहीं है, रस नहीं है, स्पर्श नहीं है, और धर्म भी नहीं है।न चक्षुर्धातु है, न मनोधातु है, और न ही मनोविज्ञानधातु तक कुछ भी है।न अविद्या है, न अविद्या का क्षय है। जरा-मरण नहीं है, और जरा-मरण का क्षय भी नहीं है। दुःख नहीं है, समुदय नहीं है, निरोध नहीं है, मार्ग नहीं है। ज्ञान नहीं है, प्राप्ति नहीं है, अप्राप्ति भी नहीं है।हे शारिपुत्र, इसलिए बोधिसत्त्वगण कुछ भी प्राप्त न होने के कारण प्रज्ञापारमिता पर निर्भर रहकर वास करते हैं।चित्त में कर्म, क्लेश और ज्ञान रूपी आवरण <span class=\"\\text-quotation-style\\\">क्लेशावरण और ज्ञेयावरण</span> न होने से भय का कोई कारण नहीं रहता है। साधक विपर्यास <span class=\"\\text-quotation-style\\\">भ्रांत दृष्टि</span> से पूरी तरह पार होकर, त्रिधातु के बंधनों से मुक्त होते हुए, ग्राह्य-ग्राहक <span class=\"\\text-quotation-style\\\">विषय-विषयी</span> के भ्रम को त्यागकर, अधिमुक्तिचर्या भूमि से दस आर्य भूमियों का क्रमशः अतिक्रमण करते हुए, अभिव्यक्ति, विचार और ध्यान से परे निर्वाण की पूर्णता को प्राप्त कर लेता है।तीनों कालों <span class=\"\\text-quotation-style\\\">भूत, वर्तमान और भविष्य</span> में विराजमान सभी बुद्ध भी प्रज्ञापारमिता का आश्रय लेकर अनुत्तर सम्यक संबोधि को पूर्णतया प्राप्त हुए हैं, प्राप्त कर रहे हैं और प्राप्त करेंगे।इसलिए प्रज्ञापारमिता मंत्र, महाविद्या मंत्र, अनुत्तर मंत्र, असमसम मंत्र, सर्वदुःख प्रशमन मंत्र, अमिथ्या होने से सत्य जानना चाहिए।इस प्रकार है: गते गते पारगते पारसंगते बोधि स्वाहा।हे शारिपुत्र, इस प्रकार बोधिसत्त्व महासत्त्व को गहन प्रज्ञापारमिता में शिक्षा लेनी चाहिए।तत्पश्चात भगवान बुद्ध 'गम्भीर प्रकाश' नामक समाधि से उठकर, बोधिसत्त्व महासत्त्व आर्य अवलोकितेश्वर को साधुकार प्रदान किए। तदुपरांत उन्होंने कहा, 'साधु, साधु, हे कुलपुत्र! शून्यता का स्वरूप निश्चय ही वैसा ही है जैसा तुमने प्रतिपादित किया है।'हे कुलपुत्र, यह ठीक वैसा ही है। जैसा तुमने उपदेश दिया है, उसी प्रकार गहन प्रज्ञापारमिता का अभ्यास करना चाहिए।इस प्रकार भगवान ने अपना वचन प्रदान करने के अनंतर।आयुष्मान शारिपुत्र और बोधिसत्त्व महासत्त्व अवलोकितेश्वर तथा वह सर्वविधयुक्त परिषद्, एवं देवता, मनुष्य, असुर और गंधर्वों सहित समस्त लोक अत्यंत हर्षित होकर भगवान के द्वारा प्रदत्त उपदेश की सादर स्तुति की।आर्य प्रज्ञापारमिता हृदय संपूर्ण है।",
+      "target_annotation": [
+        {
+          "start": 0,
+          "end": 54
+        },
+        {
+          "start": 54,
+          "end": 108
+        },
+        {
+          "start": 108,
+          "end": 172
+        },
+        {
+          "start": 172,
+          "end": 188
+        },
+        {
+          "start": 188,
+          "end": 245
+        },
+        {
+          "start": 245,
+          "end": 279
+        },
+        {
+          "start": 279,
+          "end": 418
+        },
+        {
+          "start": 418,
+          "end": 516
+        },
+        {
+          "start": 516,
+          "end": 656
+        },
+        {
+          "start": 656,
+          "end": 716
+        },
+        {
+          "start": 716,
+          "end": 846
+        },
+        {
+          "start": 846,
+          "end": 1305
+        },
+        {
+          "start": 1305,
+          "end": 1345
+        },
+        {
+          "start": 1345,
+          "end": 1416
+        },
+        {
+          "start": 1416,
+          "end": 1496
+        },
+        {
+          "start": 1496,
+          "end": 1646
+        },
+        {
+          "start": 1866,
+          "end": 1953
+        },
+        {
+          "start": 1953,
+          "end": 2131
+        },
+        {
+          "start": 2131,
+          "end": 2243
+        },
+        {
+          "start": 2243,
+          "end": 2339
+        },
+        {
+          "start": 2339,
+          "end": 2499
+        },
+        {
+          "start": 2499,
+          "end": 2733
+        },
+        {
+          "start": 2733,
+          "end": 2789
+        },
+        {
+          "start": 2789,
+          "end": 2890
+        },
+        {
+          "start": 2890,
+          "end": 3071
+        },
+        {
+          "start": 3071,
+          "end": 3180
+        },
+        {
+          "start": 3225,
+          "end": 3266
+        },
+        {
+          "start": 3266,
+          "end": 3508
+        },
+        {
+          "start": 3508,
+          "end": 3565
+        }
+      ],
+      "alignment_annotation": [
+        {
+          "start": 0,
+          "end": 25
+        },
+        {
+          "start": 25,
+          "end": 89
+        },
+        {
+          "start": 89,
+          "end": 156
+        },
+        {
+          "start": 156,
+          "end": 233
+        },
+        {
+          "start": 233,
+          "end": 499
+        },
+        {
+          "start": 499,
+          "end": 530
+        },
+        {
+          "start": 530,
+          "end": 636
+        },
+        {
+          "start": 636,
+          "end": 715
+        },
+        {
+          "start": 715,
+          "end": 821
+        },
+        {
+          "start": 821,
+          "end": 893
+        },
+        {
+          "start": 893,
+          "end": 987
+        },
+        {
+          "start": 987,
+          "end": 1471
+        },
+        {
+          "start": 1471,
+          "end": 1503
+        },
+        {
+          "start": 1503,
+          "end": 1568
+        },
+        {
+          "start": 1568,
+          "end": 1648
+        },
+        {
+          "start": 1648,
+          "end": 2096
+        },
+        {
+          "start": 2096,
+          "end": 2164
+        },
+        {
+          "start": 2164,
+          "end": 2361
+        },
+        {
+          "start": 2361,
+          "end": 2467
+        },
+        {
+          "start": 2467,
+          "end": 2979
+        },
+        {
+          "start": 2979,
+          "end": 3200
+        },
+        {
+          "start": 3200,
+          "end": 3329
+        },
+        {
+          "start": 3329,
+          "end": 3379
+        },
+        {
+          "start": 3379,
+          "end": 3468
+        },
+        {
+          "start": 3468,
+          "end": 3707
+        },
+        {
+          "start": 3707,
+          "end": 3816
+        },
+        {
+          "start": 3816,
+          "end": 3865
+        },
+        {
+          "start": 3865,
+          "end": 4067
+        },
+        {
+          "start": 4067,
+          "end": 4103
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "text_type": "translation",
+        "instance_type": "critical",
+        "source": "Kumarajiva",
+        "colophon": "《般若波羅蜜多心經》略稱《般若心經》、《心經》，本經是民間傳誦最廣、篇幅最短的經典，舉凡灑淨、消災、超薦等法會，都會讀誦此經。「心」之梵語為hṛdaya，心臟，指核心、精要、心髓等意，本經文句簡約而賅攝般若甚深廣大之義，得其心要，是600卷《大般若經》之濃縮、核心、精要。",
+        "incipit_title": {
+          "zh": "般若波罗蜜多心经 Modern Chinese"
+        },
+        "language": "zh",
+        "category_id": "rw8oWUd1WtwqeD2x0ZMSm",
+        "license": "CC0",
+        "copyright": "Public Domain",
+        "contributions": [],
+        "date": "2026-02-01",
+        "bdrc": ""
+      },
+      "segment_annotation": [
+        {
+          "span": {
+            "start": 0,
+            "end": 136
+          }
+        },
+        {
+          "span": {
+            "start": 136,
+            "end": 158
+          }
+        },
+        {
+          "span": {
+            "start": 158,
+            "end": 192
+          }
+        },
+        {
+          "span": {
+            "start": 192,
+            "end": 196
+          }
+        },
+        {
+          "span": {
+            "start": 196,
+            "end": 220
+          }
+        },
+        {
+          "span": {
+            "start": 220,
+            "end": 233
+          }
+        },
+        {
+          "span": {
+            "start": 233,
+            "end": 283
+          }
+        },
+        {
+          "span": {
+            "start": 283,
+            "end": 347
+          }
+        },
+        {
+          "span": {
+            "start": 347,
+            "end": 366
+          }
+        },
+        {
+          "span": {
+            "start": 366,
+            "end": 464
+          }
+        },
+        {
+          "span": {
+            "start": 464,
+            "end": 498
+          }
+        },
+        {
+          "span": {
+            "start": 498,
+            "end": 541
+          }
+        },
+        {
+          "span": {
+            "start": 541,
+            "end": 591
+          }
+        },
+        {
+          "span": {
+            "start": 591,
+            "end": 691
+          }
+        },
+        {
+          "span": {
+            "start": 691,
+            "end": 715
+          }
+        }
+      ],
+      "biblography_annotation": [],
+      "content": "《般若波羅蜜多心經》略稱《般若心經》、《心經》，本經是民間傳誦最廣、篇幅最短的經典，舉凡灑淨、消災、超薦等法會，都會讀誦此經。「心」之梵語為hṛdaya，心臟，指核心、精要、心髓等意，本經文句簡約而賅攝般若甚深廣大之義，得其心要，是600卷《大般若經》之濃縮、核心、精要。觀自在菩薩正在修行甚深的般若波羅蜜多的時候，觀照看見五蘊的自性都是空的（沒有實體），因此超越了一切的苦惱與災厄。舍利弗！色不相異於空，空不相異於色；色就是空，空就是色。受、想、行、識，也是如此。舍利弗！這一切法是空性的相狀：〔它們是〕不生起的、不消滅的，不垢染的、不清淨的，不增加的、不減少的。因此，在空性中沒有色，沒有受、想、行、識〔等五蘊〕；沒有眼、耳、鼻、舌、身、意〔等六根〕；沒有色、聲、香、味、觸、法〔等六境〕；沒有眼界、……沒有意識界〔等十八界〕。〔在空性中，〕沒有無明，也沒有無明的滅盡；……沒有老死〔等十二因緣的流轉〕，也沒有老死的滅盡〔等十二因緣的還滅〕。沒有苦、集、滅、道〔等四聖諦〕；沒有〔能證得的〕智慧，也沒有所〔證〕得〔的果位〕。因為無所得的緣故，菩提薩埵（即菩薩）依止般若波羅蜜多〔而住〕的緣故，心沒有障礙；因為心沒有障礙的緣故，沒有恐怖，遠離顛倒妄想，〔達到〕究竟的涅槃〔境界〕。三世（過去、現在、未來）的一切諸佛依止般若波羅蜜多的緣故，而證得阿耨多羅三藐三菩提（無上正等正覺）。因此，應當了知：般若波羅蜜多，是偉大神祕的咒語，是大明智的咒語，是無上的咒語，是無與倫比的咒語，能滅除一切苦〔的咒語〕，是真實的，因為不虛妄的緣故。在般若波羅蜜多中所說的咒語，就是說了〔這樣的〕咒語：揭帝．揭帝．般羅揭帝．般羅僧揭帝．菩提．僧莎訶。",
+      "target_annotation": [
+        {
+          "start": 0,
+          "end": 54
+        },
+        {
+          "start": 516,
+          "end": 656
+        },
+        {
+          "start": 656,
+          "end": 716
+        },
+        {
+          "start": 716,
+          "end": 846
+        },
+        {
+          "start": 1305,
+          "end": 1345
+        },
+        {
+          "start": 1416,
+          "end": 1496
+        },
+        {
+          "start": 1496,
+          "end": 1646
+        },
+        {
+          "start": 1646,
+          "end": 1866
+        },
+        {
+          "start": 1866,
+          "end": 1953
+        },
+        {
+          "start": 1953,
+          "end": 2131
+        },
+        {
+          "start": 2131,
+          "end": 2243
+        },
+        {
+          "start": 2243,
+          "end": 2339
+        },
+        {
+          "start": 2339,
+          "end": 2499
+        },
+        {
+          "start": 2499,
+          "end": 2733
+        },
+        {
+          "start": 2733,
+          "end": 2789
+        }
+      ],
+      "alignment_annotation": [
+        {
+          "start": 0,
+          "end": 136
+        },
+        {
+          "start": 136,
+          "end": 158
+        },
+        {
+          "start": 158,
+          "end": 192
+        },
+        {
+          "start": 192,
+          "end": 196
+        },
+        {
+          "start": 196,
+          "end": 220
+        },
+        {
+          "start": 220,
+          "end": 233
+        },
+        {
+          "start": 233,
+          "end": 283
+        },
+        {
+          "start": 283,
+          "end": 347
+        },
+        {
+          "start": 347,
+          "end": 366
+        },
+        {
+          "start": 366,
+          "end": 464
+        },
+        {
+          "start": 464,
+          "end": 498
+        },
+        {
+          "start": 498,
+          "end": 541
+        },
+        {
+          "start": 541,
+          "end": 591
+        },
+        {
+          "start": 591,
+          "end": 691
+        },
+        {
+          "start": 691,
+          "end": 715
+        }
+      ]
+    }
+  ]
+}

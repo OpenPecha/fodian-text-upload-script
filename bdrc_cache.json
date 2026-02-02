@@ -1,0 +1,139 @@
+[
+  {
+    "index": 0,
+    "bdrc": "WA0RK0225",
+    "exists": true,
+    "status": 200,
+    "message": "these bdrc are already present",
+    "metadata": {
+      "bdrc": "WA0RK0225",
+      "wiki": null,
+      "type": "none",
+      "contributions": [],
+      "date": "2026-01-30",
+      "title": {
+        "bo": "གསུམ་ལ་སྐྱབས་སུ་འགྲོ་བའི་མདོ།",
+        "en": "The Mahayana Sutra on the Noble Three Refuges"
+      },
+      "alt_titles": null,
+      "language": "bo",
+      "target": null,
+      "category_id": "rw8oWUd1WtwqeD2x0ZMSm",
+      "copyright": "Public domain",
+      "license": "CC0",
+      "id": "NOq11jzXf83XUb2Nm9qhb"
+    }
+  },
+  {
+    "index": 1,
+    "bdrc": "WA0RK0247",
+    "exists": false,
+    "status": 404,
+    "message": null,
+    "metadata": null
+  },
+  {
+    "index": 2,
+    "bdrc": "WA0RK0328",
+    "exists": false,
+    "status": 404,
+    "message": null,
+    "metadata": null
+  },
+  {
+    "index": 3,
+    "bdrc": "WA0RK0282",
+    "exists": false,
+    "status": 404,
+    "message": null,
+    "metadata": null
+  },
+  {
+    "index": 4,
+    "bdrc": "WA0RK0346",
+    "exists": false,
+    "status": 404,
+    "message": null,
+    "metadata": null
+  },
+  {
+    "index": 5,
+    "bdrc": "WA0RK0158",
+    "exists": false,
+    "status": 404,
+    "message": null,
+    "metadata": null
+  },
+  {
+    "index": 6,
+    "bdrc": "WA0RK0249",
+    "exists": false,
+    "status": 404,
+    "message": null,
+    "metadata": null
+  },
+  {
+    "index": 7,
+    "bdrc": "WA0RK0137",
+    "exists": false,
+    "status": 404,
+    "message": null,
+    "metadata": null
+  },
+  {
+    "index": 8,
+    "bdrc": "WA0RK0312",
+    "exists": false,
+    "status": 404,
+    "message": null,
+    "metadata": null
+  },
+  {
+    "index": 9,
+    "bdrc": "WA0RK0212",
+    "exists": false,
+    "status": 404,
+    "message": null,
+    "metadata": null
+  },
+  {
+    "index": 10,
+    "bdrc": "WA0RK0224",
+    "exists": false,
+    "status": 404,
+    "message": null,
+    "metadata": null
+  },
+  {
+    "index": 11,
+    "bdrc": "WA0RK0150",
+    "exists": false,
+    "status": 404,
+    "message": null,
+    "metadata": null
+  },
+  {
+    "index": 12,
+    "bdrc": "WA0RK0214",
+    "exists": false,
+    "status": 404,
+    "message": null,
+    "metadata": null
+  },
+  {
+    "index": 13,
+    "bdrc": "WA0RK0044",
+    "exists": false,
+    "status": 404,
+    "message": null,
+    "metadata": null
+  },
+  {
+    "index": 14,
+    "bdrc": "WA0RK0158",
+    "exists": false,
+    "status": 404,
+    "message": null,
+    "metadata": null
+  }
+]
