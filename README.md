@@ -23,7 +23,7 @@ Check all folders:
 ```bash
 python text_separater/bdrc_checker.py --all --input-root "/home/lungsang/Desktop/fodian_text_upload_task/input_json"
 ```
-Save results for reuse: *********
+Save results for reuse: ***********************************
 ```bash
 python text_separater/bdrc_checker.py --all --input-root "/home/lungsang/Desktop/fodian_text_upload_task/input_json" --output "/home/lungsang/Desktop/fodian_text_upload_task/bdrc_cache.json"
 ```
@@ -39,8 +39,8 @@ Upload all folders:
 python text_separater/text_upload.py --all --input-root "/home/lungsang/Desktop/fodian_text_upload_task/input_json" --skip-existing-bdrc
 ```
 
-Use saved BDRC results (avoid API lookups when skipping existing):
-```bash **********
+Use saved BDRC results (avoid API lookups when skipping existing): ***************************
+```bash 
 python text_separater/text_upload.py --all --input-root "/home/lungsang/Desktop/fodian_text_upload_task/input_json" --skip-existing-bdrc --bdrc-cache "/home/lungsang/Desktop/fodian_text_upload_task/bdrc_cache.json"
 ```
 
@@ -65,7 +65,7 @@ Run (single file):
 python text_separater/translation_upload.py --input /path/to/translation_plan.json
 ```
 
-Run (all folders):
+Run (all folders): *******************************************
 ```bash
 for payload in "/home/lungsang/Desktop/fodian_text_upload_task/input_json"/*/translation_payloads.json; do \
   python text_separater/translation_upload.py --input "$payload"; \
