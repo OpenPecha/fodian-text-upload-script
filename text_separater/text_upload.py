@@ -280,8 +280,10 @@ def main() -> None:
             payload = load_json(instance_path)
             if not isinstance(payload, dict):
                 raise SystemExit(f"Expected an object in {instance_path}.")
-            payload["instance_id"] = instance_id
-            write_json_file(instance_path, payload)
+            payload_without_id = {key: value for key, value in payload.items() if key != "instance_id"}
+            updated_payload = {"instance_id": instance_id, **payload_without_id}
+            write_json_file(instance_path, updated_payload)
+            log(f"Wrote instance_id to {instance_path}")
 
         translation_path = os.path.join(folder_path, "translation_payloads.json")
         if not os.path.exists(translation_path):
@@ -293,10 +295,11 @@ def main() -> None:
         for entry in payload:
             if not isinstance(entry, dict):
                 raise SystemExit(f"Invalid translation entry in {translation_path}.")
-            if "instance_id" not in entry:
+            if not entry.get("instance_id"):
                 entry = {**entry, "instance_id": instance_id}
             updated.append(entry)
         write_json_file(translation_path, updated)
+        log(f"Wrote instance_id to {translation_path}")
 
     upload_plan: List[Dict[str, Any]] = []
     if args.input:
